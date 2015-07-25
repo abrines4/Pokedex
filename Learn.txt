@@ -1,0 +1,5222 @@
+attackName(TM/HM)	pokemonName
+Toxic	Bulbasaur
+Venoshock	Bulbasaur
+Hidden Power	Bulbasaur
+Sunny Day	Bulbasaur
+Light Screen	Bulbasaur
+Protect	Bulbasaur
+Safeguard	Bulbasaur
+Frustration	Bulbasaur
+Solar Beam	Bulbasaur
+Return	Bulbasaur
+Double Team	Bulbasaur
+Sludge Bomb	Bulbasaur
+Facade	Bulbasaur
+Rest	Bulbasaur
+Attract	Bulbasaur
+Round	Bulbasaur
+Echoed Voice	Bulbasaur
+Energy Ball	Bulbasaur
+Flash	Bulbasaur
+Swords Dance	Bulbasaur
+Grass Knot	Bulbasaur
+Swagger	Bulbasaur
+Sleep Talk	Bulbasaur
+Substitute	Bulbasaur
+Rock SmashXY	Bulbasaur
+Secret PowerORAS	Bulbasaur
+Nature Power	Bulbasaur
+Confide	Bulbasaur
+Cut	Bulbasaur
+Strength	Bulbasaur
+Rock SmashORAS	Bulbasaur
+Strength	Bulbasaur
+Rock SmashORAS	Bulbasaur
+Toxic	Ivysaur
+Venoshock	Ivysaur
+Hidden Power	Ivysaur
+Sunny Day	Ivysaur
+Light Screen	Ivysaur
+Protect	Ivysaur
+Safeguard	Ivysaur
+Frustration	Ivysaur
+Solar Beam	Ivysaur
+Return	Ivysaur
+Double Team	Ivysaur
+Sludge Bomb	Ivysaur
+Facade	Ivysaur
+Rest	Ivysaur
+Attract	Ivysaur
+Round	Ivysaur
+Echoed Voice	Ivysaur
+Energy Ball	Ivysaur
+Flash	Ivysaur
+Swords Dance	Ivysaur
+Grass Knot	Ivysaur
+Swagger	Ivysaur
+Sleep Talk	Ivysaur
+Substitute	Ivysaur
+Rock SmashXY	Ivysaur
+Secret PowerORAS	Ivysaur
+Nature Power	Ivysaur
+Confide	Ivysaur
+Cut	Ivysaur
+Strength	Ivysaur
+Rock SmashORAS	Ivysaur
+Roar	Venusaur?
+Toxic	Venusaur?
+Venoshock	Venusaur?
+Hidden Power	Venusaur?
+Sunny Day	Venusaur?
+Hyper Beam	Venusaur?
+Light Screen	Venusaur?
+Protect	Venusaur?
+Safeguard	Venusaur?
+Frustration	Venusaur?
+Solar Beam	Venusaur?
+Earthquake	Venusaur?
+Return	Venusaur?
+Double Team	Venusaur?
+Sludge Bomb	Venusaur?
+Facade	Venusaur?
+Rest	Venusaur?
+Attract	Venusaur?
+Round	Venusaur?
+Echoed Voice	Venusaur?
+Energy Ball	Venusaur?
+Giga Impact	Venusaur?
+Flash	Venusaur?
+Swords Dance	Venusaur?
+Bulldoze	Venusaur?
+Grass Knot	Venusaur?
+Swagger	Venusaur?
+Sleep Talk	Venusaur?
+Substitute	Venusaur?
+Rock SmashXY	Venusaur?
+Secret PowerORAS	Venusaur?
+Nature Power	Venusaur?
+Confide	Venusaur?
+Cut	Venusaur?
+Strength	Venusaur?
+Rock SmashORAS	Venusaur?
+Hone Claws	Charmander?
+Dragon Claw	Charmander?
+Toxic	Charmander?
+Hidden Power	Charmander?
+Sunny Day	Charmander?
+Protect	Charmander?
+Frustration	Charmander?
+Return	Charmander?
+Dig	Charmander?
+Brick Break	Charmander?
+Double Team	Charmander?
+Flamethrower	Charmander?
+Fire Blast	Charmander?
+Rock Tomb	Charmander?
+Aerial Ace	Charmander?
+Facade	Charmander?
+Flame Charge	Charmander?
+Rest	Charmander?
+Attract	Charmander?
+Round	Charmander?
+Echoed Voice	Charmander?
+Overheat	Charmander?
+Fling	Charmander?
+Incinerate	Charmander?
+Will-O-Wisp	Charmander?
+Shadow Claw	Charmander?
+Swords Dance	Charmander?
+Rock Slide	Charmander?
+Swagger	Charmander?
+Sleep Talk	Charmander?
+Substitute	Charmander?
+Rock SmashXY	Charmander?
+Secret PowerORAS	Charmander?
+Power-Up Punch	Charmander?
+Confide	Charmander?
+Cut	Charmander?
+Strength	Charmander?
+Rock SmashORAS	Charmander?
+Hone Claws	Charmeleon
+Dragon Claw	Charmeleon
+Toxic	Charmeleon
+Hidden Power	Charmeleon
+Sunny Day	Charmeleon
+Protect	Charmeleon
+Frustration	Charmeleon
+Return	Charmeleon
+Dig	Charmeleon
+Brick Break	Charmeleon
+Double Team	Charmeleon
+Flamethrower	Charmeleon
+Fire Blast	Charmeleon
+Rock Tomb	Charmeleon
+Aerial Ace	Charmeleon
+Facade	Charmeleon
+Flame Charge	Charmeleon
+Rest	Charmeleon
+Attract	Charmeleon
+Round	Charmeleon
+Echoed Voice	Charmeleon
+Overheat	Charmeleon
+Fling	Charmeleon
+Incinerate	Charmeleon
+Will-O-Wisp	Charmeleon
+Shadow Claw	Charmeleon
+Swords Dance	Charmeleon
+Rock Slide	Charmeleon
+Swagger	Charmeleon
+Sleep Talk	Charmeleon
+Substitute	Charmeleon
+Rock SmashXY	Charmeleon
+Secret PowerORAS	Charmeleon
+Power-Up Punch	Charmeleon
+Confide	Charmeleon
+Cut	Charmeleon
+Strength	Charmeleon
+Rock SmashORAS	Charmeleon
+Hone Claws	Charizard
+Dragon Claw	Charizard
+Roar	Charizard
+Toxic	Charizard
+Hidden Power	Charizard
+Sunny Day	Charizard
+Hyper Beam	Charizard
+Protect	Charizard
+Roost	Charizard
+Frustration	Charizard
+Solar Beam	Charizard
+Earthquake	Charizard
+Return	Charizard
+Dig	Charizard
+Brick Break	Charizard
+Double Team	Charizard
+Flamethrower	Charizard
+Fire Blast	Charizard
+Rock Tomb	Charizard
+Aerial Ace	Charizard
+Facade	Charizard
+Flame Charge	Charizard
+Rest	Charizard
+Attract	Charizard
+Round	Charizard
+Echoed Voice	Charizard
+Overheat	Charizard
+Steel Wing	Charizard
+Focus Blast	Charizard
+Fling	Charizard
+Sky Drop	Charizard
+Incinerate	Charizard
+Will-O-Wisp	Charizard
+Shadow Claw	Charizard
+Giga Impact	Charizard
+Swords Dance	Charizard
+Bulldoze	Charizard
+Rock Slide	Charizard
+Dragon Tail	Charizard
+Swagger	Charizard
+Sleep Talk	Charizard
+Substitute	Charizard
+Rock SmashXY	Charizard
+Secret PowerORAS	Charizard
+Power-Up Punch	Charizard
+Confide	Charizard
+Cut	Charizard
+Fly	Charizard
+Strength	Charizard
+Rock SmashORAS	Charizard
+Toxic	Squirtle
+Hail	Squirtle
+Hidden Power	Squirtle
+Ice Beam	Squirtle
+Blizzard	Squirtle
+Protect	Squirtle
+Rain Dance	Squirtle
+Frustration	Squirtle
+Return	Squirtle
+Dig	Squirtle
+Brick Break	Squirtle
+Double Team	Squirtle
+Rock Tomb	Squirtle
+Facade	Squirtle
+Rest	Squirtle
+Attract	Squirtle
+Round	Squirtle
+Scald	Squirtle
+Fling	Squirtle
+Gyro Ball	Squirtle
+Swagger	Squirtle
+Sleep Talk	Squirtle
+Substitute	Squirtle
+Rock SmashXY	Squirtle
+Secret PowerORAS	Squirtle
+Power-Up Punch	Squirtle
+Confide	Squirtle
+Surf	Squirtle
+Strength	Squirtle
+Waterfall	Squirtle
+Rock SmashORAS	Squirtle
+DiveORAS	Squirtle
+Toxic	Wartortle?
+Hail	Wartortle?
+Hidden Power	Wartortle?
+Ice Beam	Wartortle?
+Blizzard	Wartortle?
+Protect	Wartortle?
+Rain Dance	Wartortle?
+Frustration	Wartortle?
+Return	Wartortle?
+Dig	Wartortle?
+Brick Break	Wartortle?
+Double Team	Wartortle?
+Rock Tomb	Wartortle?
+Facade	Wartortle?
+Rest	Wartortle?
+Attract	Wartortle?
+Round	Wartortle?
+Scald	Wartortle?
+Fling	Wartortle?
+Gyro Ball	Wartortle?
+Swagger	Wartortle?
+Sleep Talk	Wartortle?
+Substitute	Wartortle?
+Rock SmashXY	Wartortle?
+Secret PowerORAS	Wartortle?
+Power-Up Punch	Wartortle?
+Confide	Wartortle?
+Surf	Wartortle?
+Strength	Wartortle?
+Waterfall	Wartortle?
+Rock SmashORAS	Wartortle?
+DiveORAS	Wartortle?
+Roar	Blastoise
+Toxic	Blastoise
+Hail	Blastoise
+Hidden Power	Blastoise
+Ice Beam	Blastoise
+Blizzard	Blastoise
+Hyper Beam	Blastoise
+Protect	Blastoise
+Rain Dance	Blastoise
+Frustration	Blastoise
+Smack Down	Blastoise
+Earthquake	Blastoise
+Return	Blastoise
+Dig	Blastoise
+Brick Break	Blastoise
+Double Team	Blastoise
+Rock Tomb	Blastoise
+Facade	Blastoise
+Rest	Blastoise
+Attract	Blastoise
+Round	Blastoise
+Focus Blast	Blastoise
+Scald	Blastoise
+Fling	Blastoise
+Giga Impact	Blastoise
+Gyro Ball	Blastoise
+Bulldoze	Blastoise
+Rock Slide	Blastoise
+Dragon Tail	Blastoise
+Swagger	Blastoise
+Sleep Talk	Blastoise
+Substitute	Blastoise
+Flash Cannon	Blastoise
+Rock SmashXY	Blastoise
+Secret PowerORAS	Blastoise
+Dark Pulse	Blastoise
+Power-Up Punch	Blastoise
+Confide	Blastoise
+Surf	Blastoise
+Strength	Blastoise
+Waterfall	Blastoise
+Rock SmashORAS	Blastoise
+DiveORAS	Blastoise
+Toxic	Caterpie
+Venoshock	Caterpie
+Hidden Power	Caterpie
+Sunny Day	Metapod
+Hyper Beam	Metapod
+Protect	Butterfree
+Rain Dance	Butterfree
+Roost	Butterfree
+Safeguard	Butterfree
+Frustration	Butterfree
+Solar Beam	Butterfree
+Return	Butterfree
+Psychic	Butterfree
+Shadow Ball	Butterfree
+Double Team	Butterfree
+Aerial Ace	Butterfree
+Facade	Butterfree
+Rest	Butterfree
+Attract	Butterfree
+Thief	Butterfree
+Round	Butterfree
+Energy Ball	Butterfree
+Acrobatics	Butterfree
+Giga Impact	Butterfree
+Flash	Butterfree
+Struggle Bug	Butterfree
+Psych Up	Butterfree
+Infestation	Butterfree
+Dream Eater	Butterfree
+Swagger	Butterfree
+Sleep Talk	Butterfree
+U-turn	Butterfree
+Substitute	Butterfree
+Secret PowerORAS	Butterfree
+Confide	Butterfree
+	Weedle
+	Weedle
+	Weedle
+	Kakuna
+	Kakuna
+Toxic	Beedrill
+Venoshock	Beedrill
+Hidden Power	Beedrill
+Sunny Day	Beedrill
+Hyper Beam	Beedrill
+Protect	Beedrill
+Roost	Beedrill
+Frustration	Beedrill
+Solar Beam	Beedrill
+Return	Beedrill
+Brick Break	Beedrill
+Double Team	Beedrill
+Sludge Bomb	Beedrill
+Aerial Ace	Beedrill
+Facade	Beedrill
+Rest	Beedrill
+Attract	Beedrill
+Thief	Beedrill
+Round	Beedrill
+False Swipe	Beedrill
+Acrobatics	Beedrill
+Payback	Beedrill
+Giga Impact	Beedrill
+Flash	Beedrill
+Swords Dance	Beedrill
+Struggle Bug	Beedrill
+X-Scissor	Beedrill
+Infestation	Beedrill
+Poison Jab	Beedrill
+Swagger	Beedrill
+Sleep Talk	Beedrill
+U-turn	Beedrill
+Substitute	Beedrill
+Rock SmashXY	Beedrill
+Secret PowerORAS	Beedrill
+Confide	Beedrill
+Cut	Beedrill
+Rock SmashORAS	Beedrill
+Toxic	Pidgey
+Hidden Power	Pidgey
+Sunny Day	Pidgey
+Protect	Pidgey
+Rain Dance	Pidgey
+Roost	Pidgey
+Frustration	Pidgey
+Return	Pidgey
+Double Team	Pidgey
+Aerial Ace	Pidgey
+Facade	Pidgey
+Rest	Pidgey
+Attract	Pidgey
+Thief	Pidgey
+Round	Pidgey
+Steel Wing	Pidgey
+Swagger	Pidgey
+Sleep Talk	Pidgey
+U-turn	Pidgey
+Substitute	Pidgey
+Secret PowerORAS	Pidgey
+Confide	Pidgey
+Fly	Pidgey
+Toxic	Pidgeotto
+Hidden Power	Pidgeotto
+Sunny Day	Pidgeotto
+Protect	Pidgeotto
+Rain Dance	Pidgeotto
+Roost	Pidgeotto
+Frustration	Pidgeotto
+Return	Pidgeotto
+Double Team	Pidgeotto
+Aerial Ace	Pidgeotto
+Facade	Pidgeotto
+Rest	Pidgeotto
+Attract	Pidgeotto
+Thief	Pidgeotto
+Round	Pidgeotto
+Steel Wing	Pidgeotto
+Swagger	Pidgeotto
+Sleep Talk	Pidgeotto
+U-turn	Pidgeotto
+Substitute	Pidgeotto
+Secret PowerORAS	Pidgeotto
+Confide	Pidgeotto
+Fly	Pidgeotto
+Toxic	Pidgeot
+Hidden Power	Pidgeot
+Sunny Day	Pidgeot
+Hyper Beam	Pidgeot
+Protect	Pidgeot
+Rain Dance	Pidgeot
+Roost	Pidgeot
+Frustration	Pidgeot
+Return	Pidgeot
+Double Team	Pidgeot
+Aerial Ace	Pidgeot
+Facade	Pidgeot
+Rest	Pidgeot
+Attract	Pidgeot
+Thief	Pidgeot
+Round	Pidgeot
+Steel Wing	Pidgeot
+Giga Impact	Pidgeot
+Swagger	Pidgeot
+Sleep Talk	Pidgeot
+U-turn	Pidgeot
+Substitute	Pidgeot
+Secret PowerORAS	Pidgeot
+Confide	Pidgeot
+Fly	Pidgeot
+Toxic	Rattata
+Hidden Power	Rattata
+Sunny Day	Rattata
+Taunt	Rattata
+Ice Beam	Rattata
+Blizzard	Rattata
+Protect	Rattata
+Rain Dance	Rattata
+Frustration	Rattata
+Thunderbolt	Rattata
+Thunder	Rattata
+Return	Rattata
+Dig	Rattata
+Shadow Ball	Rattata
+Double Team	Rattata
+Facade	Rattata
+Rest	Rattata
+Attract	Rattata
+Thief	Rattata
+Round	Rattata
+Charge Beam	Rattata
+Thunder Wave	Rattata
+Grass Knot	Rattata
+Swagger	Rattata
+Sleep Talk	Rattata
+U-turn	Rattata
+Substitute	Rattata
+Rock SmashXY	Rattata
+Secret PowerORAS	Rattata
+Confide	Rattata
+Cut	Rattata
+Rock SmashORAS	Rattata
+Roar	Raticate
+Toxic	Raticate
+Hidden Power	Raticate
+Sunny Day	Raticate
+Taunt	Raticate
+Ice Beam	Raticate
+Blizzard	Raticate
+Hyper Beam	Raticate
+Protect	Raticate
+Rain Dance	Raticate
+Frustration	Raticate
+Thunderbolt	Raticate
+Thunder	Raticate
+Return	Raticate
+Dig	Raticate
+Shadow Ball	Raticate
+Double Team	Raticate
+Facade	Raticate
+Rest	Raticate
+Attract	Raticate
+Thief	Raticate
+Round	Raticate
+Charge Beam	Raticate
+Retaliate	Raticate
+Giga Impact	Raticate
+Thunder Wave	Raticate
+Swords Dance	Raticate
+Grass Knot	Raticate
+Swagger	Raticate
+Sleep Talk	Raticate
+U-turn	Raticate
+Substitute	Raticate
+Wild Charge	Raticate
+Rock SmashXY	Raticate
+Secret PowerORAS	Raticate
+Confide	Raticate
+Cut	Raticate
+Strength	Raticate
+Rock SmashORAS	Raticate
+Toxic	Spearow
+Hidden Power	Spearow
+Sunny Day	Spearow
+Protect	Spearow
+Rain Dance	Spearow
+Roost	Spearow
+Frustration	Spearow
+Return	Spearow
+Double Team	Spearow
+Aerial Ace	Spearow
+Facade	Spearow
+Rest	Spearow
+Attract	Spearow
+Thief	Spearow
+Round	Spearow
+Echoed Voice	Spearow
+Steel Wing	Spearow
+False Swipe	Spearow
+Swagger	Spearow
+Sleep Talk	Spearow
+U-turn	Spearow
+Substitute	Spearow
+Secret PowerORAS	Spearow
+Confide	Spearow
+Fly	Spearow
+Toxic	Fearow
+Hidden Power	Fearow
+Sunny Day	Fearow
+Hyper Beam	Fearow
+Protect	Fearow
+Rain Dance	Fearow
+Roost	Fearow
+Frustration	Fearow
+Return	Fearow
+Double Team	Fearow
+Aerial Ace	Fearow
+Facade	Fearow
+Rest	Fearow
+Attract	Fearow
+Thief	Fearow
+Round	Fearow
+Echoed Voice	Fearow
+Steel Wing	Fearow
+False Swipe	Fearow
+Giga Impact	Fearow
+Swagger	Fearow
+Sleep Talk	Fearow
+U-turn	Fearow
+Substitute	Fearow
+Secret PowerORAS	Fearow
+Confide	Fearow
+Fly	Fearow
+Toxic	Ekans
+Sunny Day	Ekans
+Protect	Ekans
+Double Team	Ekans
+Torment	Ekans
+Rest	Ekans
+Attract	Ekans
+Swagger	Ekans
+Sleep Talk	Ekans
+Substitute	Ekans
+Confide	Ekans
+Venoshock	Ekans
+Hidden Power	Ekans
+Sludge Wave	Ekans
+Sludge Bomb	Ekans
+Round	Ekans
+Infestation	Ekans
+Dark Pulse	Ekans
+Frustration	Ekans
+Earthquake	Ekans
+Return	Ekans
+Dig	Ekans
+Rock Tomb	Ekans
+Facade	Ekans
+Thief	Ekans
+Payback	Ekans
+Bulldoze	Ekans
+Rock Slide	Ekans
+Poison Jab	Ekans
+Secret PowerORAS	Ekans
+Strength	Ekans
+Toxic	Arbok
+Venoshock	Arbok
+Hidden Power	Arbok
+Sunny Day	Arbok
+Hyper Beam	Arbok
+Protect	Arbok
+Frustration	Arbok
+Earthquake	Arbok
+Return	Arbok
+Dig	Arbok
+Double Team	Arbok
+Sludge Wave	Arbok
+Sludge Bomb	Arbok
+Rock Tomb	Arbok
+Torment	Arbok
+Facade	Arbok
+Rest	Arbok
+Attract	Arbok
+Thief	Arbok
+Round	Arbok
+Payback	Arbok
+Giga Impact	Arbok
+Bulldoze	Arbok
+Rock Slide	Arbok
+Dragon Tail	Arbok
+Infestation	Arbok
+Poison Jab	Arbok
+Swagger	Arbok
+Sleep Talk	Arbok
+Substitute	Arbok
+Secret PowerORAS	Arbok
+Dark Pulse	Arbok
+Confide	Arbok
+Strength	Arbok
+Toxic	Pikachu
+Hidden Power	Pikachu
+Light Screen	Pikachu
+Protect	Pikachu
+Rain Dance	Pikachu
+Frustration	Pikachu
+Thunderbolt	Pikachu
+Thunder	Pikachu
+Return	Pikachu
+Dig	Pikachu
+Brick Break	Pikachu
+Double Team	Pikachu
+Facade	Pikachu
+Rest	Pikachu
+Attract	Pikachu
+Round	Pikachu
+Echoed Voice	Pikachu
+Fling	Pikachu
+Charge Beam	Pikachu
+Flash	Pikachu
+Volt Switch	Pikachu
+Thunder Wave	Pikachu
+Grass Knot	Pikachu
+Swagger	Pikachu
+Sleep Talk	Pikachu
+Substitute	Pikachu
+Wild Charge	Pikachu
+Rock SmashXY	Pikachu
+Secret PowerORAS	Pikachu
+Confide	Pikachu
+Strength	Pikachu
+Rock SmashORAS	Pikachu
+Toxic	Raichu
+Hidden Power	Raichu
+Hyper Beam	Raichu
+Light Screen	Raichu
+Protect	Raichu
+Rain Dance	Raichu
+Frustration	Raichu
+Thunderbolt	Raichu
+Thunder	Raichu
+Return	Raichu
+Dig	Raichu
+Brick Break	Raichu
+Double Team	Raichu
+Facade	Raichu
+Rest	Raichu
+Attract	Raichu
+Thief	Raichu
+Round	Raichu
+Echoed Voice	Raichu
+Focus Blast	Raichu
+Fling	Raichu
+Charge Beam	Raichu
+Giga Impact	Raichu
+Flash	Raichu
+Volt Switch	Raichu
+Thunder Wave	Raichu
+Grass Knot	Raichu
+Swagger	Raichu
+Sleep Talk	Raichu
+Substitute	Raichu
+Wild Charge	Raichu
+Rock SmashXY	Raichu
+Secret PowerORAS	Raichu
+Confide	Raichu
+Strength	Raichu
+Rock SmashORAS	Raichu
+Hone Claws	Sandshrew
+Toxic	Sandshrew
+Hidden Power	Sandshrew
+Sunny Day	Sandshrew
+Protect	Sandshrew
+Safeguard	Sandshrew
+Frustration	Sandshrew
+Earthquake	Sandshrew
+Return	Sandshrew
+Dig	Sandshrew
+Brick Break	Sandshrew
+Double Team	Sandshrew
+Sandstorm	Sandshrew
+Rock Tomb	Sandshrew
+Aerial Ace	Sandshrew
+Facade	Sandshrew
+Rest	Sandshrew
+Attract	Sandshrew
+Thief	Sandshrew
+Round	Sandshrew
+Fling	Sandshrew
+Shadow Claw	Sandshrew
+Gyro Ball	Sandshrew
+Swords Dance	Sandshrew
+Bulldoze	Sandshrew
+Rock Slide	Sandshrew
+X-Scissor	Sandshrew
+Poison Jab	Sandshrew
+Swagger	Sandshrew
+Sleep Talk	Sandshrew
+Substitute	Sandshrew
+Rock SmashXY	Sandshrew
+Secret PowerORAS	Sandshrew
+Confide	Sandshrew
+Cut	Sandshrew
+Strength	Sandshrew
+Rock SmashORAS	Sandshrew
+Hone Claws	Sandslash
+Toxic	Sandslash
+Hidden Power	Sandslash
+Sunny Day	Sandslash
+Hyper Beam	Sandslash
+Protect	Sandslash
+Safeguard	Sandslash
+Frustration	Sandslash
+Earthquake	Sandslash
+Return	Sandslash
+Dig	Sandslash
+Brick Break	Sandslash
+Double Team	Sandslash
+Sandstorm	Sandslash
+Rock Tomb	Sandslash
+Aerial Ace	Sandslash
+Facade	Sandslash
+Rest	Sandslash
+Attract	Sandslash
+Thief	Sandslash
+Round	Sandslash
+Focus Blast	Sandslash
+Fling	Sandslash
+Shadow Claw	Sandslash
+Giga Impact	Sandslash
+Stone Edge	Sandslash
+Gyro Ball	Sandslash
+Swords Dance	Sandslash
+Bulldoze	Sandslash
+Rock Slide	Sandslash
+X-Scissor	Sandslash
+Poison Jab	Sandslash
+Swagger	Sandslash
+Sleep Talk	Sandslash
+Substitute	Sandslash
+Rock SmashXY	Sandslash
+Secret PowerORAS	Sandslash
+Confide	Sandslash
+Cut	Sandslash
+Strength	Sandslash
+Rock SmashORAS	Sandslash
+Hone Claws	Nidoran
+Toxic	Nidoran
+Venoshock	Nidoran
+Hidden Power	Nidoran
+Sunny Day	Nidoran
+Ice Beam	Nidoran
+Blizzard	Nidoran
+Protect	Nidoran
+Rain Dance	Nidoran
+Frustration	Nidoran
+Thunderbolt	Nidoran
+Thunder	Nidoran
+Return	Nidoran
+Dig	Nidoran
+Double Team	Nidoran
+Sludge Bomb	Nidoran
+Aerial Ace	Nidoran
+Facade	Nidoran
+Rest	Nidoran
+Attract	Nidoran
+Thief	Nidoran
+Round	Nidoran
+Echoed Voice	Nidoran
+Shadow Claw	Nidoran
+Poison Jab	Nidoran
+Swagger	Nidoran
+Sleep Talk	Nidoran
+Substitute	Nidoran
+Rock SmashXY	Nidoran
+Secret PowerORAS	Nidoran
+Confide	Nidoran
+Cut	Nidoran
+Strength	Nidoran
+Rock SmashORAS	Nidoran
+Hone Claws	Nidorina
+Toxic	Nidorina
+Venoshock	Nidorina
+Hidden Power	Nidorina
+Sunny Day	Nidorina
+Ice Beam	Nidorina
+Blizzard	Nidorina
+Protect	Nidorina
+Rain Dance	Nidorina
+Frustration	Nidorina
+Thunderbolt	Nidorina
+Thunder	Nidorina
+Return	Nidorina
+Dig	Nidorina
+Double Team	Nidorina
+Sludge Bomb	Nidorina
+Aerial Ace	Nidorina
+Facade	Nidorina
+Rest	Nidorina
+Attract	Nidorina
+Thief	Nidorina
+Round	Nidorina
+Echoed Voice	Nidorina
+Shadow Claw	Nidorina
+Poison Jab	Nidorina
+Swagger	Nidorina
+Sleep Talk	Nidorina
+Substitute	Nidorina
+Rock SmashXY	Nidorina
+Secret PowerORAS	Nidorina
+Confide	Nidorina
+Cut	Nidorina
+Strength	Nidorina
+Rock SmashORAS	Nidorina
+Hone Claws	Nidoqueen
+Roar	Nidoqueen
+Toxic	Nidoqueen
+Venoshock	Nidoqueen
+Hidden Power	Nidoqueen
+Sunny Day	Nidoqueen
+Taunt	Nidoqueen
+Ice Beam	Nidoqueen
+Blizzard	Nidoqueen
+Hyper Beam	Nidoqueen
+Protect	Nidoqueen
+Rain Dance	Nidoqueen
+Frustration	Nidoqueen
+Smack Down	Nidoqueen
+Thunderbolt	Nidoqueen
+Thunder	Nidoqueen
+Earthquake	Nidoqueen
+Return	Nidoqueen
+Dig	Nidoqueen
+Shadow Ball	Nidoqueen
+Brick Break	Nidoqueen
+Double Team	Nidoqueen
+Sludge Wave	Nidoqueen
+Flamethrower	Nidoqueen
+Sludge Bomb	Nidoqueen
+Sandstorm	Nidoqueen
+Fire Blast	Nidoqueen
+Rock Tomb	Nidoqueen
+Aerial Ace	Nidoqueen
+Torment	Nidoqueen
+Facade	Nidoqueen
+Rest	Nidoqueen
+Attract	Nidoqueen
+Thief	Nidoqueen
+Round	Nidoqueen
+Echoed Voice	Nidoqueen
+Focus Blast	Nidoqueen
+Fling	Nidoqueen
+Incinerate	Nidoqueen
+Quash	Nidoqueen
+Shadow Claw	Nidoqueen
+Giga Impact	Nidoqueen
+Stone Edge	Nidoqueen
+Bulldoze	Nidoqueen
+Rock Slide	Nidoqueen
+Dragon Tail	Nidoqueen
+Poison Jab	Nidoqueen
+Swagger	Nidoqueen
+Sleep Talk	Nidoqueen
+Substitute	Nidoqueen
+Rock SmashXY	Nidoqueen
+Secret PowerORAS	Nidoqueen
+Power-Up Punch	Nidoqueen
+Confide	Nidoqueen
+Cut	Nidoqueen
+Surf	Nidoqueen
+Strength	Nidoqueen
+Rock SmashORAS	Nidoqueen
+Hone Claws	Nidoran
+Toxic	Nidoran
+Venoshock	Nidoran
+Hidden Power	Nidoran
+Sunny Day	Nidoran
+Ice Beam	Nidoran
+Blizzard	Nidoran
+Protect	Nidoran
+Rain Dance	Nidoran
+Frustration	Nidoran
+Thunderbolt	Nidoran
+Thunder	Nidoran
+Return	Nidoran
+Dig	Nidoran
+Double Team	Nidoran
+Sludge Bomb	Nidoran
+Facade	Nidoran
+Rest	Nidoran
+Attract	Nidoran
+Thief	Nidoran
+Round	Nidoran
+Echoed Voice	Nidoran
+Shadow Claw	Nidoran
+Poison Jab	Nidoran
+Swagger	Nidoran
+Sleep Talk	Nidoran
+Substitute	Nidoran
+Rock SmashXY	Nidoran
+Secret PowerORAS	Nidoran
+Confide	Nidoran
+Cut	Nidoran
+Strength	Nidoran
+Rock SmashORAS	Nidoran
+Hone Claws	Nidorino
+Toxic	Nidorino
+Venoshock	Nidorino
+Hidden Power	Nidorino
+Sunny Day	Nidorino
+Ice Beam	Nidorino
+Blizzard	Nidorino
+Protect	Nidorino
+Rain Dance	Nidorino
+Frustration	Nidorino
+Thunderbolt	Nidorino
+Thunder	Nidorino
+Return	Nidorino
+Dig	Nidorino
+Double Team	Nidorino
+Sludge Bomb	Nidorino
+Facade	Nidorino
+Rest	Nidorino
+Attract	Nidorino
+Thief	Nidorino
+Round	Nidorino
+Echoed Voice	Nidorino
+Shadow Claw	Nidorino
+Poison Jab	Nidorino
+Swagger	Nidorino
+Sleep Talk	Nidorino
+Substitute	Nidorino
+Rock SmashXY	Nidorino
+Secret PowerORAS	Nidorino
+Confide	Nidorino
+Cut	Nidorino
+Strength	Nidorino
+Rock SmashORAS	Nidorino
+Hone Claws	Nidoking
+Roar	Nidoking
+Toxic	Nidoking
+Venoshock	Nidoking
+Hidden Power	Nidoking
+Sunny Day	Nidoking
+Taunt	Nidoking
+Ice Beam	Nidoking
+Blizzard	Nidoking
+Hyper Beam	Nidoking
+Protect	Nidoking
+Rain Dance	Nidoking
+Frustration	Nidoking
+Smack Down	Nidoking
+Thunderbolt	Nidoking
+Thunder	Nidoking
+Earthquake	Nidoking
+Return	Nidoking
+Dig	Nidoking
+Shadow Ball	Nidoking
+Brick Break	Nidoking
+Double Team	Nidoking
+Sludge Wave	Nidoking
+Flamethrower	Nidoking
+Sludge Bomb	Nidoking
+Sandstorm	Nidoking
+Fire Blast	Nidoking
+Rock Tomb	Nidoking
+Torment	Nidoking
+Facade	Nidoking
+Rest	Nidoking
+Attract	Nidoking
+Thief	Nidoking
+Round	Nidoking
+Echoed Voice	Nidoking
+Focus Blast	Nidoking
+Fling	Nidoking
+Incinerate	Nidoking
+Quash	Nidoking
+Shadow Claw	Nidoking
+Giga Impact	Nidoking
+Stone Edge	Nidoking
+Bulldoze	Nidoking
+Rock Slide	Nidoking
+Dragon Tail	Nidoking
+Poison Jab	Nidoking
+Swagger	Nidoking
+Sleep Talk	Nidoking
+Substitute	Nidoking
+Rock SmashXY	Nidoking
+Secret PowerORAS	Nidoking
+Power-Up Punch	Nidoking
+Confide	Nidoking
+Cut	Nidoking
+Surf	Nidoking
+Strength	Nidoking
+Rock SmashORAS	Nidoking
+Psyshock	Clefairy
+Calm Mind	Clefairy
+Toxic	Clefairy
+Hidden Power	Clefairy
+Sunny Day	Clefairy
+Ice Beam	Clefairy
+Blizzard	Clefairy
+Light Screen	Clefairy
+Protect	Clefairy
+Rain Dance	Clefairy
+Safeguard	Clefairy
+Frustration	Clefairy
+Solar Beam	Clefairy
+Thunderbolt	Clefairy
+Thunder	Clefairy
+Return	Clefairy
+Dig	Clefairy
+Psychic	Clefairy
+Shadow Ball	Clefairy
+Brick Break	Clefairy
+Double Team	Clefairy
+Reflect	Clefairy
+Flamethrower	Clefairy
+Fire Blast	Clefairy
+Facade	Clefairy
+Rest	Clefairy
+Attract	Clefairy
+Round	Clefairy
+Echoed Voice	Clefairy
+Fling	Clefairy
+Charge Beam	Clefairy
+Incinerate	Clefairy
+Retaliate	Clefairy
+Flash	Clefairy
+Thunder Wave	Clefairy
+Psych Up	Clefairy
+Dream Eater	Clefairy
+Grass Knot	Clefairy
+Swagger	Clefairy
+Sleep Talk	Clefairy
+Substitute	Clefairy
+Rock SmashXY	Clefairy
+Secret PowerORAS	Clefairy
+Power-Up Punch	Clefairy
+Dazzling Gleam	Clefairy
+Confide	Clefairy
+Strength	Clefairy
+Rock SmashORAS	Clefairy
+Psyshock	Clefable
+Calm Mind	Clefable
+Toxic	Clefable
+Hidden Power	Clefable
+Sunny Day	Clefable
+Ice Beam	Clefable
+Blizzard	Clefable
+Hyper Beam	Clefable
+Light Screen	Clefable
+Protect	Clefable
+Rain Dance	Clefable
+Safeguard	Clefable
+Frustration	Clefable
+Solar Beam	Clefable
+Thunderbolt	Clefable
+Thunder	Clefable
+Return	Clefable
+Dig	Clefable
+Psychic	Clefable
+Shadow Ball	Clefable
+Brick Break	Clefable
+Double Team	Clefable
+Reflect	Clefable
+Flamethrower	Clefable
+Fire Blast	Clefable
+Facade	Clefable
+Rest	Clefable
+Attract	Clefable
+Round	Clefable
+Echoed Voice	Clefable
+Focus Blast	Clefable
+Fling	Clefable
+Charge Beam	Clefable
+Incinerate	Clefable
+Retaliate	Clefable
+Giga Impact	Clefable
+Flash	Clefable
+Thunder Wave	Clefable
+Psych Up	Clefable
+Dream Eater	Clefable
+Grass Knot	Clefable
+Swagger	Clefable
+Sleep Talk	Clefable
+Substitute	Clefable
+Rock SmashXY	Clefable
+Secret PowerORAS	Clefable
+Power-Up Punch	Clefable
+Dazzling Gleam	Clefable
+Confide	Clefable
+Strength	Clefable
+Rock SmashORAS	Clefable
+Roar	Vulpix
+Toxic	Vulpix
+Hidden Power	Vulpix
+Sunny Day	Vulpix
+Protect	Vulpix
+Safeguard	Vulpix
+Frustration	Vulpix
+Return	Vulpix
+Dig	Vulpix
+Double Team	Vulpix
+Flamethrower	Vulpix
+Fire Blast	Vulpix
+Facade	Vulpix
+Flame Charge	Vulpix
+Rest	Vulpix
+Attract	Vulpix
+Round	Vulpix
+Overheat	Vulpix
+Energy Ball	Vulpix
+Incinerate	Vulpix
+Will-O-Wisp	Vulpix
+Payback	Vulpix
+Psych Up	Vulpix
+Swagger	Vulpix
+Sleep Talk	Vulpix
+Substitute	Vulpix
+Secret PowerORAS	Vulpix
+Dark Pulse	Vulpix
+Confide	Vulpix
+Psyshock	Ninetales
+Calm Mind	Ninetales
+Roar	Ninetales
+Toxic	Ninetales
+Hidden Power	Ninetales
+Sunny Day	Ninetales
+Hyper Beam	Ninetales
+Protect	Ninetales
+Safeguard	Ninetales
+Frustration	Ninetales
+Solar Beam	Ninetales
+Return	Ninetales
+Dig	Ninetales
+Double Team	Ninetales
+Flamethrower	Ninetales
+Fire Blast	Ninetales
+Facade	Ninetales
+Flame Charge	Ninetales
+Rest	Ninetales
+Attract	Ninetales
+Round	Ninetales
+Overheat	Ninetales
+Energy Ball	Ninetales
+Incinerate	Ninetales
+Will-O-Wisp	Ninetales
+Payback	Ninetales
+Giga Impact	Ninetales
+Psych Up	Ninetales
+Dream Eater	Ninetales
+Swagger	Ninetales
+Sleep Talk	Ninetales
+Substitute	Ninetales
+Secret PowerORAS	Ninetales
+Dark Pulse	Ninetales
+Confide	Ninetales
+Toxic	Jigglypuff
+Hidden Power	Jigglypuff
+Sunny Day	Jigglypuff
+Ice Beam	Jigglypuff
+Blizzard	Jigglypuff
+Light Screen	Jigglypuff
+Protect	Jigglypuff
+Rain Dance	Jigglypuff
+Safeguard	Jigglypuff
+Frustration	Jigglypuff
+Solar Beam	Jigglypuff
+Thunderbolt	Jigglypuff
+Thunder	Jigglypuff
+Return	Jigglypuff
+Dig	Jigglypuff
+Psychic	Jigglypuff
+Shadow Ball	Jigglypuff
+Brick Break	Jigglypuff
+Double Team	Jigglypuff
+Reflect	Jigglypuff
+Flamethrower	Jigglypuff
+Fire Blast	Jigglypuff
+Facade	Jigglypuff
+Rest	Jigglypuff
+Attract	Jigglypuff
+Round	Jigglypuff
+Echoed Voice	Jigglypuff
+Fling	Jigglypuff
+Charge Beam	Jigglypuff
+Incinerate	Jigglypuff
+Retaliate	Jigglypuff
+Flash	Jigglypuff
+Thunder Wave	Jigglypuff
+Gyro Ball	Jigglypuff
+Psych Up	Jigglypuff
+Dream Eater	Jigglypuff
+Grass Knot	Jigglypuff
+Swagger	Jigglypuff
+Sleep Talk	Jigglypuff
+Substitute	Jigglypuff
+Wild Charge	Jigglypuff
+Secret PowerORAS	Jigglypuff
+Power-Up Punch	Jigglypuff
+Dazzling Gleam	Jigglypuff
+Confide	Jigglypuff
+Strength	Jigglypuff
+Toxic	Wigglytuff
+Hidden Power	Wigglytuff
+Sunny Day	Wigglytuff
+Ice Beam	Wigglytuff
+Blizzard	Wigglytuff
+Hyper Beam	Wigglytuff
+Light Screen	Wigglytuff
+Protect	Wigglytuff
+Rain Dance	Wigglytuff
+Safeguard	Wigglytuff
+Frustration	Wigglytuff
+Solar Beam	Wigglytuff
+Thunderbolt	Wigglytuff
+Thunder	Wigglytuff
+Return	Wigglytuff
+Dig	Wigglytuff
+Psychic	Wigglytuff
+Shadow Ball	Wigglytuff
+Brick Break	Wigglytuff
+Double Team	Wigglytuff
+Reflect	Wigglytuff
+Flamethrower	Wigglytuff
+Fire Blast	Wigglytuff
+Facade	Wigglytuff
+Rest	Wigglytuff
+Attract	Wigglytuff
+Round	Wigglytuff
+Echoed Voice	Wigglytuff
+Focus Blast	Wigglytuff
+Fling	Wigglytuff
+Charge Beam	Wigglytuff
+Incinerate	Wigglytuff
+Retaliate	Wigglytuff
+Giga Impact	Wigglytuff
+Flash	Wigglytuff
+Thunder Wave	Wigglytuff
+Gyro Ball	Wigglytuff
+Psych Up	Wigglytuff
+Dream Eater	Wigglytuff
+Grass Knot	Wigglytuff
+Swagger	Wigglytuff
+Sleep Talk	Wigglytuff
+Substitute	Wigglytuff
+Wild Charge	Wigglytuff
+Secret PowerORAS	Wigglytuff
+Power-Up Punch	Wigglytuff
+Dazzling Gleam	Wigglytuff
+Confide	Wigglytuff
+Strength	Wigglytuff
+Toxic	Zubat
+Venoshock	Zubat
+Hidden Power	Zubat
+Sunny Day	Zubat
+Taunt	Zubat
+Protect	Zubat
+Rain Dance	Zubat
+Roost	Zubat
+Frustration	Zubat
+Return	Zubat
+Shadow Ball	Zubat
+Double Team	Zubat
+Sludge Bomb	Zubat
+Aerial Ace	Zubat
+Torment	Zubat
+Facade	Zubat
+Rest	Zubat
+Attract	Zubat
+Thief	Zubat
+Round	Zubat
+Steel Wing	Zubat
+Acrobatics	Zubat
+Payback	Zubat
+Swagger	Zubat
+Sleep Talk	Zubat
+U-turn	Zubat
+Substitute	Zubat
+Secret PowerORAS	Zubat
+Confide	Zubat
+Fly	Zubat
+Toxic	Golbat
+Venoshock	Golbat
+Hidden Power	Golbat
+Sunny Day	Golbat
+Taunt	Golbat
+Hyper Beam	Golbat
+Protect	Golbat
+Rain Dance	Golbat
+Roost	Golbat
+Frustration	Golbat
+Return	Golbat
+Shadow Ball	Golbat
+Double Team	Golbat
+Sludge Bomb	Golbat
+Aerial Ace	Golbat
+Torment	Golbat
+Facade	Golbat
+Rest	Golbat
+Attract	Golbat
+Thief	Golbat
+Round	Golbat
+Steel Wing	Golbat
+Acrobatics	Golbat
+Payback	Golbat
+Giga Impact	Golbat
+Swagger	Golbat
+Sleep Talk	Golbat
+U-turn	Golbat
+Substitute	Golbat
+Secret PowerORAS	Golbat
+Confide	Golbat
+Fly	Golbat
+Toxic	Oddish
+Venoshock	Oddish
+Hidden Power	Oddish
+Sunny Day	Oddish
+Protect	Oddish
+Frustration	Oddish
+Solar Beam	Oddish
+Return	Oddish
+Double Team	Oddish
+Sludge Bomb	Oddish
+Facade	Oddish
+Rest	Oddish
+Attract	Oddish
+Round	Oddish
+Energy Ball	Oddish
+Flash	Oddish
+Swords Dance	Oddish
+Infestation	Oddish
+Grass Knot	Oddish
+Swagger	Oddish
+Sleep Talk	Oddish
+Substitute	Oddish
+Secret PowerORAS	Oddish
+Nature Power	Oddish
+Dazzling Gleam	Oddish
+Confide	Oddish
+Cut	Oddish
+Toxic	Gloom
+Venoshock	Gloom
+Hidden Power	Gloom
+Sunny Day	Gloom
+Protect	Gloom
+Frustration	Gloom
+Solar Beam	Gloom
+Return	Gloom
+Double Team	Gloom
+Sludge Bomb	Gloom
+Facade	Gloom
+Rest	Gloom
+Attract	Gloom
+Round	Gloom
+Energy Ball	Gloom
+Fling	Gloom
+Flash	Gloom
+Swords Dance	Gloom
+Infestation	Gloom
+Grass Knot	Gloom
+Swagger	Gloom
+Sleep Talk	Gloom
+Substitute	Gloom
+Secret PowerORAS	Gloom
+Nature Power	Gloom
+Dazzling Gleam	Gloom
+Confide	Gloom
+Cut	Gloom
+Toxic	Vileplume
+Venoshock	Vileplume
+Hidden Power	Vileplume
+Sunny Day	Vileplume
+Protect	Vileplume
+Frustration	Vileplume
+Solar Beam	Vileplume
+Return	Vileplume
+Double Team	Vileplume
+Sludge Bomb	Vileplume
+Facade	Vileplume
+Rest	Vileplume
+Attract	Vileplume
+Round	Vileplume
+Energy Ball	Vileplume
+Fling	Vileplume
+Flash	Vileplume
+Swords Dance	Vileplume
+Infestation	Vileplume
+Grass Knot	Vileplume
+Swagger	Vileplume
+Sleep Talk	Vileplume
+Substitute	Vileplume
+Secret PowerORAS	Vileplume
+Nature Power	Vileplume
+Dazzling Gleam	Vileplume
+Confide	Vileplume
+Cut	Vileplume
+Hone Claws	Paras
+Toxic	Paras
+Venoshock	Paras
+Hidden Power	Paras
+Sunny Day	Paras
+Light Screen	Paras
+Protect	Paras
+Frustration	Paras
+Solar Beam	Paras
+Return	Paras
+Dig	Paras
+Brick Break	Paras
+Double Team	Paras
+Sludge Bomb	Paras
+Aerial Ace	Paras
+Facade	Paras
+Rest	Paras
+Attract	Paras
+Thief	Paras
+Round	Paras
+Energy Ball	Paras
+False Swipe	Paras
+Flash	Paras
+Swords Dance	Paras
+Struggle Bug	Paras
+X-Scissor	Paras
+Grass Knot	Paras
+Swagger	Paras
+Sleep Talk	Paras
+Substitute	Paras
+Rock SmashXY	Paras
+Secret PowerORAS	Paras
+Nature Power	Paras
+Confide	Paras
+Cut	Paras
+Rock SmashORAS	Paras
+Hone Claws	Parasect
+Toxic	Parasect
+Venoshock	Parasect
+Hidden Power	Parasect
+Sunny Day	Parasect
+Hyper Beam	Parasect
+Light Screen	Parasect
+Protect	Parasect
+Frustration	Parasect
+Solar Beam	Parasect
+Return	Parasect
+Dig	Parasect
+Brick Break	Parasect
+Double Team	Parasect
+Sludge Bomb	Parasect
+Aerial Ace	Parasect
+Facade	Parasect
+Rest	Parasect
+Attract	Parasect
+Thief	Parasect
+Round	Parasect
+Energy Ball	Parasect
+False Swipe	Parasect
+Giga Impact	Parasect
+Flash	Parasect
+Swords Dance	Parasect
+Struggle Bug	Parasect
+X-Scissor	Parasect
+Grass Knot	Parasect
+Swagger	Parasect
+Sleep Talk	Parasect
+Substitute	Parasect
+Rock SmashXY	Parasect
+Secret PowerORAS	Parasect
+Nature Power	Parasect
+Confide	Parasect
+Cut	Parasect
+Rock SmashORAS	Parasect
+Toxic	Venonat
+Venoshock	Venonat
+Hidden Power	Venonat
+Sunny Day	Venonat
+Protect	Venonat
+Frustration	Venonat
+Solar Beam	Venonat
+Return	Venonat
+Psychic	Venonat
+Double Team	Venonat
+Sludge Bomb	Venonat
+Facade	Venonat
+Rest	Venonat
+Attract	Venonat
+Thief	Venonat
+Round	Venonat
+Flash	Venonat
+Struggle Bug	Venonat
+Infestation	Venonat
+Swagger	Venonat
+Sleep Talk	Venonat
+Substitute	Venonat
+Secret PowerORAS	Venonat
+Confide	Venonat
+Toxic	Venomoth
+Venoshock	Venomoth
+Hidden Power	Venomoth
+Sunny Day	Venomoth
+Hyper Beam	Venomoth
+Protect	Venomoth
+Frustration	Venomoth
+Solar Beam	Venomoth
+Return	Venomoth
+Psychic	Venomoth
+Double Team	Venomoth
+Sludge Bomb	Venomoth
+Aerial Ace	Venomoth
+Facade	Venomoth
+Rest	Venomoth
+Attract	Venomoth
+Thief	Venomoth
+Round	Venomoth
+Energy Ball	Venomoth
+Acrobatics	Venomoth
+Giga Impact	Venomoth
+Flash	Venomoth
+Struggle Bug	Venomoth
+Infestation	Venomoth
+Swagger	Venomoth
+Sleep Talk	Venomoth
+U-turn	Venomoth
+Substitute	Venomoth
+Secret PowerORAS	Venomoth
+Confide	Venomoth
+Hone Claws	Diglett
+Toxic	Diglett
+Hidden Power	Diglett
+Sunny Day	Diglett
+Protect	Diglett
+Frustration	Diglett
+Earthquake	Diglett
+Return	Diglett
+Dig	Diglett
+Double Team	Diglett
+Sludge Bomb	Diglett
+Sandstorm	Diglett
+Rock Tomb	Diglett
+Aerial Ace	Diglett
+Facade	Diglett
+Rest	Diglett
+Attract	Diglett
+Thief	Diglett
+Round	Diglett
+Echoed Voice	Diglett
+Shadow Claw	Diglett
+Bulldoze	Diglett
+Rock Slide	Diglett
+Swagger	Diglett
+Sleep Talk	Diglett
+Substitute	Diglett
+Rock SmashXY	Diglett
+Secret PowerORAS	Diglett
+Confide	Diglett
+Cut	Diglett
+Rock SmashORAS	Diglett
+Hone Claws	Dugtrio
+Toxic	Dugtrio
+Hidden Power	Dugtrio
+Sunny Day	Dugtrio
+Hyper Beam	Dugtrio
+Protect	Dugtrio
+Frustration	Dugtrio
+Earthquake	Dugtrio
+Return	Dugtrio
+Dig	Dugtrio
+Double Team	Dugtrio
+Sludge Wave	Dugtrio
+Sludge Bomb	Dugtrio
+Sandstorm	Dugtrio
+Rock Tomb	Dugtrio
+Aerial Ace	Dugtrio
+Facade	Dugtrio
+Rest	Dugtrio
+Attract	Dugtrio
+Thief	Dugtrio
+Round	Dugtrio
+Echoed Voice	Dugtrio
+Shadow Claw	Dugtrio
+Giga Impact	Dugtrio
+Stone Edge	Dugtrio
+Bulldoze	Dugtrio
+Rock Slide	Dugtrio
+Swagger	Dugtrio
+Sleep Talk	Dugtrio
+Substitute	Dugtrio
+Rock SmashXY	Dugtrio
+Secret PowerORAS	Dugtrio
+Confide	Dugtrio
+Cut	Dugtrio
+Rock SmashORAS	Dugtrio
+Hone Claws	Meowth
+Toxic	Meowth
+Hidden Power	Meowth
+Sunny Day	Meowth
+Taunt	Meowth
+Protect	Meowth
+Rain Dance	Meowth
+Frustration	Meowth
+Thunderbolt	Meowth
+Thunder	Meowth
+Return	Meowth
+Dig	Meowth
+Shadow Ball	Meowth
+Double Team	Meowth
+Aerial Ace	Meowth
+Torment	Meowth
+Facade	Meowth
+Rest	Meowth
+Attract	Meowth
+Thief	Meowth
+Round	Meowth
+Echoed Voice	Meowth
+Shadow Claw	Meowth
+Payback	Meowth
+Retaliate	Meowth
+Flash	Meowth
+Psych Up	Meowth
+Dream Eater	Meowth
+Swagger	Meowth
+Sleep Talk	Meowth
+U-turn	Meowth
+Substitute	Meowth
+Secret PowerORAS	Meowth
+Dark Pulse	Meowth
+Confide	Meowth
+Cut	Meowth
+Hone Claws	Persian
+Roar	Persian
+Toxic	Persian
+Hidden Power	Persian
+Sunny Day	Persian
+Taunt	Persian
+Hyper Beam	Persian
+Protect	Persian
+Rain Dance	Persian
+Frustration	Persian
+Thunderbolt	Persian
+Thunder	Persian
+Return	Persian
+Dig	Persian
+Shadow Ball	Persian
+Double Team	Persian
+Aerial Ace	Persian
+Torment	Persian
+Facade	Persian
+Rest	Persian
+Attract	Persian
+Thief	Persian
+Round	Persian
+Echoed Voice	Persian
+Embargo	Persian
+Shadow Claw	Persian
+Payback	Persian
+Retaliate	Persian
+Giga Impact	Persian
+Flash	Persian
+Psych Up	Persian
+Dream Eater	Persian
+Swagger	Persian
+Sleep Talk	Persian
+U-turn	Persian
+Substitute	Persian
+Secret PowerORAS	Persian
+Dark Pulse	Persian
+Confide	Persian
+Cut	Persian
+Hone Claws	Psyduck
+Psyshock	Psyduck
+Calm Mind	Psyduck
+Toxic	Psyduck
+Hail	Psyduck
+Hidden Power	Psyduck
+Ice Beam	Psyduck
+Blizzard	Psyduck
+Light Screen	Psyduck
+Protect	Psyduck
+Rain Dance	Psyduck
+Frustration	Psyduck
+Return	Psyduck
+Dig	Psyduck
+Psychic	Psyduck
+Brick Break	Psyduck
+Double Team	Psyduck
+Aerial Ace	Psyduck
+Facade	Psyduck
+Rest	Psyduck
+Attract	Psyduck
+Round	Psyduck
+Scald	Psyduck
+Fling	Psyduck
+Shadow Claw	Psyduck
+Flash	Psyduck
+Psych Up	Psyduck
+Swagger	Psyduck
+Sleep Talk	Psyduck
+Substitute	Psyduck
+Rock SmashXY	Psyduck
+Secret PowerORAS	Psyduck
+Power-Up Punch	Psyduck
+Confide	Psyduck
+Surf	Psyduck
+Strength	Psyduck
+Waterfall	Psyduck
+Rock SmashORAS	Psyduck
+DiveORAS	Psyduck
+Hone Claws	Golduck
+Psyshock	Golduck
+Calm Mind	Golduck
+Toxic	Golduck
+Hail	Golduck
+Hidden Power	Golduck
+Ice Beam	Golduck
+Blizzard	Golduck
+Hyper Beam	Golduck
+Light Screen	Golduck
+Protect	Golduck
+Rain Dance	Golduck
+Frustration	Golduck
+Return	Golduck
+Dig	Golduck
+Psychic	Golduck
+Brick Break	Golduck
+Double Team	Golduck
+Aerial Ace	Golduck
+Facade	Golduck
+Rest	Golduck
+Attract	Golduck
+Low Sweep	Golduck
+Round	Golduck
+Focus Blast	Golduck
+Scald	Golduck
+Fling	Golduck
+Shadow Claw	Golduck
+Giga Impact	Golduck
+Flash	Golduck
+Psych Up	Golduck
+Swagger	Golduck
+Sleep Talk	Golduck
+Substitute	Golduck
+Rock SmashXY	Golduck
+Secret PowerORAS	Golduck
+Power-Up Punch	Golduck
+Confide	Golduck
+Surf	Golduck
+Strength	Golduck
+Waterfall	Golduck
+Rock SmashORAS	Golduck
+DiveORAS	Golduck
+Hone Claws	Mankey
+Toxic	Mankey
+Bulk Up	Mankey
+Hidden Power	Mankey
+Sunny Day	Mankey
+Taunt	Mankey
+Protect	Mankey
+Rain Dance	Mankey
+Frustration	Mankey
+Smack Down	Mankey
+Thunderbolt	Mankey
+Thunder	Mankey
+Earthquake	Mankey
+Return	Mankey
+Dig	Mankey
+Brick Break	Mankey
+Double Team	Mankey
+Rock Tomb	Mankey
+Aerial Ace	Mankey
+Facade	Mankey
+Rest	Mankey
+Attract	Mankey
+Thief	Mankey
+Low Sweep	Mankey
+Round	Mankey
+Overheat	Mankey
+Focus Blast	Mankey
+Fling	Mankey
+Acrobatics	Mankey
+Payback	Mankey
+Retaliate	Mankey
+Bulldoze	Mankey
+Rock Slide	Mankey
+Poison Jab	Mankey
+Swagger	Mankey
+Sleep Talk	Mankey
+U-turn	Mankey
+Substitute	Mankey
+Rock SmashXY	Mankey
+Secret PowerORAS	Mankey
+Power-Up Punch	Mankey
+Confide	Mankey
+Strength	Mankey
+Rock SmashORAS	Mankey
+Hone Claws	Primeape
+Toxic	Primeape
+Bulk Up	Primeape
+Hidden Power	Primeape
+Sunny Day	Primeape
+Taunt	Primeape
+Hyper Beam	Primeape
+Protect	Primeape
+Rain Dance	Primeape
+Frustration	Primeape
+Smack Down	Primeape
+Thunderbolt	Primeape
+Thunder	Primeape
+Earthquake	Primeape
+Return	Primeape
+Dig	Primeape
+Brick Break	Primeape
+Double Team	Primeape
+Rock Tomb	Primeape
+Aerial Ace	Primeape
+Facade	Primeape
+Rest	Primeape
+Attract	Primeape
+Thief	Primeape
+Low Sweep	Primeape
+Round	Primeape
+Overheat	Primeape
+Focus Blast	Primeape
+Fling	Primeape
+Acrobatics	Primeape
+Payback	Primeape
+Retaliate	Primeape
+Giga Impact	Primeape
+Stone Edge	Primeape
+Bulldoze	Primeape
+Rock Slide	Primeape
+Poison Jab	Primeape
+Swagger	Primeape
+Sleep Talk	Primeape
+U-turn	Primeape
+Substitute	Primeape
+Rock SmashXY	Primeape
+Secret PowerORAS	Primeape
+Power-Up Punch	Primeape
+Confide	Primeape
+Strength	Primeape
+Rock SmashORAS	Primeape
+Roar	Growlithe
+Toxic	Growlithe
+Hidden Power	Growlithe
+Sunny Day	Growlithe
+Protect	Growlithe
+Safeguard	Growlithe
+Frustration	Growlithe
+Return	Growlithe
+Dig	Growlithe
+Double Team	Growlithe
+Flamethrower	Growlithe
+Fire Blast	Growlithe
+Aerial Ace	Growlithe
+Facade	Growlithe
+Flame Charge	Growlithe
+Rest	Growlithe
+Attract	Growlithe
+Thief	Growlithe
+Round	Growlithe
+Overheat	Growlithe
+Incinerate	Growlithe
+Will-O-Wisp	Growlithe
+Retaliate	Growlithe
+Swagger	Growlithe
+Sleep Talk	Growlithe
+Substitute	Growlithe
+Wild Charge	Growlithe
+Rock SmashXY	Growlithe
+Secret PowerORAS	Growlithe
+Snarl	Growlithe
+Confide	Growlithe
+Strength	Growlithe
+Rock SmashORAS	Growlithe
+Roar	Arcanine
+Toxic	Arcanine
+Hidden Power	Arcanine
+Sunny Day	Arcanine
+Hyper Beam	Arcanine
+Protect	Arcanine
+Safeguard	Arcanine
+Frustration	Arcanine
+Solar Beam	Arcanine
+Return	Arcanine
+Dig	Arcanine
+Double Team	Arcanine
+Flamethrower	Arcanine
+Fire Blast	Arcanine
+Aerial Ace	Arcanine
+Facade	Arcanine
+Flame Charge	Arcanine
+Rest	Arcanine
+Attract	Arcanine
+Thief	Arcanine
+Round	Arcanine
+Overheat	Arcanine
+Incinerate	Arcanine
+Will-O-Wisp	Arcanine
+Retaliate	Arcanine
+Giga Impact	Arcanine
+Bulldoze	Arcanine
+Swagger	Arcanine
+Sleep Talk	Arcanine
+Substitute	Arcanine
+Wild Charge	Arcanine
+Rock SmashXY	Arcanine
+Secret PowerORAS	Arcanine
+Snarl	Arcanine
+Confide	Arcanine
+Strength	Arcanine
+Rock SmashORAS	Arcanine
+Toxic	Poliwag
+Hail	Poliwag
+Hidden Power	Poliwag
+Ice Beam	Poliwag
+Blizzard	Poliwag
+Protect	Poliwag
+Rain Dance	Poliwag
+Frustration	Poliwag
+Return	Poliwag
+Dig	Poliwag
+Psychic	Poliwag
+Double Team	Poliwag
+Facade	Poliwag
+Rest	Poliwag
+Attract	Poliwag
+Thief	Poliwag
+Round	Poliwag
+Scald	Poliwag
+Swagger	Poliwag
+Sleep Talk	Poliwag
+Substitute	Poliwag
+Secret PowerORAS	Poliwag
+Confide	Poliwag
+Surf	Poliwag
+Waterfall	Poliwag
+DiveORAS	Poliwag
+Toxic	Poliwhirl
+Hail	Poliwhirl
+Hidden Power	Poliwhirl
+Ice Beam	Poliwhirl
+Blizzard	Poliwhirl
+Protect	Poliwhirl
+Rain Dance	Poliwhirl
+Frustration	Poliwhirl
+Earthquake	Poliwhirl
+Return	Poliwhirl
+Dig	Poliwhirl
+Psychic	Poliwhirl
+Brick Break	Poliwhirl
+Double Team	Poliwhirl
+Facade	Poliwhirl
+Rest	Poliwhirl
+Attract	Poliwhirl
+Thief	Poliwhirl
+Round	Poliwhirl
+Scald	Poliwhirl
+Fling	Poliwhirl
+Bulldoze	Poliwhirl
+Swagger	Poliwhirl
+Sleep Talk	Poliwhirl
+Substitute	Poliwhirl
+Rock SmashXY	Poliwhirl
+Secret PowerORAS	Poliwhirl
+Power-Up Punch	Poliwhirl
+Confide	Poliwhirl
+Surf	Poliwhirl
+Strength	Poliwhirl
+Waterfall	Poliwhirl
+Rock SmashORAS	Poliwhirl
+DiveORAS	Poliwhirl
+Toxic	Poliwrath
+Hail	Poliwrath
+Bulk Up	Poliwrath
+Hidden Power	Poliwrath
+Ice Beam	Poliwrath
+Blizzard	Poliwrath
+Hyper Beam	Poliwrath
+Protect	Poliwrath
+Rain Dance	Poliwrath
+Frustration	Poliwrath
+Earthquake	Poliwrath
+Return	Poliwrath
+Dig	Poliwrath
+Psychic	Poliwrath
+Brick Break	Poliwrath
+Double Team	Poliwrath
+Rock Tomb	Poliwrath
+Facade	Poliwrath
+Rest	Poliwrath
+Attract	Poliwrath
+Thief	Poliwrath
+Low Sweep	Poliwrath
+Round	Poliwrath
+Focus Blast	Poliwrath
+Scald	Poliwrath
+Fling	Poliwrath
+Payback	Poliwrath
+Giga Impact	Poliwrath
+Bulldoze	Poliwrath
+Rock Slide	Poliwrath
+Poison Jab	Poliwrath
+Swagger	Poliwrath
+Sleep Talk	Poliwrath
+Rock SmashXY	Poliwrath
+Secret PowerORAS	Poliwrath
+Power-Up Punch	Poliwrath
+Confide	Poliwrath
+Surf	Poliwrath
+Strength	Poliwrath
+Waterfall	Poliwrath
+Rock SmashORAS	Poliwrath
+DiveORAS	Poliwrath
+Psyshock	Abra
+Calm Mind	Abra
+Toxic	Abra
+Hidden Power	Abra
+Sunny Day	Abra
+Taunt	Abra
+Light Screen	Abra
+Protect	Abra
+Rain Dance	Abra
+Safeguard	Abra
+Frustration	Abra
+Return	Abra
+Psychic	Abra
+Shadow Ball	Abra
+Double Team	Abra
+Reflect	Abra
+Torment	Abra
+Facade	Abra
+Rest	Abra
+Attract	Abra
+Thief	Abra
+Round	Abra
+Energy Ball	Abra
+Fling	Abra
+Charge Beam	Abra
+Embargo	Abra
+Flash	Abra
+Thunder Wave	Abra
+Psych Up	Abra
+Dream Eater	Abra
+Grass Knot	Abra
+Swagger	Abra
+Sleep Talk	Abra
+Substitute	Abra
+Trick Room	Abra
+Secret PowerORAS	Abra
+Dazzling Gleam	Abra
+Confide	Abra
+Psyshock	Kadabra
+Calm Mind	Kadabra
+Toxic	Kadabra
+Hidden Power	Kadabra
+Sunny Day	Kadabra
+Taunt	Kadabra
+Light Screen	Kadabra
+Protect	Kadabra
+Rain Dance	Kadabra
+Safeguard	Kadabra
+Frustration	Kadabra
+Return	Kadabra
+Psychic	Kadabra
+Shadow Ball	Kadabra
+Double Team	Kadabra
+Reflect	Kadabra
+Torment	Kadabra
+Facade	Kadabra
+Rest	Kadabra
+Attract	Kadabra
+Thief	Kadabra
+Round	Kadabra
+Energy Ball	Kadabra
+Fling	Kadabra
+Charge Beam	Kadabra
+Embargo	Kadabra
+Flash	Kadabra
+Thunder Wave	Kadabra
+Psych Up	Kadabra
+Dream Eater	Kadabra
+Grass Knot	Kadabra
+Swagger	Kadabra
+Sleep Talk	Kadabra
+Substitute	Kadabra
+Trick Room	Kadabra
+Secret PowerORAS	Kadabra
+Dazzling Gleam	Kadabra
+Confide	Kadabra
+Psyshock	Alakazam
+Calm Mind	Alakazam
+Toxic	Alakazam
+Hidden Power	Alakazam
+Sunny Day	Alakazam
+Taunt	Alakazam
+Hyper Beam	Alakazam
+Light Screen	Alakazam
+Protect	Alakazam
+Rain Dance	Alakazam
+Safeguard	Alakazam
+Frustration	Alakazam
+Return	Alakazam
+Psychic	Alakazam
+Shadow Ball	Alakazam
+Double Team	Alakazam
+Reflect	Alakazam
+Torment	Alakazam
+Facade	Alakazam
+Rest	Alakazam
+Attract	Alakazam
+Thief	Alakazam
+Round	Alakazam
+Focus Blast	Alakazam
+Energy Ball	Alakazam
+Fling	Alakazam
+Charge Beam	Alakazam
+Embargo	Alakazam
+Giga Impact	Alakazam
+Flash	Alakazam
+Thunder Wave	Alakazam
+Psych Up	Alakazam
+Dream Eater	Alakazam
+Grass Knot	Alakazam
+Swagger	Alakazam
+Sleep Talk	Alakazam
+Substitute	Alakazam
+Trick Room	Alakazam
+Secret PowerORAS	Alakazam
+Dazzling Gleam	Alakazam
+Confide	Alakazam
+Toxic	Machop
+Bulk Up	Machop
+Hidden Power	Machop
+Sunny Day	Machop
+Light Screen	Machop
+Protect	Machop
+Rain Dance	Machop
+Frustration	Machop
+Smack Down	Machop
+Earthquake	Machop
+Return	Machop
+Dig	Machop
+Brick Break	Machop
+Double Team	Machop
+Flamethrower	Machop
+Fire Blast	Machop
+Rock Tomb	Machop
+Facade	Machop
+Rest	Machop
+Attract	Machop
+Thief	Machop
+Low Sweep	Machop
+Round	Machop
+Focus Blast	Machop
+Fling	Machop
+Incinerate	Machop
+Payback	Machop
+Retaliate	Machop
+Bulldoze	Machop
+Rock Slide	Machop
+Poison Jab	Machop
+Swagger	Machop
+Sleep Talk	Machop
+Substitute	Machop
+Rock SmashXY	Machop
+Secret PowerORAS	Machop
+Power-Up Punch	Machop
+Strength	Machop
+Rock SmashORAS	Machop
+Toxic	Machoke
+Bulk Up	Machoke
+Hidden Power	Machoke
+Sunny Day	Machoke
+Light Screen	Machoke
+Protect	Machoke
+Rain Dance	Machoke
+Frustration	Machoke
+Smack Down	Machoke
+Earthquake	Machoke
+Return	Machoke
+Dig	Machoke
+Brick Break	Machoke
+Double Team	Machoke
+Flamethrower	Machoke
+Fire Blast	Machoke
+Rock Tomb	Machoke
+Facade	Machoke
+Rest	Machoke
+Attract	Machoke
+Thief	Machoke
+Low Sweep	Machoke
+Round	Machoke
+Focus Blast	Machoke
+Fling	Machoke
+Incinerate	Machoke
+Payback	Machoke
+Retaliate	Machoke
+Bulldoze	Machoke
+Rock Slide	Machoke
+Poison Jab	Machoke
+Swagger	Machoke
+Sleep Talk	Machoke
+Substitute	Machoke
+Rock SmashXY	Machoke
+Secret PowerORAS	Machoke
+Power-Up Punch	Machoke
+Strength	Machoke
+Rock SmashORAS	Machoke
+Toxic	Machamp
+Bulk Up	Machamp
+Hidden Power	Machamp
+Sunny Day	Machamp
+Hyper Beam	Machamp
+Light Screen	Machamp
+Protect	Machamp
+Rain Dance	Machamp
+Frustration	Machamp
+Smack Down	Machamp
+Earthquake	Machamp
+Return	Machamp
+Dig	Machamp
+Brick Break	Machamp
+Double Team	Machamp
+Flamethrower	Machamp
+Fire Blast	Machamp
+Rock Tomb	Machamp
+Facade	Machamp
+Rest	Machamp
+Attract	Machamp
+Thief	Machamp
+Low Sweep	Machamp
+Round	Machamp
+Focus Blast	Machamp
+Fling	Machamp
+Incinerate	Machamp
+Payback	Machamp
+Retaliate	Machamp
+Giga Impact	Machamp
+Stone Edge	Machamp
+Bulldoze	Machamp
+Rock Slide	Machamp
+Poison Jab	Machamp
+Swagger	Machamp
+Sleep Talk	Machamp
+Substitute	Machamp
+Rock SmashXY	Machamp
+Secret PowerORAS	Machamp
+Power-Up Punch	Machamp
+Strength	Machamp
+Rock SmashORAS	Machamp
+Toxic	Bellsprout
+Venoshock	Bellsprout
+Hidden Power	Bellsprout
+Sunny Day	Bellsprout
+Protect	Bellsprout
+Frustration	Bellsprout
+SolarBeam	Bellsprout
+Return	Bellsprout
+Double Team	Bellsprout
+Reflect	Bellsprout
+Sludge Bomb	Bellsprout
+Facade	Bellsprout
+Rest	Bellsprout
+Attract	Bellsprout
+Thief	Bellsprout
+Round	Bellsprout
+Energy Ball	Bellsprout
+Flash	Bellsprout
+Swords Dance	Bellsprout
+Infestation	Bellsprout
+Grass Knot	Bellsprout
+Swagger	Bellsprout
+Sleep Talk	Bellsprout
+Substitute	Bellsprout
+Secret PowerORAS	Bellsprout
+Nature Power	Bellsprout
+Confide	Bellsprout
+Cut	Bellsprout
+Toxic	Weepinbell
+Venoshock	Weepinbell
+Hidden Power	Weepinbell
+Sunny Day	Weepinbell
+Protect	Weepinbell
+Frustration	Weepinbell
+Solar Beam	Weepinbell
+Return	Weepinbell
+Double Team	Weepinbell
+Reflect	Weepinbell
+Sludge Bomb	Weepinbell
+Facade	Weepinbell
+Rest	Weepinbell
+Attract	Weepinbell
+Thief	Weepinbell
+Round	Weepinbell
+Energy Ball	Weepinbell
+Flash	Weepinbell
+Swords Dance	Weepinbell
+Infestation	Weepinbell
+Grass Knot	Weepinbell
+Swagger	Weepinbell
+Sleep Talk	Weepinbell
+Substitute	Weepinbell
+Secret PowerORAS	Weepinbell
+Nature Power	Weepinbell
+Confide	Weepinbell
+Cut	Weepinbell
+Toxic	Victreebel
+Venoshock	Victreebel
+Hidden Power	Victreebel
+Sunny Day	Victreebel
+Hyper Beam	Victreebel
+Protect	Victreebel
+Frustration	Victreebel
+Solar Beam	Victreebel
+Return	Victreebel
+Double Team	Victreebel
+Reflect	Victreebel
+Sludge Bomb	Victreebel
+Facade	Victreebel
+Rest	Victreebel
+Attract	Victreebel
+Thief	Victreebel
+Round	Victreebel
+Energy Ball	Victreebel
+Giga Impact	Victreebel
+Flash	Victreebel
+Swords Dance	Victreebel
+Infestation	Victreebel
+Grass Knot	Victreebel
+Swagger	Victreebel
+Sleep Talk	Victreebel
+Substitute	Victreebel
+Secret PowerORAS	Victreebel
+Nature Power	Victreebel
+Confide	Victreebel
+Cut	Victreebel
+Toxic	Tentacool
+Hail	Tentacool
+Venoshock	Tentacool
+Hidden Power	Tentacool
+Ice Beam	Tentacool
+Blizzard	Tentacool
+Protect	Tentacool
+Rain Dance	Tentacool
+Safeguard	Tentacool
+Frustration	Tentacool
+Return	Tentacool
+Double Team	Tentacool
+Sludge Wave	Tentacool
+Sludge Bomb	Tentacool
+Facade	Tentacool
+Rest	Tentacool
+Attract	Tentacool
+Thief	Tentacool
+Round	Tentacool
+Scald	Tentacool
+Payback	Tentacool
+Swords Dance	Tentacool
+Infestation	Tentacool
+Poison Jab	Tentacool
+Swagger	Tentacool
+Sleep Talk	Tentacool
+Substitute	Tentacool
+Secret PowerORAS	Tentacool
+Dazzling Gleam	Tentacool
+Confide	Tentacool
+Cut	Tentacool
+Surf	Tentacool
+Waterfall	Tentacool
+DiveORAS	Tentacool
+Toxic	Tentacruel
+Hail	Tentacruel
+Venoshock	Tentacruel
+Hidden Power	Tentacruel
+Ice Beam	Tentacruel
+Blizzard	Tentacruel
+Protect	Tentacruel
+Rain Dance	Tentacruel
+Safeguard	Tentacruel
+Frustration	Tentacruel
+Return	Tentacruel
+Double Team	Tentacruel
+Sludge Wave	Tentacruel
+Sludge Bomb	Tentacruel
+Facade	Tentacruel
+Rest	Tentacruel
+Attract	Tentacruel
+Thief	Tentacruel
+Round	Tentacruel
+Scald	Tentacruel
+Payback	Tentacruel
+Swords Dance	Tentacruel
+Infestation	Tentacruel
+Poison Jab	Tentacruel
+Swagger	Tentacruel
+Sleep Talk	Tentacruel
+Substitute	Tentacruel
+Secret PowerORAS	Tentacruel
+Dazzling Gleam	Tentacruel
+Confide	Tentacruel
+Cut	Tentacruel
+Surf	Tentacruel
+Waterfall	Tentacruel
+DiveORAS	Tentacruel
+Toxic	Geodude
+Hidden Power	Geodude
+Sunny Day	Geodude
+Protect	Geodude
+Frustration	Geodude
+Smack Down	Geodude
+Earthquake	Geodude
+Return	Geodude
+Dig	Geodude
+Brick Break	Geodude
+Double Team	Geodude
+Flamethrower	Geodude
+Sandstorm	Geodude
+Fire Blast	Geodude
+Rock Tomb	Geodude
+Facade	Geodude
+Rest	Geodude
+Attract	Geodude
+Round	Geodude
+Fling	Geodude
+Incinerate	Geodude
+Explosion	Geodude
+Giga Impact	Geodude
+Rock Polish	Geodude
+Stone Edge	Geodude
+Gyro Ball	Geodude
+Bulldoze	Geodude
+Rock Slide	Geodude
+Swagger	Geodude
+Sleep Talk	Geodude
+Substitute	Geodude
+Rock SmashXY	Geodude
+Secret PowerORAS	Geodude
+Nature Power	Geodude
+Power-Up Punch	Geodude
+Confide	Geodude
+Strength	Geodude
+Rock SmashORAS	Geodude
+Toxic	Graveler
+Hidden Power	Graveler
+Sunny Day	Graveler
+Protect	Graveler
+Frustration	Graveler
+Smack Down	Graveler
+Earthquake	Graveler
+Return	Graveler
+Dig	Graveler
+Brick Break	Graveler
+Double Team	Graveler
+Flamethrower	Graveler
+Sandstorm	Graveler
+Fire Blast	Graveler
+Rock Tomb	Graveler
+Facade	Graveler
+Rest	Graveler
+Attract	Graveler
+Round	Graveler
+Fling	Graveler
+Incinerate	Graveler
+Explosion	Graveler
+Giga Impact	Graveler
+Rock Polish	Graveler
+Stone Edge	Graveler
+Gyro Ball	Graveler
+Bulldoze	Graveler
+Rock Slide	Graveler
+Swagger	Graveler
+Sleep Talk	Graveler
+Substitute	Graveler
+Rock SmashXY	Graveler
+Secret PowerORAS	Graveler
+Nature Power	Graveler
+Power-Up Punch	Graveler
+Confide	Graveler
+Strength	Graveler
+Rock SmashORAS	Graveler
+Roar	Golem
+Toxic	Golem
+Hidden Power	Golem
+Sunny Day	Golem
+Hyper Beam	Golem
+Protect	Golem
+Frustration	Golem
+Smack Down	Golem
+Earthquake	Golem
+Return	Golem
+Dig	Golem
+Brick Break	Golem
+Double Team	Golem
+Flamethrower	Golem
+Sandstorm	Golem
+Fire Blast	Golem
+Rock Tomb	Golem
+Facade	Golem
+Rest	Golem
+Attract	Golem
+Round	Golem
+Focus Blast	Golem
+Fling	Golem
+Incinerate	Golem
+Explosion	Golem
+Giga Impact	Golem
+Rock Polish	Golem
+Stone Edge	Golem
+Gyro Ball	Golem
+Bulldoze	Golem
+Rock Slide	Golem
+Swagger	Golem
+Sleep Talk	Golem
+Substitute	Golem
+Rock SmashXY	Golem
+Secret PowerORAS	Golem
+Nature Power	Golem
+Power-Up Punch	Golem
+Confide	Golem
+Strength	Golem
+Rock SmashORAS	Golem
+Toxic	Ponyta
+Hidden Power	Ponyta
+Sunny Day	Ponyta
+Protect	Ponyta
+Frustration	Ponyta
+Solar Beam	Ponyta
+Return	Ponyta
+Double Team	Ponyta
+Flamethrower	Ponyta
+Fire Blast	Ponyta
+Facade	Ponyta
+Flame Charge	Ponyta
+Rest	Ponyta
+Attract	Ponyta
+Round	Ponyta
+Echoed Voice	Ponyta
+Overheat	Ponyta
+Incinerate	Ponyta
+Will-O-Wisp	Ponyta
+Swagger	Ponyta
+Sleep Talk	Ponyta
+Substitute	Ponyta
+Wild Charge	Ponyta
+Secret PowerORAS	Ponyta
+Confide	Ponyta
+Strength	Ponyta
+Toxic	Rapidash
+Hidden Power	Rapidash
+Sunny Day	Rapidash
+Hyper Beam	Rapidash
+Protect	Rapidash
+Frustration	Rapidash
+Solar Beam	Rapidash
+Return	Rapidash
+Double Team	Rapidash
+Flamethrower	Rapidash
+Fire Blast	Rapidash
+Facade	Rapidash
+Flame Charge	Rapidash
+Rest	Rapidash
+Attract	Rapidash
+Round	Rapidash
+Echoed Voice	Rapidash
+Overheat	Rapidash
+Incinerate	Rapidash
+Will-O-Wisp	Rapidash
+Giga Impact	Rapidash
+Poison Jab	Rapidash
+Swagger	Rapidash
+Sleep Talk	Rapidash
+Substitute	Rapidash
+Wild Charge	Rapidash
+Secret PowerORAS	Rapidash
+Confide	Rapidash
+Strength	Rapidash
+Psyshock	Slowpoke
+Calm Mind	Slowpoke
+Toxic	Slowpoke
+Hail	Slowpoke
+Hidden Power	Slowpoke
+Sunny Day	Slowpoke
+Ice Beam	Slowpoke
+Blizzard	Slowpoke
+Light Screen	Slowpoke
+Protect	Slowpoke
+Rain Dance	Slowpoke
+Safeguard	Slowpoke
+Frustration	Slowpoke
+Earthquake	Slowpoke
+Return	Slowpoke
+Dig	Slowpoke
+Psychic	Slowpoke
+Shadow Ball	Slowpoke
+Double Team	Slowpoke
+Flamethrower	Slowpoke
+Fire Blast	Slowpoke
+Facade	Slowpoke
+Rest	Slowpoke
+Attract	Slowpoke
+Round	Slowpoke
+Echoed Voice	Slowpoke
+Scald	Slowpoke
+Incinerate	Slowpoke
+Flash	Slowpoke
+Thunder Wave	Slowpoke
+Psych Up	Slowpoke
+Bulldoze	Slowpoke
+Dream Eater	Slowpoke
+Grass Knot	Slowpoke
+Swagger	Slowpoke
+Sleep Talk	Slowpoke
+Substitute	Slowpoke
+Trick Room	Slowpoke
+Secret PowerORAS	Slowpoke
+Confide	Slowpoke
+Surf	Slowpoke
+Strength	Slowpoke
+DiveORAS	Slowpoke
+Psyshock	Slowbro
+Calm Mind	Slowbro
+Toxic	Slowbro
+Hail	Slowbro
+Hidden Power	Slowbro
+Sunny Day	Slowbro
+Ice Beam	Slowbro
+Blizzard	Slowbro
+Hyper Beam	Slowbro
+Light Screen	Slowbro
+Protect	Slowbro
+Rain Dance	Slowbro
+Safeguard	Slowbro
+Frustration	Slowbro
+Earthquake	Slowbro
+Return	Slowbro
+Dig	Slowbro
+Psychic	Slowbro
+Shadow Ball	Slowbro
+Brick Break	Slowbro
+Double Team	Slowbro
+Flamethrower	Slowbro
+Fire Blast	Slowbro
+Aerial Ace	Slowbro
+Facade	Slowbro
+Rest	Slowbro
+Attract	Slowbro
+Round	Slowbro
+Echoed Voice	Slowbro
+Focus Blast	Slowbro
+Scald	Slowbro
+Fling	Slowbro
+Incinerate	Slowbro
+Giga Impact	Slowbro
+Flash	Slowbro
+Thunder Wave	Slowbro
+Psych Up	Slowbro
+Bulldoze	Slowbro
+Dream Eater	Slowbro
+Grass Knot	Slowbro
+Swagger	Slowbro
+Sleep Talk	Slowbro
+Substitute	Slowbro
+Trick Room	Slowbro
+Rock SmashXY	Slowbro
+Secret PowerORAS	Slowbro
+Confide	Slowbro
+Surf	Slowbro
+Strength	Slowbro
+Rock SmashORAS	Slowbro
+DiveORAS	Slowbro
+Toxic	Magnemite
+Hidden Power	Magnemite
+Sunny Day	Magnemite
+Light Screen	Magnemite
+Protect	Magnemite
+Rain Dance	Magnemite
+Frustration	Magnemite
+Thunderbolt	Magnemite
+Thunder	Magnemite
+Return	Magnemite
+Double Team	Magnemite
+Reflect	Magnemite
+Facade	Magnemite
+Rest	Magnemite
+Round	Magnemite
+Charge Beam	Magnemite
+Explosion	Magnemite
+Flash	Magnemite
+Volt Switch	Magnemite
+Thunder Wave	Magnemite
+Gyro Ball	Magnemite
+Psych Up	Magnemite
+Swagger	Magnemite
+Sleep Talk	Magnemite
+Substitute	Magnemite
+Flash Cannon	Magnemite
+Wild Charge	Magnemite
+Secret PowerORAS	Magnemite
+Confide	Magnemite
+Toxic	Magneton
+Hidden Power	Magneton
+Sunny Day	Magneton
+Hyper Beam	Magneton
+Light Screen	Magneton
+Protect	Magneton
+Rain Dance	Magneton
+Frustration	Magneton
+Thunderbolt	Magneton
+Thunder	Magneton
+Return	Magneton
+Double Team	Magneton
+Reflect	Magneton
+Facade	Magneton
+Rest	Magneton
+Round	Magneton
+Charge Beam	Magneton
+Explosion	Magneton
+Giga Impact	Magneton
+Flash	Magneton
+Volt Switch	Magneton
+Thunder Wave	Magneton
+Gyro Ball	Magneton
+Psych Up	Magneton
+Swagger	Magneton
+Sleep Talk	Magneton
+Substitute	Magneton
+Flash Cannon	Magneton
+Wild Charge	Magneton
+Secret PowerORAS	Magneton
+Confide	Magneton
+Toxic	Farfetch'd
+Hidden Power	Farfetch'd
+Sunny Day	Farfetch'd
+Protect	Farfetch'd
+Roost	Farfetch'd
+Frustration	Farfetch'd
+Return	Farfetch'd
+Double Team	Farfetch'd
+Aerial Ace	Farfetch'd
+Facade	Farfetch'd
+Rest	Farfetch'd
+Attract	Farfetch'd
+Thief	Farfetch'd
+Round	Farfetch'd
+Steel Wing	Farfetch'd
+False Swipe	Farfetch'd
+Acrobatics	Farfetch'd
+Retaliate	Farfetch'd
+Swords Dance	Farfetch'd
+Psych Up	Farfetch'd
+Poison Jab	Farfetch'd
+Swagger	Farfetch'd
+Sleep Talk	Farfetch'd
+U-turn	Farfetch'd
+Substitute	Farfetch'd
+Secret PowerORAS	Farfetch'd
+Confide	Farfetch'd
+Cut	Farfetch'd
+Fly	Farfetch'd
+Toxic	Doduo
+Hidden Power	Doduo
+Sunny Day	Doduo
+Protect	Doduo
+Roost	Doduo
+Frustration	Doduo
+Return	Doduo
+Double Team	Doduo
+Aerial Ace	Doduo
+Facade	Doduo
+Rest	Doduo
+Attract	Doduo
+Thief	Doduo
+Round	Doduo
+Echoed Voice	Doduo
+Steel Wing	Doduo
+Swagger	Doduo
+Sleep Talk	Doduo
+Substitute	Doduo
+Secret PowerORAS	Doduo
+Confide	Doduo
+Fly	Doduo
+Toxic	Dodrio
+Hidden Power	Dodrio
+Sunny Day	Dodrio
+Taunt	Dodrio
+Hyper Beam	Dodrio
+Protect	Dodrio
+Roost	Dodrio
+Frustration	Dodrio
+Return	Dodrio
+Double Team	Dodrio
+Aerial Ace	Dodrio
+Torment	Dodrio
+Facade	Dodrio
+Rest	Dodrio
+Attract	Dodrio
+Thief	Dodrio
+Round	Dodrio
+Echoed Voice	Dodrio
+Steel Wing	Dodrio
+Payback	Dodrio
+Giga Impact	Dodrio
+Swagger	Dodrio
+Sleep Talk	Dodrio
+Substitute	Dodrio
+Secret PowerORAS	Dodrio
+Confide	Dodrio
+Fly	Dodrio
+Toxic	Seel
+Hail	Seel
+Hidden Power	Seel
+Ice Beam	Seel
+Blizzard	Seel
+Protect	Seel
+Rain Dance	Seel
+Safeguard	Seel
+Frustration	Seel
+Return	Seel
+Double Team	Seel
+Facade	Seel
+Rest	Seel
+Attract	Seel
+Thief	Seel
+Round	Seel
+Echoed Voice	Seel
+Fling	Seel
+Swagger	Seel
+Sleep Talk	Seel
+Substitute	Seel
+Secret PowerORAS	Seel
+Confide	Seel
+Surf	Seel
+Waterfall	Seel
+DiveORAS	Seel
+Toxic	Dewgong
+Hail	Dewgong
+Hidden Power	Dewgong
+Ice Beam	Dewgong
+Blizzard	Dewgong
+Hyper Beam	Dewgong
+Protect	Dewgong
+Rain Dance	Dewgong
+Safeguard	Dewgong
+Frustration	Dewgong
+Return	Dewgong
+Double Team	Dewgong
+Facade	Dewgong
+Rest	Dewgong
+Attract	Dewgong
+Thief	Dewgong
+Round	Dewgong
+Echoed Voice	Dewgong
+Fling	Dewgong
+Giga Impact	Dewgong
+Frost Breath	Dewgong
+Swagger	Dewgong
+Sleep Talk	Dewgong
+Substitute	Dewgong
+Secret PowerORAS	Dewgong
+Confide	Dewgong
+Surf	Dewgong
+Waterfall	Dewgong
+DiveORAS	Dewgong
+Toxic	Grimer
+Venoshock	Grimer
+Hidden Power	Grimer
+Sunny Day	Grimer
+Taunt	Grimer
+Protect	Grimer
+Rain Dance	Grimer
+Frustration	Grimer
+Thunderbolt	Grimer
+Thunder	Grimer
+Return	Grimer
+Dig	Grimer
+Shadow Ball	Grimer
+Double Team	Grimer
+Sludge Wave	Grimer
+Flamethrower	Grimer
+Sludge Bomb	Grimer
+Fire Blast	Grimer
+Rock Tomb	Grimer
+Torment	Grimer
+Facade	Grimer
+Rest	Grimer
+Attract	Grimer
+Thief	Grimer
+Round	Grimer
+Fling	Grimer
+Incinerate	Grimer
+Explosion	Grimer
+Payback	Grimer
+Rock Slide	Grimer
+Infestation	Grimer
+Poison Jab	Grimer
+Swagger	Grimer
+Sleep Talk	Grimer
+Substitute	Grimer
+Secret PowerORAS	Grimer
+Power-Up Punch	Grimer
+Confide	Grimer
+Strength	Grimer
+Toxic	Muk
+Venoshock	Muk
+Hidden Power	Muk
+Sunny Day	Muk
+Taunt	Muk
+Hyper Beam	Muk
+Protect	Muk
+Rain Dance	Muk
+Frustration	Muk
+Thunderbolt	Muk
+Thunder	Muk
+Return	Muk
+Dig	Muk
+Shadow Ball	Muk
+Brick Break	Muk
+Double Team	Muk
+Sludge Wave	Muk
+Flamethrower	Muk
+Sludge Bomb	Muk
+Fire Blast	Muk
+Rock Tomb	Muk
+Torment	Muk
+Facade	Muk
+Rest	Muk
+Attract	Muk
+Thief	Muk
+Round	Muk
+Focus Blast	Muk
+Fling	Muk
+Incinerate	Muk
+Explosion	Muk
+Payback	Muk
+Giga Impact	Muk
+Rock Slide	Muk
+Infestation	Muk
+Poison Jab	Muk
+Swagger	Muk
+Sleep Talk	Muk
+Substitute	Muk
+Rock SmashXY	Muk
+Secret PowerORAS	Muk
+Dark Pulse	Muk
+Power-Up Punch	Muk
+Confide	Muk
+Strength	Muk
+Rock SmashORAS	Muk
+Toxic	Shellder
+Hail	Shellder
+Hidden Power	Shellder
+Ice Beam	Shellder
+Blizzard	Shellder
+Protect	Shellder
+Rain Dance	Shellder
+Frustration	Shellder
+Return	Shellder
+Double Team	Shellder
+Facade	Shellder
+Rest	Shellder
+Attract	Shellder
+Round	Shellder
+Explosion	Shellder
+Payback	Shellder
+Swagger	Shellder
+Sleep Talk	Shellder
+Substitute	Shellder
+Secret PowerORAS	Shellder
+Confide	Shellder
+Surf	Shellder
+DiveORAS	Shellder
+Toxic	Cloyster
+Hail	Cloyster
+Hidden Power	Cloyster
+Ice Beam	Cloyster
+Blizzard	Cloyster
+Hyper Beam	Cloyster
+Protect	Cloyster
+Rain Dance	Cloyster
+Frustration	Cloyster
+Return	Cloyster
+Double Team	Cloyster
+Torment	Cloyster
+Facade	Cloyster
+Rest	Cloyster
+Attract	Cloyster
+Round	Cloyster
+Explosion	Cloyster
+Payback	Cloyster
+Giga Impact	Cloyster
+Frost Breath	Cloyster
+Poison Jab	Cloyster
+Swagger	Cloyster
+Sleep Talk	Cloyster
+Substitute	Cloyster
+Secret PowerORAS	Cloyster
+Confide	Cloyster
+Surf	Cloyster
+DiveORAS	Cloyster
+Toxic	Gastly
+Venoshock	Gastly
+Hidden Power	Gastly
+Sunny Day	Gastly
+Taunt	Gastly
+Protect	Gastly
+Rain Dance	Gastly
+Frustration	Gastly
+Thunderbolt	Gastly
+Return	Gastly
+Psychic	Gastly
+Shadow Ball	Gastly
+Double Team	Gastly
+Sludge Bomb	Gastly
+Torment	Gastly
+Facade	Gastly
+Rest	Gastly
+Attract	Gastly
+Thief	Gastly
+Round	Gastly
+Energy Ball	Gastly
+Will-O-Wisp	Gastly
+Embargo	Gastly
+Explosion	Gastly
+Payback	Gastly
+Psych Up	Gastly
+Infestation	Gastly
+Dream Eater	Gastly
+Swagger	Gastly
+Sleep Talk	Gastly
+Substitute	Gastly
+Trick Room	Gastly
+Secret PowerORAS	Gastly
+Dark Pulse	Gastly
+Dazzling Gleam	Gastly
+Confide	Gastly
+Toxic	Haunter
+Venoshock	Haunter
+Hidden Power	Haunter
+Sunny Day	Haunter
+Taunt	Haunter
+Protect	Haunter
+Rain Dance	Haunter
+Frustration	Haunter
+Thunderbolt	Haunter
+Return	Haunter
+Psychic	Haunter
+Shadow Ball	Haunter
+Double Team	Haunter
+Sludge Bomb	Haunter
+Torment	Haunter
+Facade	Haunter
+Rest	Haunter
+Attract	Haunter
+Thief	Haunter
+Round	Haunter
+Energy Ball	Haunter
+Fling	Haunter
+Will-O-Wisp	Haunter
+Embargo	Haunter
+Explosion	Haunter
+Shadow Claw	Haunter
+Payback	Haunter
+Psych Up	Haunter
+Infestation	Haunter
+Poison Jab	Haunter
+Dream Eater	Haunter
+Swagger	Haunter
+Substitute	Haunter
+Trick Room	Haunter
+Secret PowerORAS	Haunter
+Dark Pulse	Haunter
+Dazzling Gleam	Haunter
+Confide	Haunter
+Toxic	Gengar
+Venoshock	Gengar
+Hidden Power	Gengar
+Sunny Day	Gengar
+Taunt	Gengar
+Hyper Beam	Gengar
+Protect	Gengar
+Rain Dance	Gengar
+Frustration	Gengar
+Thunderbolt	Gengar
+Thunder	Gengar
+Return	Gengar
+Psychic	Gengar
+Shadow Ball	Gengar
+Brick Break	Gengar
+Double Team	Gengar
+Sludge Bomb	Gengar
+Torment	Gengar
+Facade	Gengar
+Rest	Gengar
+Attract	Gengar
+Thief	Gengar
+Round	Gengar
+Focus Blast	Gengar
+Energy Ball	Gengar
+Fling	Gengar
+Will-O-Wisp	Gengar
+Embargo	Gengar
+Explosion	Gengar
+Shadow Claw	Gengar
+Payback	Gengar
+Giga Impact	Gengar
+Psych Up	Gengar
+Infestation	Gengar
+Poison Jab	Gengar
+Dream Eater	Gengar
+Swagger	Gengar
+Sleep Talk	Gengar
+Substitute	Gengar
+Trick Room	Gengar
+Rock SmashXY	Gengar
+Secret PowerORAS	Gengar
+Dark Pulse	Gengar
+Power-Up Punch	Gengar
+Dazzling Gleam	Gengar
+Confide	Gengar
+Strength	Gengar
+Rock SmashORAS	Gengar
+Psyshock	Onix
+Calm Mind	Onix
+Toxic	Onix
+Hidden Power	Onix
+Sunny Day	Onix
+Taunt	Onix
+Light Screen	Onix
+Protect	Onix
+Rain Dance	Onix
+Safeguard	Onix
+Frustration	Onix
+Return	Onix
+Psychic	Onix
+Shadow Ball	Onix
+Brick Break	Onix
+Double Team	Onix
+Reflect	Onix
+Torment	Onix
+Facade	Onix
+Rest	Onix
+Attract	Onix
+Thief	Onix
+Low Sweep	Onix
+Round	Onix
+Fling	Onix
+Flash	Onix
+Thunder Wave	Onix
+Psych Up	Onix
+Dream Eater	Onix
+Grass Knot	Onix
+Swagger	Onix
+Sleep Talk	Onix
+Substitute	Onix
+Trick Room	Onix
+Secret PowerORAS	Onix
+Power-Up Punch	Onix
+Dazzling Gleam	Onix
+Confide	Onix
+Psyshock	Drowzee
+Calm Mind	Drowzee
+Toxic	Drowzee
+Hidden Power	Drowzee
+Sunny Day	Drowzee
+Taunt	Drowzee
+Light Screen	Drowzee
+Protect	Drowzee
+Rain Dance	Drowzee
+Safeguard	Drowzee
+Frustration	Drowzee
+Return	Drowzee
+Psychic	Drowzee
+Shadow Ball	Drowzee
+Brick Break	Drowzee
+Double Team	Drowzee
+Reflect	Drowzee
+Torment	Drowzee
+Facade	Drowzee
+Rest	Drowzee
+Attract	Drowzee
+Thief	Drowzee
+Low Sweep	Drowzee
+Round	Drowzee
+Fling	Drowzee
+Flash	Drowzee
+Thunder Wave	Drowzee
+Psych Up	Drowzee
+Dream Eater	Drowzee
+Grass Knot	Drowzee
+Swagger	Drowzee
+Sleep Talk	Drowzee
+Substitute	Drowzee
+Trick Room	Drowzee
+Secret PowerORAS	Drowzee
+Power-Up Punch	Drowzee
+Dazzling Gleam	Drowzee
+Confide	Drowzee
+Psyshock	Hypno
+Calm Mind	Hypno
+Toxic	Hypno
+Hidden Power	Hypno
+Sunny Day	Hypno
+Taunt	Hypno
+Hyper Beam	Hypno
+Light Screen	Hypno
+Protect	Hypno
+Rain Dance	Hypno
+Safeguard	Hypno
+Frustration	Hypno
+Return	Hypno
+Psychic	Hypno
+Shadow Ball	Hypno
+Brick Break	Hypno
+Double Team	Hypno
+Reflect	Hypno
+Torment	Hypno
+Facade	Hypno
+Rest	Hypno
+Attract	Hypno
+Thief	Hypno
+Low Sweep	Hypno
+Round	Hypno
+Focus Blast	Hypno
+Fling	Hypno
+Giga Impact	Hypno
+Flash	Hypno
+Thunder Wave	Hypno
+Psych Up	Hypno
+Dream Eater	Hypno
+Grass Knot	Hypno
+Swagger	Hypno
+Sleep Talk	Hypno
+Substitute	Hypno
+Trick Room	Hypno
+Secret PowerORAS	Hypno
+Power-Up Punch	Hypno
+Dazzling Gleam	Hypno
+Confide	Hypno
+Hone Claws	Krabby
+Toxic	Krabby
+Hail	Krabby
+Hidden Power	Krabby
+Ice Beam	Krabby
+Blizzard	Krabby
+Protect	Krabby
+Rain Dance	Krabby
+Frustration	Krabby
+Return	Krabby
+Dig	Krabby
+Brick Break	Krabby
+Double Team	Krabby
+Rock Tomb	Krabby
+Facade	Krabby
+Rest	Krabby
+Attract	Krabby
+Thief	Krabby
+Round	Krabby
+False Swipe	Krabby
+Scald	Krabby
+Fling	Krabby
+Swords Dance	Krabby
+Rock Slide	Krabby
+X-Scissor	Krabby
+Swagger	Krabby
+Sleep Talk	Krabby
+Substitute	Krabby
+Rock SmashXY	Krabby
+Secret PowerORAS	Krabby
+Confide	Krabby
+Cut	Krabby
+Surf	Krabby
+Strength	Krabby
+Rock SmashORAS	Krabby
+DiveORAS	Krabby
+Hone Claws	Kingler
+Toxic	Kingler
+Hail	Kingler
+Hidden Power	Kingler
+Ice Beam	Kingler
+Blizzard	Kingler
+Hyper Beam	Kingler
+Protect	Kingler
+Rain Dance	Kingler
+Frustration	Kingler
+Return	Kingler
+Dig	Kingler
+Brick Break	Kingler
+Double Team	Kingler
+Rock Tomb	Kingler
+Facade	Kingler
+Rest	Kingler
+Attract	Kingler
+Thief	Kingler
+Round	Kingler
+False Swipe	Kingler
+Scald	Kingler
+Fling	Kingler
+Quash	Kingler
+Giga Impact	Kingler
+Swords Dance	Kingler
+Rock Slide	Kingler
+X-Scissor	Kingler
+Swagger	Kingler
+Sleep Talk	Kingler
+Substitute	Kingler
+Rock SmashXY	Kingler
+Secret PowerORAS	Kingler
+Confide	Kingler
+Cut	Kingler
+Surf	Kingler
+Strength	Kingler
+Rock SmashORAS	Kingler
+DiveORAS	Kingler
+Toxic	Voltorb
+Hidden Power	Voltorb
+Taunt	Voltorb
+Light Screen	Voltorb
+Protect	Voltorb
+Rain Dance	Voltorb
+Frustration	Voltorb
+Thunderbolt	Voltorb
+Thunder	Voltorb
+Return	Voltorb
+Double Team	Voltorb
+Torment	Voltorb
+Facade	Voltorb
+Rest	Voltorb
+Thief	Voltorb
+Round	Voltorb
+Charge Beam	Voltorb
+Explosion	Voltorb
+Flash	Voltorb
+Volt Switch	Voltorb
+Thunder Wave	Voltorb
+Gyro Ball	Voltorb
+Swagger	Voltorb
+Sleep Talk	Voltorb
+Substitute	Voltorb
+Wild Charge	Voltorb
+Secret PowerORAS	Voltorb
+Confide	Voltorb
+Toxic	Electrode
+Hidden Power	Electrode
+Taunt	Electrode
+Hyper Beam	Electrode
+Light Screen	Electrode
+Protect	Electrode
+Rain Dance	Electrode
+Frustration	Electrode
+Thunderbolt	Electrode
+Thunder	Electrode
+Return	Electrode
+Double Team	Electrode
+Torment	Electrode
+Facade	Electrode
+Rest	Electrode
+Thief	Electrode
+Round	Electrode
+Charge Beam	Electrode
+Explosion	Electrode
+Giga Impact	Electrode
+Flash	Electrode
+Volt Switch	Electrode
+Thunder Wave	Electrode
+Gyro Ball	Electrode
+Swagger	Electrode
+Sleep Talk	Electrode
+Substitute	Electrode
+Wild Charge	Electrode
+Secret PowerORAS	Electrode
+Confide	Electrode
+Toxic	Exeggcute
+Hidden Power	Exeggcute
+Sunny Day	Exeggcute
+Light Screen	Exeggcute
+Protect	Exeggcute
+Frustration	Exeggcute
+Solar Beam	Exeggcute
+Return	Exeggcute
+Psychic	Exeggcute
+Double Team	Exeggcute
+Reflect	Exeggcute
+Sludge Bomb	Exeggcute
+Facade	Exeggcute
+Rest	Exeggcute
+Attract	Exeggcute
+Thief	Exeggcute
+Round	Exeggcute
+Energy Ball	Exeggcute
+Explosion	Exeggcute
+Flash	Exeggcute
+Swords Dance	Exeggcute
+Psych Up	Exeggcute
+Infestation	Exeggcute
+Dream Eater	Exeggcute
+Grass Knot	Exeggcute
+Swagger	Exeggcute
+Sleep Talk	Exeggcute
+Substitute	Exeggcute
+Trick Room	Exeggcute
+Secret PowerORAS	Exeggcute
+Nature Power	Exeggcute
+Confide	Exeggcute
+Strength	Exeggcute
+Psyshock	Exeggutor
+Toxic	Exeggutor
+Hidden Power	Exeggutor
+Sunny Day	Exeggutor
+Hyper Beam	Exeggutor
+Light Screen	Exeggutor
+Protect	Exeggutor
+Frustration	Exeggutor
+Solar Beam	Exeggutor
+Return	Exeggutor
+Psychic	Exeggutor
+Double Team	Exeggutor
+Reflect	Exeggutor
+Sludge Bomb	Exeggutor
+Facade	Exeggutor
+Rest	Exeggutor
+Attract	Exeggutor
+Thief	Exeggutor
+Round	Exeggutor
+Energy Ball	Exeggutor
+Explosion	Exeggutor
+Giga Impact	Exeggutor
+Flash	Exeggutor
+Swords Dance	Exeggutor
+Psych Up	Exeggutor
+Infestation	Exeggutor
+Dream Eater	Exeggutor
+Grass Knot	Exeggutor
+Swagger	Exeggutor
+Sleep Talk	Exeggutor
+Substitute	Exeggutor
+Trick Room	Exeggutor
+Secret PowerORAS	Exeggutor
+Nature Power	Exeggutor
+Confide	Exeggutor
+Strength	Exeggutor
+Toxic	Cubone
+Hidden Power	Cubone
+Sunny Day	Cubone
+Ice Beam	Cubone
+Blizzard	Cubone
+Protect	Cubone
+Frustration	Cubone
+Smack Down	Cubone
+Earthquake	Cubone
+Return	Cubone
+Dig	Cubone
+Brick Break	Cubone
+Double Team	Cubone
+Flamethrower	Cubone
+Sandstorm	Cubone
+Fire Blast	Cubone
+Rock Tomb	Cubone
+Aerial Ace	Cubone
+Facade	Cubone
+Rest	Cubone
+Attract	Cubone
+Thief	Cubone
+Round	Cubone
+Echoed Voice	Cubone
+False Swipe	Cubone
+Fling	Cubone
+Incinerate	Cubone
+Retaliate	Cubone
+Swords Dance	Cubone
+Bulldoze	Cubone
+Rock Slide	Cubone
+Swagger	Cubone
+Sleep Talk	Cubone
+Substitute	Cubone
+Rock SmashXY	Cubone
+Secret PowerORAS	Cubone
+Power-Up Punch	Cubone
+Confide	Cubone
+Strength	Cubone
+Rock SmashORAS	Cubone
+Toxic	Marowak
+Hidden Power	Marowak
+Sunny Day	Marowak
+Ice Beam	Marowak
+Blizzard	Marowak
+Hyper Beam	Marowak
+Protect	Marowak
+Frustration	Marowak
+Smack Down	Marowak
+Earthquake	Marowak
+Return	Marowak
+Dig	Marowak
+Brick Break	Marowak
+Double Team	Marowak
+Flamethrower	Marowak
+Sandstorm	Marowak
+Fire Blast	Marowak
+Rock Tomb	Marowak
+Aerial Ace	Marowak
+Facade	Marowak
+Rest	Marowak
+Attract	Marowak
+Thief	Marowak
+Round	Marowak
+Echoed Voice	Marowak
+Focus Blast	Marowak
+False Swipe	Marowak
+Fling	Marowak
+Incinerate	Marowak
+Retaliate	Marowak
+Giga Impact	Marowak
+Stone Edge	Marowak
+Swords Dance	Marowak
+Bulldoze	Marowak
+Rock Slide	Marowak
+Swagger	Marowak
+Sleep Talk	Marowak
+Substitute	Marowak
+Rock SmashXY	Marowak
+Secret PowerORAS	Marowak
+Power-Up Punch	Marowak
+Confide	Marowak
+Strength	Marowak
+Rock SmashORAS	Marowak
+Toxic	Hitmonlee
+Bulk Up	Hitmonlee
+Hidden Power	Hitmonlee
+Sunny Day	Hitmonlee
+Protect	Hitmonlee
+Rain Dance	Hitmonlee
+Frustration	Hitmonlee
+Earthquake	Hitmonlee
+Return	Hitmonlee
+Brick Break	Hitmonlee
+Double Team	Hitmonlee
+Rock Tomb	Hitmonlee
+Facade	Hitmonlee
+Rest	Hitmonlee
+Attract	Hitmonlee
+Thief	Hitmonlee
+Low Sweep	Hitmonlee
+Round	Hitmonlee
+Focus Blast	Hitmonlee
+Fling	Hitmonlee
+Retaliate	Hitmonlee
+Stone Edge	Hitmonlee
+Bulldoze	Hitmonlee
+Rock Slide	Hitmonlee
+Poison Jab	Hitmonlee
+Swagger	Hitmonlee
+Sleep Talk	Hitmonlee
+Substitute	Hitmonlee
+Rock SmashXY	Hitmonlee
+Secret PowerORAS	Hitmonlee
+Power-Up Punch	Hitmonlee
+Confide	Hitmonlee
+Strength	Hitmonlee
+Rock SmashORAS	Hitmonlee
+Toxic	Hitmonchan
+Bulk Up	Hitmonchan
+Hidden Power	Hitmonchan
+Sunny Day	Hitmonchan
+Protect	Hitmonchan
+Rain Dance	Hitmonchan
+Frustration	Hitmonchan
+Earthquake	Hitmonchan
+Return	Hitmonchan
+Brick Break	Hitmonchan
+Double Team	Hitmonchan
+Rock Tomb	Hitmonchan
+Facade	Hitmonchan
+Rest	Hitmonchan
+Attract	Hitmonchan
+Thief	Hitmonchan
+Low Sweep	Hitmonchan
+Round	Hitmonchan
+Focus Blast	Hitmonchan
+Fling	Hitmonchan
+Retaliate	Hitmonchan
+Stone Edge	Hitmonchan
+Bulldoze	Hitmonchan
+Rock Slide	Hitmonchan
+Swagger	Hitmonchan
+Sleep Talk	Hitmonchan
+Substitute	Hitmonchan
+Rock SmashXY	Hitmonchan
+Secret PowerORAS	Hitmonchan
+Power-Up Punch	Hitmonchan
+Confide	Hitmonchan
+Strength	Hitmonchan
+Rock SmashORAS	Hitmonchan
+Toxic	Lickitung
+Hidden Power	Lickitung
+Sunny Day	Lickitung
+Ice Beam	Lickitung
+Blizzard	Lickitung
+Hyper Beam	Lickitung
+Protect	Lickitung
+Rain Dance	Lickitung
+Frustration	Lickitung
+Solar Beam	Lickitung
+Thunderbolt	Lickitung
+Thunder	Lickitung
+Earthquake	Lickitung
+Return	Lickitung
+Dig	Lickitung
+Shadow Ball	Lickitung
+Brick Break	Lickitung
+Double Team	Lickitung
+Flamethrower	Lickitung
+Sandstorm	Lickitung
+Fire Blast	Lickitung
+Rock Tomb	Lickitung
+Facade	Lickitung
+Rest	Lickitung
+Attract	Lickitung
+Thief	Lickitung
+Round	Lickitung
+Fling	Lickitung
+Incinerate	Lickitung
+Retaliate	Lickitung
+Giga Impact	Lickitung
+Swords Dance	Lickitung
+Psych Up	Lickitung
+Bulldoze	Lickitung
+Rock Slide	Lickitung
+Dragon Tail	Lickitung
+Dream Eater	Lickitung
+Swagger	Lickitung
+Sleep Talk	Lickitung
+Substitute	Lickitung
+Rock SmashXY	Lickitung
+Secret PowerORAS	Lickitung
+Power-Up Punch	Lickitung
+Confide	Lickitung
+Cut	Lickitung
+Surf	Lickitung
+Strength	Lickitung
+Rock SmashORAS	Lickitung
+Toxic	Koffing
+Venoshock	Koffing
+Hidden Power	Koffing
+Sunny Day	Koffing
+Taunt	Koffing
+Protect	Koffing
+Rain Dance	Koffing
+Frustration	Koffing
+Thunderbolt	Koffing
+Thunder	Koffing
+Return	Koffing
+Shadow Ball	Koffing
+Double Team	Koffing
+Flamethrower	Koffing
+Sludge Bomb	Koffing
+Fire Blast	Koffing
+Torment	Koffing
+Facade	Koffing
+Rest	Koffing
+Attract	Koffing
+Thief	Koffing
+Round	Koffing
+Incinerate	Koffing
+Will-O-Wisp	Koffing
+Explosion	Koffing
+Payback	Koffing
+Flash	Koffing
+Gyro Ball	Koffing
+Infestation	Koffing
+Swagger	Koffing
+Sleep Talk	Koffing
+Substitute	Koffing
+Secret PowerORAS	Koffing
+Dark Pulse	Koffing
+Confide	Koffing
+Toxic	Weezing
+Venoshock	Weezing
+Hidden Power	Weezing
+Sunny Day	Weezing
+Taunt	Weezing
+Hyper Beam	Weezing
+Protect	Weezing
+Rain Dance	Weezing
+Frustration	Weezing
+Thunderbolt	Weezing
+Thunder	Weezing
+Return	Weezing
+Shadow Ball	Weezing
+Double Team	Weezing
+Flamethrower	Weezing
+Sludge Bomb	Weezing
+Fire Blast	Weezing
+Torment	Weezing
+Facade	Weezing
+Rest	Weezing
+Attract	Weezing
+Thief	Weezing
+Round	Weezing
+Incinerate	Weezing
+Will-O-Wisp	Weezing
+Explosion	Weezing
+Payback	Weezing
+Giga Impact	Weezing
+Flash	Weezing
+Gyro Ball	Weezing
+Infestation	Weezing
+Swagger	Weezing
+Sleep Talk	Weezing
+Substitute	Weezing
+Secret PowerORAS	Weezing
+Dark Pulse	Weezing
+Confide	Weezing
+Roar	Rhyhorn
+Toxic	Rhyhorn
+Hidden Power	Rhyhorn
+Sunny Day	Rhyhorn
+Ice Beam	Rhyhorn
+Blizzard	Rhyhorn
+Protect	Rhyhorn
+Rain Dance	Rhyhorn
+Frustration	Rhyhorn
+Smack DownORAS	Rhyhorn
+Thunderbolt	Rhyhorn
+Thunder	Rhyhorn
+Earthquake	Rhyhorn
+Return	Rhyhorn
+Dig	Rhyhorn
+Double Team	Rhyhorn
+Flamethrower	Rhyhorn
+Sandstorm	Rhyhorn
+Fire Blast	Rhyhorn
+Rock Tomb	Rhyhorn
+Facade	Rhyhorn
+Rest	Rhyhorn
+Attract	Rhyhorn
+Thief	Rhyhorn
+Round	Rhyhorn
+Incinerate	Rhyhorn
+Payback	Rhyhorn
+Rock Polish	Rhyhorn
+Stone Edge	Rhyhorn
+Swords Dance	Rhyhorn
+Bulldoze	Rhyhorn
+Rock Slide	Rhyhorn
+Poison Jab	Rhyhorn
+Swagger	Rhyhorn
+Sleep Talk	Rhyhorn
+Substitute	Rhyhorn
+Rock SmashXY	Rhyhorn
+Secret PowerORAS	Rhyhorn
+Confide	Rhyhorn
+Strength	Rhyhorn
+Rock SmashORAS	Rhyhorn
+Roar	Rhydon
+Toxic	Rhydon
+Hidden Power	Rhydon
+Sunny Day	Rhydon
+Ice Beam	Rhydon
+Blizzard	Rhydon
+Hyper Beam	Rhydon
+Protect	Rhydon
+Rain Dance	Rhydon
+Frustration	Rhydon
+Smack Down	Rhydon
+Thunderbolt	Rhydon
+Thunder	Rhydon
+Earthquake	Rhydon
+Return	Rhydon
+Dig	Rhydon
+Brick Break	Rhydon
+Double Team	Rhydon
+Flamethrower	Rhydon
+Sandstorm	Rhydon
+Fire Blast	Rhydon
+Rock Tomb	Rhydon
+Facade	Rhydon
+Rest	Rhydon
+Attract	Rhydon
+Thief	Rhydon
+Round	Rhydon
+Focus Blast	Rhydon
+Fling	Rhydon
+Incinerate	Rhydon
+Shadow Claw	Rhydon
+Payback	Rhydon
+Giga Impact	Rhydon
+Rock Polish	Rhydon
+Stone Edge	Rhydon
+Swords Dance	Rhydon
+Bulldoze	Rhydon
+Rock Slide	Rhydon
+Dragon Tail	Rhydon
+Poison Jab	Rhydon
+Swagger	Rhydon
+Sleep Talk	Rhydon
+Substitute	Rhydon
+Rock SmashXY	Rhydon
+Secret PowerORAS	Rhydon
+Power-Up Punch	Rhydon
+Confide	Rhydon
+Cut	Rhydon
+Surf	Rhydon
+Strength	Rhydon
+Rock SmashORAS	Rhydon
+Calm Mind	Chansey
+Toxic	Chansey
+Hail	Chansey
+Hidden Power	Chansey
+Sunny Day	Chansey
+Ice Beam	Chansey
+Blizzard	Chansey
+Hyper Beam	Chansey
+Light Screen	Chansey
+Protect	Chansey
+Rain Dance	Chansey
+Safeguard	Chansey
+Frustration	Chansey
+Solar Beam	Chansey
+Thunderbolt	Chansey
+Thunder	Chansey
+Earthquake	Chansey
+Return	Chansey
+Psychic	Chansey
+Shadow Ball	Chansey
+Brick Break	Chansey
+Double Team	Chansey
+Flamethrower	Chansey
+Sandstorm	Chansey
+Fire Blast	Chansey
+Rock Tomb	Chansey
+Facade	Chansey
+Rest	Chansey
+Attract	Chansey
+Round	Chansey
+Echoed Voice	Chansey
+Fling	Chansey
+Charge Beam	Chansey
+Incinerate	Chansey
+Giga Impact	Chansey
+Flash	Chansey
+Thunder Wave	Chansey
+Psych Up	Chansey
+Bulldoze	Chansey
+Rock Slide	Chansey
+Dream Eater	Chansey
+Grass Knot	Chansey
+Swagger	Chansey
+Sleep Talk	Chansey
+Substitute	Chansey
+Wild Charge	Chansey
+Rock SmashXY	Chansey
+Secret PowerORAS	Chansey
+Power-Up Punch	Chansey
+Dazzling Gleam	Chansey
+Confide	Chansey
+Strength	Chansey
+Rock SmashORAS	Chansey
+Toxic	Tangela
+Hidden Power	Tangela
+Sunny Day	Tangela
+Hyper Beam	Tangela
+Protect	Tangela
+Frustration	Tangela
+Solar Beam	Tangela
+Return	Tangela
+Double Team	Tangela
+Reflect	Tangela
+Sludge Bomb	Tangela
+Facade	Tangela
+Rest	Tangela
+Attract	Tangela
+Thief	Tangela
+Round	Tangela
+Energy Ball	Tangela
+Giga Impact	Tangela
+Flash	Tangela
+Swords Dance	Tangela
+Psych Up	Tangela
+Infestation	Tangela
+Grass Knot	Tangela
+Swagger	Tangela
+Sleep Talk	Tangela
+Substitute	Tangela
+Rock SmashXY	Tangela
+Secret PowerORAS	Tangela
+Confide	Tangela
+Cut	Tangela
+Rock SmashORAS	Tangela
+Roar	Kangaskhan
+Toxic	Kangaskhan
+Hail	Kangaskhan
+Hidden Power	Kangaskhan
+Sunny Day	Kangaskhan
+Ice Beam	Kangaskhan
+Blizzard	Kangaskhan
+Hyper Beam	Kangaskhan
+Protect	Kangaskhan
+Rain Dance	Kangaskhan
+Safeguard	Kangaskhan
+Frustration	Kangaskhan
+Solar Beam	Kangaskhan
+Thunderbolt	Kangaskhan
+Thunder	Kangaskhan
+Earthquake	Kangaskhan
+Return	Kangaskhan
+Dig	Kangaskhan
+Shadow Ball	Kangaskhan
+Brick Break	Kangaskhan
+Double Team	Kangaskhan
+Flamethrower	Kangaskhan
+Sandstorm	Kangaskhan
+Fire Blast	Kangaskhan
+Rock Tomb	Kangaskhan
+Aerial Ace	Kangaskhan
+Facade	Kangaskhan
+Rest	Kangaskhan
+Attract	Kangaskhan
+Thief	Kangaskhan
+Round	Kangaskhan
+Focus Blast	Kangaskhan
+Fling	Kangaskhan
+Incinerate	Kangaskhan
+Shadow Claw	Kangaskhan
+Retaliate	Kangaskhan
+Giga Impact	Kangaskhan
+Bulldoze	Kangaskhan
+Rock Slide	Kangaskhan
+Swagger	Kangaskhan
+Sleep Talk	Kangaskhan
+Substitute	Kangaskhan
+Rock SmashXY	Kangaskhan
+Secret PowerORAS	Kangaskhan
+Power-Up Punch	Kangaskhan
+Confide	Kangaskhan
+Cut	Kangaskhan
+Surf	Kangaskhan
+Strength	Kangaskhan
+Rock SmashORAS	Kangaskhan
+Toxic	Horsea
+Hail	Horsea
+Hidden Power	Horsea
+Ice Beam	Horsea
+Blizzard	Horsea
+Protect	Horsea
+Rain Dance	Horsea
+Frustration	Horsea
+Return	Horsea
+Double Team	Horsea
+Facade	Horsea
+Rest	Horsea
+Attract	Horsea
+Round	Horsea
+Scald	Horsea
+Swagger	Horsea
+Sleep Talk	Horsea
+Substitute	Horsea
+Flash Cannon	Horsea
+Secret PowerORAS	Horsea
+Confide	Horsea
+Surf	Horsea
+Waterfall	Horsea
+DiveORAS	Horsea
+Toxic	Seadra
+Hail	Seadra
+Hidden Power	Seadra
+Ice Beam	Seadra
+Blizzard	Seadra
+Hyper Beam	Seadra
+Protect	Seadra
+Rain Dance	Seadra
+Frustration	Seadra
+Return	Seadra
+Double Team	Seadra
+Facade	Seadra
+Rest	Seadra
+Attract	Seadra
+Round	Seadra
+Scald	Seadra
+Giga Impact	Seadra
+Swagger	Seadra
+Sleep Talk	Seadra
+Substitute	Seadra
+Flash Cannon	Seadra
+Secret PowerORAS	Seadra
+Confide	Seadra
+Surf	Seadra
+Waterfall	Seadra
+DiveORAS	Seadra
+Toxic	Goldeen
+Hail	Goldeen
+Hidden Power	Goldeen
+Ice Beam	Goldeen
+Blizzard	Goldeen
+Protect	Goldeen
+Rain Dance	Goldeen
+Frustration	Goldeen
+Return	Goldeen
+Double Team	Goldeen
+Facade	Goldeen
+Rest	Goldeen
+Attract	Goldeen
+Round	Goldeen
+Scald	Goldeen
+Poison Jab	Goldeen
+Swagger	Goldeen
+Sleep Talk	Goldeen
+Substitute	Goldeen
+Secret PowerORAS	Goldeen
+Confide	Goldeen
+Surf	Goldeen
+Waterfall	Goldeen
+DiveORAS	Goldeen
+Toxic	Seaking
+Hail	Seaking
+Hidden Power	Seaking
+Ice Beam	Seaking
+Blizzard	Seaking
+Hyper Beam	Seaking
+Protect	Seaking
+Rain Dance	Seaking
+Frustration	Seaking
+Return	Seaking
+Double Team	Seaking
+Facade	Seaking
+Rest	Seaking
+Attract	Seaking
+Round	Seaking
+Scald	Seaking
+Giga Impact	Seaking
+Poison Jab	Seaking
+Swagger	Seaking
+Sleep Talk	Seaking
+Substitute	Seaking
+Secret PowerORAS	Seaking
+Confide	Seaking
+Surf	Seaking
+Waterfall	Seaking
+DiveORAS	Seaking
+Toxic	Staryu
+Hail	Staryu
+Hidden Power	Staryu
+Ice Beam	Staryu
+Blizzard	Staryu
+Light Screen	Staryu
+Protect	Staryu
+Rain Dance	Staryu
+Frustration	Staryu
+Thunderbolt	Staryu
+Thunder	Staryu
+Return	Staryu
+Psychic	Staryu
+Double Team	Staryu
+Reflect	Staryu
+Facade	Staryu
+Rest	Staryu
+Round	Staryu
+Scald	Staryu
+Flash	Staryu
+Thunder Wave	Staryu
+Gyro Ball	Staryu
+Psych Up	Staryu
+Swagger	Staryu
+Sleep Talk	Staryu
+Substitute	Staryu
+Flash Cannon	Staryu
+Secret PowerORAS	Staryu
+Dazzling Gleam	Staryu
+Confide	Staryu
+Surf	Staryu
+Waterfall	Staryu
+DiveORAS	Staryu
+Psyshock	Starmie
+Toxic	Starmie
+Hail	Starmie
+Hidden Power	Starmie
+Ice Beam	Starmie
+Blizzard	Starmie
+Hyper Beam	Starmie
+Light Screen	Starmie
+Protect	Starmie
+Rain Dance	Starmie
+Frustration	Starmie
+Thunderbolt	Starmie
+Thunder	Starmie
+Return	Starmie
+Psychic	Starmie
+Double Team	Starmie
+Reflect	Starmie
+Facade	Starmie
+Rest	Starmie
+Round	Starmie
+Scald	Starmie
+Flash	Starmie
+Thunder Wave	Starmie
+Gyro Ball	Starmie
+Psych Up	Starmie
+Dream Eater	Starmie
+Grass Knot	Starmie
+Swagger	Starmie
+Sleep Talk	Starmie
+Substitute	Starmie
+Flash Cannon	Starmie
+Trick Room	Starmie
+Secret PowerORAS	Starmie
+Dazzling Gleam	Starmie
+Confide	Starmie
+Surf	Starmie
+Waterfall	Starmie
+DiveORAS	Starmie
+Psyshock	Mr. Mime
+Calm Mind	Mr. Mime
+Toxic	Mr. Mime
+Hidden Power	Mr. Mime
+Sunny Day	Mr. Mime
+Taunt	Mr. Mime
+Hyper Beam	Mr. Mime
+Light Screen	Mr. Mime
+Protect	Mr. Mime
+Rain Dance	Mr. Mime
+Safeguard	Mr. Mime
+Frustration	Mr. Mime
+Solar Beam	Mr. Mime
+Thunderbolt	Mr. Mime
+Thunder	Mr. Mime
+Return	Mr. Mime
+Psychic	Mr. Mime
+Shadow Ball	Mr. Mime
+Brick Break	Mr. Mime
+Double Team	Mr. Mime
+Reflect	Mr. Mime
+Aerial Ace	Mr. Mime
+Torment	Mr. Mime
+Facade	Mr. Mime
+Rest	Mr. Mime
+Attract	Mr. Mime
+Thief	Mr. Mime
+Round	Mr. Mime
+Focus Blast	Mr. Mime
+Energy Ball	Mr. Mime
+Fling	Mr. Mime
+Charge Beam	Mr. Mime
+Payback	Mr. Mime
+Giga Impact	Mr. Mime
+Flash	Mr. Mime
+Thunder Wave	Mr. Mime
+Psych Up	Mr. Mime
+Infestation	Mr. Mime
+Dream Eater	Mr. Mime
+Grass Knot	Mr. Mime
+Swagger	Mr. Mime
+Sleep Talk	Mr. Mime
+Substitute	Mr. Mime
+Trick Room	Mr. Mime
+Secret PowerORAS	Mr. Mime
+Power-Up Punch	Mr. Mime
+Dazzling Gleam	Mr. Mime
+Confide	Mr. Mime
+Toxic	Scyther
+Hidden Power	Scyther
+Sunny Day	Scyther
+Hyper Beam	Scyther
+Light Screen	Scyther
+Protect	Scyther
+Rain Dance	Scyther
+Roost	Scyther
+Safeguard	Scyther
+Frustration	Scyther
+Return	Scyther
+Brick Break	Scyther
+Double Team	Scyther
+Aerial Ace	Scyther
+Facade	Scyther
+Rest	Scyther
+Attract	Scyther
+Thief	Scyther
+Round	Scyther
+Steel Wing	Scyther
+False Swipe	Scyther
+Giga Impact	Scyther
+Swords Dance	Scyther
+Struggle Bug	Scyther
+X-Scissor	Scyther
+Swagger	Scyther
+Sleep Talk	Scyther
+U-turn	Scyther
+Substitute	Scyther
+Rock SmashXY	Scyther
+Secret PowerORAS	Scyther
+Confide	Scyther
+Cut	Scyther
+Rock SmashORAS	Scyther
+Psyshock	Jynx
+Calm Mind	Jynx
+Toxic	Jynx
+Hail	Jynx
+Hidden Power	Jynx
+Taunt	Jynx
+Ice Beam	Jynx
+Blizzard	Jynx
+Hyper Beam	Jynx
+Light Screen	Jynx
+Protect	Jynx
+Rain Dance	Jynx
+Frustration	Jynx
+Return	Jynx
+Psychic	Jynx
+Shadow Ball	Jynx
+Brick Break	Jynx
+Double Team	Jynx
+Reflect	Jynx
+Torment	Jynx
+Facade	Jynx
+Rest	Jynx
+Attract	Jynx
+Thief	Jynx
+Round	Jynx
+Echoed Voice	Jynx
+Focus Blast	Jynx
+Energy Ball	Jynx
+Fling	Jynx
+Payback	Jynx
+Giga Impact	Jynx
+Flash	Jynx
+Psych Up	Jynx
+Frost Breath	Jynx
+Dream Eater	Jynx
+Grass Knot	Jynx
+Swagger	Jynx
+Sleep Talk	Jynx
+Substitute	Jynx
+Trick Room	Jynx
+Secret PowerORAS	Jynx
+Power-Up Punch	Jynx
+Confide	Jynx
+Toxic	Electabuzz
+Hidden Power	Electabuzz
+Hyper Beam	Electabuzz
+Light Screen	Electabuzz
+Protect	Electabuzz
+Rain Dance	Electabuzz
+Frustration	Electabuzz
+Thunderbolt	Electabuzz
+Thunder	Electabuzz
+Return	Electabuzz
+Psychic	Electabuzz
+Brick Break	Electabuzz
+Double Team	Electabuzz
+Facade	Electabuzz
+Rest	Electabuzz
+Attract	Electabuzz
+Thief	Electabuzz
+Low Sweep	Electabuzz
+Round	Electabuzz
+Focus Blast	Electabuzz
+Fling	Electabuzz
+Charge Beam	Electabuzz
+Giga Impact	Electabuzz
+Flash	Electabuzz
+Volt Switch	Electabuzz
+Thunder Wave	Electabuzz
+Swagger	Electabuzz
+Sleep Talk	Electabuzz
+Substitute	Electabuzz
+Wild Charge	Electabuzz
+Rock SmashXY	Electabuzz
+Secret PowerORAS	Electabuzz
+Power-Up Punch	Electabuzz
+Confide	Electabuzz
+Strength	Electabuzz
+Rock SmashORAS	Electabuzz
+Toxic	Magmar
+Hidden Power	Magmar
+Sunny Day	Magmar
+Hyper Beam	Magmar
+Protect	Magmar
+Frustration	Magmar
+Return	Magmar
+Psychic	Magmar
+Brick Break	Magmar
+Double Team	Magmar
+Flamethrower	Magmar
+Fire Blast	Magmar
+Facade	Magmar
+Flame Charge	Magmar
+Rest	Magmar
+Attract	Magmar
+Thief	Magmar
+Low Sweep	Magmar
+Round	Magmar
+Overheat	Magmar
+Focus Blast	Magmar
+Fling	Magmar
+Incinerate	Magmar
+Will-O-Wisp	Magmar
+Giga Impact	Magmar
+Swagger	Magmar
+Sleep Talk	Magmar
+Substitute	Magmar
+Rock SmashXY	Magmar
+Secret PowerORAS	Magmar
+Power-Up Punch	Magmar
+Confide	Magmar
+Strength	Magmar
+Rock SmashORAS	Magmar
+Toxic	Pinsir
+Bulk Up	Pinsir
+Hidden Power	Pinsir
+Sunny Day	Pinsir
+Hyper Beam	Pinsir
+Protect	Pinsir
+Rain Dance	Pinsir
+Frustration	Pinsir
+Smack Down	Pinsir
+Earthquake	Pinsir
+Return	Pinsir
+Dig	Pinsir
+Brick Break	Pinsir
+Double Team	Pinsir
+Rock Tomb	Pinsir
+Facade	Pinsir
+Rest	Pinsir
+Attract	Pinsir
+Thief	Pinsir
+Round	Pinsir
+Focus Blast	Pinsir
+False Swipe	Pinsir
+Fling	Pinsir
+Giga Impact	Pinsir
+Stone Edge	Pinsir
+Swords Dance	Pinsir
+Struggle Bug	Pinsir
+Bulldoze	Pinsir
+Rock Slide	Pinsir
+X-Scissor	Pinsir
+Swagger	Pinsir
+Sleep Talk	Pinsir
+Substitute	Pinsir
+Rock SmashXY	Pinsir
+Secret PowerORAS	Pinsir
+Confide	Pinsir
+Cut	Pinsir
+Strength	Pinsir
+Rock SmashORAS	Pinsir
+Toxic	Tauros
+Hidden Power	Tauros
+Sunny Day	Tauros
+Ice Beam	Tauros
+Blizzard	Tauros
+Hyper Beam	Tauros
+Protect	Tauros
+Rain Dance	Tauros
+Frustration	Tauros
+Solar Beam	Tauros
+Thunderbolt	Tauros
+Thunder	Tauros
+Earthquake	Tauros
+Return	Tauros
+Double Team	Tauros
+Flamethrower	Tauros
+Sandstorm	Tauros
+Fire Blast	Tauros
+Rock Tomb	Tauros
+Facade	Tauros
+Rest	Tauros
+Attract	Tauros
+Round	Tauros
+Incinerate	Tauros
+Payback	Tauros
+Retaliate	Tauros
+Giga Impact	Tauros
+Stone Edge	Tauros
+Bulldoze	Tauros
+Rock Slide	Tauros
+Swagger	Tauros
+Sleep Talk	Tauros
+Substitute	Tauros
+Wild Charge	Tauros
+Rock SmashXY	Tauros
+Secret PowerORAS	Tauros
+Confide	Tauros
+Surf	Tauros
+Strength	Tauros
+Rock SmashORAS	Tauros
+Roar	Magikarp
+Toxic	Magikarp
+Hail	Magikarp
+Hidden Power	Gyarados
+Taunt	Gyarados
+Ice Beam	Gyarados
+Blizzard	Gyarados
+Hyper Beam	Gyarados
+Protect	Gyarados
+Rain Dance	Gyarados
+Frustration	Gyarados
+Thunderbolt	Gyarados
+Thunder	Gyarados
+Earthquake	Gyarados
+Return	Gyarados
+Double Team	Gyarados
+Flamethrower	Gyarados
+Sandstorm	Gyarados
+Fire Blast	Gyarados
+Torment	Gyarados
+Facade	Gyarados
+Rest	Gyarados
+Attract	Gyarados
+Round	Gyarados
+Scald	Gyarados
+Incinerate	Gyarados
+Payback	Gyarados
+Giga Impact	Gyarados
+Stone Edge	Gyarados
+Thunder Wave	Gyarados
+Bulldoze	Gyarados
+Dragon Tail	Gyarados
+Swagger	Gyarados
+Sleep Talk	Gyarados
+Substitute	Gyarados
+Rock SmashXY	Gyarados
+Secret PowerORAS	Gyarados
+Dark Pulse	Gyarados
+Confide	Gyarados
+Surf	Gyarados
+Strength	Gyarados
+Waterfall	Gyarados
+Rock SmashORAS	Gyarados
+DiveORAS	Gyarados
+Roar	Lapras
+Toxic	Lapras
+Hail	Lapras
+Hidden Power	Lapras
+Ice Beam	Lapras
+Blizzard	Lapras
+Hyper Beam	Lapras
+Protect	Lapras
+Safeguard	Lapras
+Frustration	Lapras
+Thunderbolt	Lapras
+Thunder	Lapras
+Return	Lapras
+Psychic	Lapras
+Double Team	Lapras
+Facade	Lapras
+Rest	Lapras
+Attract	Lapras
+Round	Lapras
+Echoed Voice	Lapras
+Giga Impact	Lapras
+Bulldoze	Lapras
+Frost Breath	Lapras
+Swagger	Lapras
+Sleep Talk	Lapras
+Substitute	Lapras
+Rock SmashXY	Lapras
+Secret PowerORAS	Lapras
+Confide	Lapras
+Surf	Lapras
+Strength	Lapras
+Waterfall	Lapras
+Rock SmashORAS	Lapras
+DiveORAS	Lapras
+	Ditto
+Toxic	Eevee
+Hidden Power	Eevee
+Sunny Day	Eevee
+Protect	Eevee
+Rain Dance	Eevee
+Frustration	Eevee
+Return	Eevee
+Dig	Eevee
+Shadow Ball	Eevee
+Double Team	Eevee
+Facade	Eevee
+Rest	Eevee
+Attract	Eevee
+Round	Eevee
+Echoed Voice	Eevee
+Retaliate	Eevee
+Swagger	Eevee
+Sleep Talk	Eevee
+Substitute	Eevee
+Secret PowerORAS	Eevee
+Confide	Eevee
+Roar	Vaporeon
+Toxic	Vaporeon
+Hail	Vaporeon
+Hidden Power	Vaporeon
+Sunny Day	Vaporeon
+Ice Beam	Vaporeon
+Blizzard	Vaporeon
+Hyper Beam	Vaporeon
+Protect	Vaporeon
+Rain Dance	Vaporeon
+Frustration	Vaporeon
+Return	Vaporeon
+Dig	Vaporeon
+Shadow Ball	Vaporeon
+Double Team	Vaporeon
+Facade	Vaporeon
+Rest	Vaporeon
+Attract	Vaporeon
+Round	Vaporeon
+Echoed Voice	Vaporeon
+Scald	Vaporeon
+Retaliate	Vaporeon
+Giga Impact	Vaporeon
+Swagger	Vaporeon
+Sleep Talk	Vaporeon
+Substitute	Vaporeon
+Rock SmashXY	Vaporeon
+Secret PowerORAS	Vaporeon
+Confide	Vaporeon
+Surf	Vaporeon
+Strength	Vaporeon
+Waterfall	Vaporeon
+Rock SmashORAS	Vaporeon
+DiveORAS	Vaporeon
+Roar	Jolteon
+Toxic	Jolteon
+Hidden Power	Jolteon
+Sunny Day	Jolteon
+Hyper Beam	Jolteon
+Light Screen	Jolteon
+Protect	Jolteon
+Rain Dance	Jolteon
+Frustration	Jolteon
+Thunderbolt	Jolteon
+Thunder	Jolteon
+Return	Jolteon
+Dig	Jolteon
+Shadow Ball	Jolteon
+Double Team	Jolteon
+Facade	Jolteon
+Rest	Jolteon
+Attract	Jolteon
+Round	Jolteon
+Echoed Voice	Jolteon
+Charge Beam	Jolteon
+Retaliate	Jolteon
+Giga Impact	Jolteon
+Flash	Jolteon
+Volt Switch	Jolteon
+Thunder Wave	Jolteon
+Swagger	Jolteon
+Sleep Talk	Jolteon
+Substitute	Jolteon
+Wild Charge	Jolteon
+Rock SmashXY	Jolteon
+Secret PowerORAS	Jolteon
+Confide	Jolteon
+Strength	Jolteon
+Rock SmashORAS	Jolteon
+Roar	Flareon
+Toxic	Flareon
+Hidden Power	Flareon
+Sunny Day	Flareon
+Hyper Beam	Flareon
+Protect	Flareon
+Rain Dance	Flareon
+Frustration	Flareon
+Return	Flareon
+Dig	Flareon
+Shadow Ball	Flareon
+Double Team	Flareon
+Flamethrower	Flareon
+Fire Blast	Flareon
+Facade	Flareon
+Flame Charge	Flareon
+Rest	Flareon
+Attract	Flareon
+Round	Flareon
+Echoed Voice	Flareon
+Overheat	Flareon
+Incinerate	Flareon
+Will-O-Wisp	Flareon
+Retaliate	Flareon
+Giga Impact	Flareon
+Swagger	Flareon
+Sleep Talk	Flareon
+Substitute	Flareon
+Rock SmashXY	Flareon
+Secret PowerORAS	Flareon
+Confide	Flareon
+Strength	Flareon
+Rock SmashORAS	Flareon
+Psyshock	Porygon
+Toxic	Porygon
+Hidden Power	Porygon
+Sunny Day	Porygon
+Ice Beam	Porygon
+Blizzard	Porygon
+Hyper Beam	Porygon
+Protect	Porygon
+Rain Dance	Porygon
+Frustration	Porygon
+Solar Beam	Porygon
+Thunderbolt	Porygon
+Thunder	Porygon
+Return	Porygon
+Psychic	Porygon
+Shadow Ball	Porygon
+Double Team	Porygon
+Aerial Ace	Porygon
+Facade	Porygon
+Rest	Porygon
+Thief	Porygon
+Round	Porygon
+Charge Beam	Porygon
+Giga Impact	Porygon
+Flash	Porygon
+Thunder Wave	Porygon
+Psych Up	Porygon
+Dream Eater	Porygon
+Swagger	Porygon
+Sleep Talk	Porygon
+Substitute	Porygon
+Trick Room	Porygon
+Secret PowerORAS	Porygon
+Confide	Porygon
+Toxic	Omanyte
+Hail	Omanyte
+Hidden Power	Omanyte
+Ice Beam	Omanyte
+Blizzard	Omanyte
+Protect	Omanyte
+Rain Dance	Omanyte
+Frustration	Omanyte
+Smack Down	Omanyte
+Return	Omanyte
+Double Team	Omanyte
+Sandstorm	Omanyte
+Rock Tomb	Omanyte
+Facade	Omanyte
+Rest	Omanyte
+Attract	Omanyte
+Thief	Omanyte
+Round	Omanyte
+Scald	Omanyte
+Rock Polish	Omanyte
+Gyro Ball	Omanyte
+Rock Slide	Omanyte
+Swagger	Omanyte
+Sleep Talk	Omanyte
+Substitute	Omanyte
+Rock SmashXY	Omanyte
+Secret PowerORAS	Omanyte
+Confide	Omanyte
+Surf	Omanyte
+Waterfall	Omanyte
+Rock SmashORAS	Omanyte
+DiveORAS	Omanyte
+Toxic	Omastar
+Hail	Omastar
+Hidden Power	Omastar
+Ice Beam	Omastar
+Blizzard	Omastar
+Hyper Beam	Omastar
+Protect	Omastar
+Rain Dance	Omastar
+Frustration	Omastar
+Smack Down	Omastar
+Return	Omastar
+Double Team	Omastar
+Sandstorm	Omastar
+Rock Tomb	Omastar
+Facade	Omastar
+Rest	Omastar
+Attract	Omastar
+Thief	Omastar
+Round	Omastar
+Scald	Omastar
+Giga Impact	Omastar
+Rock Polish	Omastar
+Stone Edge	Omastar
+Gyro Ball	Omastar
+Rock Slide	Omastar
+Swagger	Omastar
+Sleep Talk	Omastar
+Substitute	Omastar
+Rock SmashXY	Omastar
+Secret PowerORAS	Omastar
+Confide	Omastar
+Surf	Omastar
+Waterfall	Omastar
+Rock SmashORAS	Omastar
+DiveORAS	Omastar
+Hone Claws	Kabuto
+Toxic	Kabuto
+Hail	Kabuto
+Hidden Power	Kabuto
+Ice Beam	Kabuto
+Blizzard	Kabuto
+Protect	Kabuto
+Rain Dance	Kabuto
+Frustration	Kabuto
+Smack Down	Kabuto
+Return	Kabuto
+Dig	Kabuto
+Double Team	Kabuto
+Sandstorm	Kabuto
+Rock Tomb	Kabuto
+Facade	Kabuto
+Rest	Kabuto
+Attract	Kabuto
+Thief	Kabuto
+Round	Kabuto
+Scald	Kabuto
+Rock Polish	Kabuto
+Rock Slide	Kabuto
+Swagger	Kabuto
+Sleep Talk	Kabuto
+Substitute	Kabuto
+Rock SmashXY	Kabuto
+Secret PowerORAS	Kabuto
+Confide	Kabuto
+Surf	Kabuto
+Waterfall	Kabuto
+Rock SmashORAS	Kabuto
+Hone Claws	Kabutops
+Toxic	Kabutops
+Hail	Kabutops
+Hidden Power	Kabutops
+Ice Beam	Kabutops
+Blizzard	Kabutops
+Hyper Beam	Kabutops
+Protect	Kabutops
+Rain Dance	Kabutops
+Frustration	Kabutops
+Smack Down	Kabutops
+Return	Kabutops
+Dig	Kabutops
+Brick Break	Kabutops
+Double Team	Kabutops
+Sandstorm	Kabutops
+Rock Tomb	Kabutops
+Aerial Ace	Kabutops
+Facade	Kabutops
+Rest	Kabutops
+Attract	Kabutops
+Thief	Kabutops
+Round	Kabutops
+Scald	Kabutops
+Giga Impact	Kabutops
+Rock Polish	Kabutops
+Stone Edge	Kabutops
+Swords Dance	Kabutops
+Rock Slide	Kabutops
+X-Scissor	Kabutops
+Swagger	Kabutops
+Sleep Talk	Kabutops
+Substitute	Kabutops
+Rock SmashXY	Kabutops
+Secret PowerORAS	Kabutops
+Nature Power	Kabutops
+Confide	Kabutops
+Cut	Kabutops
+Surf	Kabutops
+Waterfall	Kabutops
+Rock SmashORAS	Kabutops
+DiveORAS	Kabutops
+Hone Claws	Aerodactyl
+Dragon Claw	Aerodactyl
+Roar	Aerodactyl
+Toxic	Aerodactyl
+Hidden Power	Aerodactyl
+Sunny Day	Aerodactyl
+Taunt	Aerodactyl
+Hyper Beam	Aerodactyl
+Protect	Aerodactyl
+Rain Dance	Aerodactyl
+Roost	Aerodactyl
+Frustration	Aerodactyl
+Smack Down	Aerodactyl
+Earthquake	Aerodactyl
+Return	Aerodactyl
+Double Team	Aerodactyl
+Flamethrower	Aerodactyl
+Sandstorm	Aerodactyl
+Fire Blast	Aerodactyl
+Rock Tomb	Aerodactyl
+Aerial Ace	Aerodactyl
+Torment	Aerodactyl
+Facade	Aerodactyl
+Rest	Aerodactyl
+Attract	Aerodactyl
+Thief	Aerodactyl
+Round	Aerodactyl
+Steel Wing	Aerodactyl
+Sky Drop	Aerodactyl
+Incinerate	Aerodactyl
+Payback	Aerodactyl
+Giga Impact	Aerodactyl
+Rock Polish	Aerodactyl
+Stone Edge	Aerodactyl
+Bulldoze	Aerodactyl
+Rock Slide	Aerodactyl
+Swagger	Aerodactyl
+Sleep Talk	Aerodactyl
+Substitute	Aerodactyl
+Rock SmashXY	Aerodactyl
+Secret PowerORAS	Aerodactyl
+Confide	Aerodactyl
+Fly	Aerodactyl
+Strength	Aerodactyl
+Rock SmashORAS	Aerodactyl
+Toxic	Snorlax
+Hidden Power	Snorlax
+Sunny Day	Snorlax
+Ice Beam	Snorlax
+Blizzard	Snorlax
+Hyper Beam	Snorlax
+Protect	Snorlax
+Rain Dance	Snorlax
+Frustration	Snorlax
+Solar Beam	Snorlax
+Smack Down	Snorlax
+Thunderbolt	Snorlax
+Thunder	Snorlax
+Earthquake	Snorlax
+Return	Snorlax
+Psychic	Snorlax
+Shadow Ball	Snorlax
+Brick Break	Snorlax
+Double Team	Snorlax
+Flamethrower	Snorlax
+Sandstorm	Snorlax
+Fire Blast	Snorlax
+Rock Tomb	Snorlax
+Facade	Snorlax
+Rest	Snorlax
+Attract	Snorlax
+Round	Snorlax
+Focus Blast	Snorlax
+Fling	Snorlax
+Incinerate	Snorlax
+Retaliate	Snorlax
+Giga Impact	Snorlax
+Bulldoze	Snorlax
+Rock Slide	Snorlax
+Swagger	Snorlax
+Sleep Talk	Snorlax
+Substitute	Snorlax
+Wild Charge	Snorlax
+Rock SmashXY	Snorlax
+Secret PowerORAS	Snorlax
+Power-Up Punch	Snorlax
+Confide	Snorlax
+Surf	Snorlax
+Strength	Snorlax
+Rock SmashORAS	Snorlax
+Roar	Articuno
+Toxic	Articuno
+Hail	Articuno
+Hidden Power	Articuno
+Sunny Day	Articuno
+Ice Beam	Articuno
+Blizzard	Articuno
+Hyper Beam	Articuno
+Protect	Articuno
+Rain Dance	Articuno
+Roost	Articuno
+Frustration	Articuno
+Return	Articuno
+Double Team	Articuno
+Reflect	Articuno
+Sandstorm	Articuno
+Aerial Ace	Articuno
+Facade	Articuno
+Rest	Articuno
+Round	Articuno
+Steel Wing	Articuno
+Sky Drop	Articuno
+Giga Impact	Articuno
+Frost Breath	Articuno
+Swagger	Articuno
+Sleep Talk	Articuno
+U-turn	Articuno
+Substitute	Articuno
+Rock SmashXY	Articuno
+Secret PowerORAS	Articuno
+Confide	Articuno
+Fly	Articuno
+Rock SmashORAS	Articuno
+Roar	Zapdos
+Toxic	Zapdos
+Hidden Power	Zapdos
+Sunny Day	Zapdos
+Hyper Beam	Zapdos
+Light Screen	Zapdos
+Protect	Zapdos
+Rain Dance	Zapdos
+Roost	Zapdos
+Frustration	Zapdos
+Thunderbolt	Zapdos
+Thunder	Zapdos
+Return	Zapdos
+Double Team	Zapdos
+Sandstorm	Zapdos
+Aerial Ace	Zapdos
+Facade	Zapdos
+Rest	Zapdos
+Round	Zapdos
+Steel Wing	Zapdos
+Charge Beam	Zapdos
+Sky Drop	Zapdos
+Giga Impact	Zapdos
+Flash	Zapdos
+Volt Switch	Zapdos
+Thunder Wave	Zapdos
+Swagger	Zapdos
+Sleep Talk	Zapdos
+U-turn	Zapdos
+Substitute	Zapdos
+Wild Charge	Zapdos
+Rock SmashXY	Zapdos
+Secret PowerORAS	Zapdos
+Confide	Zapdos
+Fly	Zapdos
+Rock SmashORAS	Zapdos
+Roar	Moltres
+Toxic	Moltres
+Hidden Power	Moltres
+Sunny Day	Moltres
+Hyper Beam	Moltres
+Protect	Moltres
+Rain Dance	Moltres
+Roost	Moltres
+Safeguard	Moltres
+Frustration	Moltres
+Solar Beam	Moltres
+Return	Moltres
+Double Team	Moltres
+Flamethrower	Moltres
+Sandstorm	Moltres
+Fire Blast	Moltres
+Aerial Ace	Moltres
+Facade	Moltres
+Flame Charge	Moltres
+Rest	Moltres
+Round	Moltres
+Overheat	Moltres
+Steel Wing	Moltres
+Sky Drop	Moltres
+Incinerate	Moltres
+Will-O-Wisp	Moltres
+Giga Impact	Moltres
+Swagger	Moltres
+Sleep Talk	Moltres
+U-turn	Moltres
+Substitute	Moltres
+Rock SmashXY	Moltres
+Secret PowerORAS	Moltres
+Confide	Moltres
+Fly	Moltres
+Rock SmashORAS	Moltres
+Toxic	Dratini
+Hail	Dratini
+Hidden Power	Dratini
+Sunny Day	Dratini
+Ice Beam	Dratini
+Blizzard	Dratini
+Hyper Beam	Dratini
+Light Screen	Dratini
+Protect	Dratini
+Rain Dance	Dratini
+Safeguard	Dratini
+Frustration	Dratini
+Thunderbolt	Dratini
+Thunder	Dratini
+Return	Dratini
+Double Team	Dratini
+Flamethrower	Dratini
+Fire Blast	Dratini
+Facade	Dratini
+Rest	Dratini
+Attract	Dratini
+Round	Dratini
+Incinerate	Dratini
+Thunder Wave	Dratini
+Dragon Tail	Dratini
+Swagger	Dratini
+Sleep Talk	Dratini
+Substitute	Dratini
+Secret PowerORAS	Dratini
+Confide	Dratini
+Surf	Dratini
+Waterfall	Dratini
+Toxic	Dragonair
+Hail	Dragonair
+Hidden Power	Dragonair
+Sunny Day	Dragonair
+Ice Beam	Dragonair
+Blizzard	Dragonair
+Hyper Beam	Dragonair
+Light Screen	Dragonair
+Protect	Dragonair
+Rain Dance	Dragonair
+Safeguard	Dragonair
+Frustration	Dragonair
+Thunderbolt	Dragonair
+Thunder	Dragonair
+Return	Dragonair
+Double Team	Dragonair
+Flamethrower	Dragonair
+Fire Blast	Dragonair
+Facade	Dragonair
+Rest	Dragonair
+Attract	Dragonair
+Round	Dragonair
+Incinerate	Dragonair
+Thunder Wave	Dragonair
+Dragon Tail	Dragonair
+Swagger	Dragonair
+Sleep Talk	Dragonair
+Substitute	Dragonair
+Secret PowerORAS	Dragonair
+Confide	Dragonair
+Surf	Dragonair
+Waterfall	Dragonair
+Hone Claws	Dragonite
+Dragon Claw	Dragonite
+Roar	Dragonite
+Toxic	Dragonite
+Hail	Dragonite
+Hidden Power	Dragonite
+Sunny Day	Dragonite
+Ice Beam	Dragonite
+Blizzard	Dragonite
+Hyper Beam	Dragonite
+Light Screen	Dragonite
+Protect	Dragonite
+Rain Dance	Dragonite
+Roost	Dragonite
+Safeguard	Dragonite
+Frustration	Dragonite
+Thunderbolt	Dragonite
+Thunder	Dragonite
+Earthquake	Dragonite
+Return	Dragonite
+Brick Break	Dragonite
+Double Team	Dragonite
+Flamethrower	Dragonite
+Sandstorm	Dragonite
+Fire Blast	Dragonite
+Rock Tomb	Dragonite
+Aerial Ace	Dragonite
+Facade	Dragonite
+Rest	Dragonite
+Attract	Dragonite
+Round	Dragonite
+Steel Wing	Dragonite
+Focus Blast	Dragonite
+Fling	Dragonite
+Sky Drop	Dragonite
+Incinerate	Dragonite
+Giga Impact	Dragonite
+Stone Edge	Dragonite
+Thunder Wave	Dragonite
+Bulldoze	Dragonite
+Rock Slide	Dragonite
+Dragon Tail	Dragonite
+Swagger	Dragonite
+Sleep Talk	Dragonite
+Substitute	Dragonite
+Rock SmashXY	Dragonite
+Secret PowerORAS	Dragonite
+Power-Up Punch	Dragonite
+Confide	Dragonite
+Cut	Dragonite
+Fly	Dragonite
+Surf	Dragonite
+Strength	Dragonite
+Waterfall	Dragonite
+Rock SmashORAS	Dragonite
+DiveORAS	Dragonite
+Psyshock	Mewtwo
+Calm Mind	Mewtwo
+Toxic	Mewtwo
+Hail	Mewtwo
+Bulk Up	Mewtwo
+Hidden Power	Mewtwo
+Sunny Day	Mewtwo
+Taunt	Mewtwo
+Ice Beam	Mewtwo
+Blizzard	Mewtwo
+Hyper Beam	Mewtwo
+Light Screen	Mewtwo
+Protect	Mewtwo
+Rain Dance	Mewtwo
+Safeguard	Mewtwo
+Frustration	Mewtwo
+Solar Beam	Mewtwo
+Thunderbolt	Mewtwo
+Thunder	Mewtwo
+Earthquake	Mewtwo
+Return	Mewtwo
+Psychic	Mewtwo
+Shadow Ball	Mewtwo
+Brick Break	Mewtwo
+Double Team	Mewtwo
+Reflect	Mewtwo
+Flamethrower	Mewtwo
+Sandstorm	Mewtwo
+Fire Blast	Mewtwo
+Rock Tomb	Mewtwo
+Aerial Ace	Mewtwo
+Torment	Mewtwo
+Facade	Mewtwo
+Rest	Mewtwo
+Low Sweep	Mewtwo
+Round	Mewtwo
+Focus Blast	Mewtwo
+Energy Ball	Mewtwo
+Fling	Mewtwo
+Charge Beam	Mewtwo
+Incinerate	Mewtwo
+Will-O-Wisp	Mewtwo
+Embargo	Mewtwo
+Giga Impact	Mewtwo
+Flash	Mewtwo
+Stone Edge	Mewtwo
+Thunder Wave	Mewtwo
+Psych Up	Mewtwo
+Bulldoze	Mewtwo
+Rock Slide	Mewtwo
+Poison Jab	Mewtwo
+Dream Eater	Mewtwo
+Grass Knot	Mewtwo
+Swagger	Mewtwo
+Sleep Talk	Mewtwo
+Substitute	Mewtwo
+Trick Room	Mewtwo
+Rock SmashXY	Mewtwo
+Secret PowerORAS	Mewtwo
+Power-Up Punch	Mewtwo
+Confide	Mewtwo
+Strength	Mewtwo
+Rock SmashORAS	Mewtwo
+DiveORAS	Mewtwo
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
+	Mew
