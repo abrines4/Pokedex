@@ -72,7 +72,6 @@ CREATE TABLE IF NOT EXISTS Learn (
 CREATE TABLE IF NOT EXISTS Gym (
 	gymName VARCHAR(20) PRIMARY KEY,
 	leaderName VARCHAR(20),
-	location VARCHAR(20),
 	gymType VARCHAR(20),
 	gymBadge VARCHAR(20)
 );
