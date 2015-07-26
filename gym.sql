@@ -27,7 +27,7 @@ INSERT INTO Gym VALUES ('Dewford','Brawly','Fighting','Knuckle');
 INSERT INTO Gym VALUES ('Mauville','Wattson','Electric','Dynamo');
 INSERT INTO Gym VALUES ('Petalburg','Norman','Normal','Balance');
 INSERT INTO Gym VALUES ('Fortree','Winona','Flying','Feather');
-INSERT INTO Gym VALUES ('Mossdeep','Tate and Liza','Psychic','Mind');
+INSERT INTO Gym VALUES ('Mossdeep','Tate & Liza','Psychic','Mind');
 INSERT INTO Gym VALUES ('Sootopolis','Wallace','Water','Rain');
 INSERT INTO Gym VALUES ('Oreburgh','Roark','Rock','Coal');
 INSERT INTO Gym VALUES ('Eterna','Gardenia','Grass','Forest');
@@ -38,8 +38,6 @@ INSERT INTO Gym VALUES ('Canalave','Bryon','Steel','Mine');
 INSERT INTO Gym VALUES ('Snowpoint','Candice','Ice','Icicle');
 INSERT INTO Gym VALUES ('Sunnyshore','Volkner','Electric','Beacon');
 INSERT INTO Gym VALUES ('Striaton','Cilan','Grass','Trio');
-INSERT INTO Gym VALUES ('Striaton','Chili','Fire','Trio');
-INSERT INTO Gym VALUES ('Striaton','Cress','Water','Trio');
 INSERT INTO Gym VALUES ('Nacrene','Lenora','Normal','Basic');
 INSERT INTO Gym VALUES ('Castelia','Burgh','Bug','Insect');
 INSERT INTO Gym VALUES ('Nimbasa','Elesa','Electric','Bolt');
@@ -58,12 +56,12 @@ INSERT INTO Gym VALUES ('Lumiose','Clemont','Electric','Voltage');
 INSERT INTO Gym VALUES ('Laverre','Valerie','Fairy','Fairy');
 INSERT INTO Gym VALUES ('Anistar','Olympia','Psychic','Psychic');
 INSERT INTO Gym VALUES ('Snowbelle','Wulfric','Ice','Iceberg');
-INSERT INTO Gym VALUES ('Mikan','Island','Water','Coral-Eye');
+INSERT INTO Gym VALUES ('Mikan','Cissy','Water','Coral-Eye');
 INSERT INTO Gym VALUES ('Navel','Danny','Rock','Sea Ruby');
 INSERT INTO Gym VALUES ('Trovita','Rudy','Grass','Spike Shell');
 INSERT INTO Gym VALUES ('Kumquat','Luana','Psychic','Jade Star');
 INSERT INTO Gym VALUES ('Pummelo','Drake','Dragon','Winners Trophy');
-
+INSERT INTO Gym VALUES ('Lavaridge','Flannery','Fire','Heat');
 
 
 
