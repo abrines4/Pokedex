@@ -85,7 +85,7 @@ CREATE TABLE IF NOT EXISTS Owns (
 
 CREATE TABLE IF NOT EXISTS Appears_In (
 	pokemonID INT,
-	gymName VARCHAR(20)
+	gymName INT
 );
 
 CREATE TABLE IF NOT EXISTS Badges (
