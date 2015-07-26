@@ -1,13 +1,11 @@
 mysql> use Pokemon;
 Database changed
 mysql> source createTable.sql;
-Query OK, 0 rows affected (0.05 sec)
+Query OK, 0 rows affected (0.03 sec)
 
-Query OK, 0 rows affected (0.01 sec)
+Query OK, 0 rows affected (0.02 sec)
 
-Query OK, 0 rows affected (0.01 sec)
-
-Query OK, 0 rows affected (0.01 sec)
+Query OK, 0 rows affected (0.00 sec)
 
 Query OK, 0 rows affected (0.01 sec)
 
@@ -42,12 +40,11 @@ mysql> show tables;
 | Owns              |
 | Performs          |
 | Pokemon           |
-| PokemonMove       |
 | PokemonType       |
 | Statistics        |
 | Trainer           |
 | Weaknesses        |
 +-------------------+
-14 rows in set (0.00 sec)
+13 rows in set (0.00 sec)
 
 mysql> exit;
