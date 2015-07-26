@@ -90,3 +90,9 @@ CREATE TABLE IF NOT EXISTS Appears_In (
 	pokemonID INT,
 	gymName VARCHAR(20)
 );
+
+CREATE TABLE IF NOT EXISTS Badges (
+	trainerName VARCHAR(20),
+	gymBadge VARCHAR(20),
+	PRIMARY KEY(trainerName, gymBadge)
+);
