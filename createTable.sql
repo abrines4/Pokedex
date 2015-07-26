@@ -80,7 +80,7 @@ CREATE TABLE IF NOT EXISTS Performs (
 
 CREATE TABLE IF NOT EXISTS Owns (
 	trainerName VARCHAR(20),
-	pokemonID VARCHAR(20)
+	pokemonID INT
 );
 
 CREATE TABLE IF NOT EXISTS Appears_In (
