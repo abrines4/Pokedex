@@ -1,0 +1,2489 @@
+pokemonID,Level Up
+1,Double-Edge
+1,Growl
+1,Growth
+1,Leech Seed
+1,Poison Powder
+1,Razor Leaf
+1,Seed Bomb
+1,Sleep Powder
+1,Sweet Scent
+1,Synthesis
+1,Tackle
+1,Take Down
+1,Vine Whip
+1,Worry Seed
+2,Double-Edge
+2,Growl
+2,Growl
+2,Growth
+2,Leech Seed
+2,Leech Seed
+2,Poison Powder
+2,Razor Leaf
+2,Sleep Powder
+2,Solar Beam
+2,Sweet Scent
+2,Synthesis
+2,Tackle
+2,Take Down
+2,Vine Whip
+2,Worry Seed
+3,Double-Edge
+3,Growl
+3,Growl
+3,Growth
+3,Leech Seed
+3,Leech Seed
+3,Petal Blizzard
+3,Petal Dance
+3,Poison Powder
+3,Razor Leaf
+3,Sleep Powder
+3,Solar Beam
+3,Sweet Scent
+3,Synthesis
+3,Tackle
+3,Take Down
+3,Vine Whip
+3,Vine Whip
+3,Worry Seed
+4,Dragon Rage
+4,Ember
+4,Fire Fang
+4,Fire Spin
+4,Flame Burst
+4,Flamethrower
+4,Growl
+4,Inferno
+4,Scary Face
+4,Scratch
+4,Slash
+4,Smokescreen
+5,Dragon Rage
+5,Ember
+5,Ember
+5,Fire Fang
+5,Fire Spin
+5,Flame Burst
+5,Flamethrower
+5,Growl
+5,Inferno
+5,Scary Face
+5,Scratch
+5,Slash
+5,Smokescreen
+6,Air Slash
+6,Dragon Claw
+6,Dragon Rage
+6,Ember
+6,Ember
+6,Fire Fang
+6,Fire Spin
+6,Flame Burst
+6,Flamethrower
+6,Flare Blitz
+6,Flare Blitz
+6,Growl
+6,Heat Wave
+6,Heat Wave
+6,Inferno
+6,Scary Face
+6,Scratch
+6,Shadow Claw
+6,Slash
+6,Smokescreen
+6,Smokescreen
+6,Wing Attack
+7,Aqua Tail
+7,Bite
+7,Bubble
+7,Hydro Pump
+7,Iron Defense
+7,Protect
+7,Rain Dance
+7,Rapid Spin
+7,Skull Bash
+7,Tackle
+7,Tail Whip
+7,Water Gun
+7,Water Pulse
+7,Withdraw
+8,Aqua Tail
+8,Bite
+8,Bubble
+8,Hydro Pump
+8,Iron Defense
+8,Protect
+8,Rain Dance
+8,Rapid Spin
+8,Skull Bash
+8,Tackle
+8,Tail Whip
+8,Tail Whip
+8,Water Gun
+8,Water Gun
+8,Water Pulse
+8,Withdraw
+9,Aqua Tail
+9,Bite
+9,Bubble
+9,Flash Cannon
+9,Hydro Pump
+9,Iron Defense
+9,Protect
+9,Rain Dance
+9,Rapid Spin
+9,Skull Bash
+9,Tackle
+9,Tail Whip
+9,Tail Whip
+9,Water Gun
+9,Water Gun
+9,Water Pulse
+9,Withdraw
+9,Withdraw
+10,Bug Bite
+10,String Shot
+10,Tackle
+11,Harden
+11,Harden
+12,Bug Buzz
+12,Captivate
+12,Confusion
+12,Confusion
+12,Gust
+12,Poison Powder
+12,Psybeam
+12,Quiver Dance
+12,Rage Powder
+12,Safeguard
+12,Silver Wind
+12,Sleep Powder
+12,Stun Spore
+12,Supersonic
+12,Tailwind
+12,Whirlwind
+13,Bug Bite
+13,Poison Sting
+13,String Shot
+14,Harden
+14,Harden
+15,Agility
+15,Assurance
+15,Endeavor
+15,Fell Stinger
+15,Focus Energy
+15,Fury Attack
+15,Fury Attack
+15,Pin Missile
+15,Poison Jab
+15,Pursuit
+15,Rage
+15,Toxic Spikes
+15,Twineedle
+16,Agility
+16,Air Slash
+16,Feather Dance
+16,Gust
+16,Hurricane
+16,Mirror Move
+16,Quick Attack
+16,Roost
+16,Sand Attack
+16,Tackle
+16,Tailwind
+16,Twister
+16,Whirlwind
+16,Wing Attack
+17,Dragon
+17,Flying
+17,Flying
+17,Flying
+17,Flying
+17,Flying
+17,Flying
+17,Flying
+17,Flying
+17,Flying
+17,Ground
+17,Ground
+17,Normal
+17,Normal
+17,Normal
+17,Psychic
+18,Agility
+18,Air Slash
+18,Feather Dance
+18,Gust
+18,Gust
+18,Hurricane
+18,Hurricane
+18,Mirror Move
+18,Quick Attack
+18,Quick Attack
+18,Roost
+18,Sand Attack
+18,Sand Attack
+18,Tackle
+18,Tailwind
+18,Twister
+18,Whirlwind
+18,Wing Attack
+19,Assurance
+19,Bite
+19,Crunch
+19,Double-Edge
+19,Endeavor
+19,Focus Energy
+19,Hyper Fang
+19,Pursuit
+19,Quick Attack
+19,Sucker Punch
+19,Super Fang
+19,Tackle
+19,Tail Whip
+20,Assurance
+20,Bite
+20,Crunch
+20,Double-Edge
+20,Endeavor
+20,Focus Energy
+20,Focus Energy
+20,Hyper Fang
+20,Pursuit
+20,Quick Attack
+20,Quick Attack
+20,Scary Face
+20,Sucker Punch
+20,Super Fang
+20,Swords Dance
+20,Tackle
+20,Tail Whip
+21,Aerial Ace
+21,Agility
+21,Assurance
+21,Drill Peck
+21,Fury Attack
+21,Growl
+21,Leer
+21,Mirror Move
+21,Peck
+21,Pursuit
+21,Roost
+22,Aerial Ace
+22,Agility
+22,Assurance
+22,Drill Peck
+22,Drill Run
+22,Drill Run
+22,Fury Attack
+22,Fury Attack
+22,Growl
+22,Leer
+22,Leer
+22,Mirror Move
+22,Peck
+22,Pluck
+22,Pursuit
+22,Roost
+23,Acid
+23,Acid Spray
+23,Belch
+23,Bite
+23,Coil
+23,Gastro Acid
+23,Glare
+23,Gunk Shot
+23,Haze
+23,Leer
+23,Mud Bomb
+23,Poison Sting
+23,Screech
+23,Spit Up
+23,Stockpile
+23,Swallow
+23,Wrap
+24,Acid
+24,Acid Spray
+24,Belch
+24,Bite
+24,Bite
+24,Coil
+24,Crunch
+24,Fire Fang
+24,Gastro Acid
+24,Glare
+24,Gunk Shot
+24,Haze
+24,Ice Fang
+24,Leer
+24,Mud Bomb
+24,Poison Sting
+24,Poison Sting
+24,Screech
+24,Spit Up
+24,Stockpile
+24,Swallow
+24,Thunder Fang
+24,Wrap
+25,Agility
+25,Discharge
+25,Double Team
+25,Electro Ball
+25,Feint
+25,Growl
+25,Light Screen
+25,Nuzzle
+25,Play Nice
+25,Quick Attack
+25,Slam
+25,Spark
+25,Tail Whip
+25,Thunder
+25,Thunder Shock
+25,Thunder Wave
+25,Thunderbolt
+25,Wild Charge
+26,Quick Attack
+26,Tail Whip
+26,Thunder Shock
+26,Thunderbolt
+27,Defense Curl
+27,Dig
+27,Earthquake
+27,Fury Cutter
+27,Fury Swipes
+27,Gyro Ball
+27,Magnitude
+27,Poison Sting
+27,Rapid Spin
+27,Rollout
+27,Sand Attack
+27,Sand Tomb
+27,Sandstorm
+27,Scratch
+27,Slash
+27,Swift
+27,Swords Dance
+28,Crush Claw
+28,Defense Curl
+28,Dig
+28,Earthquake
+28,Fury Cutter
+28,Fury Swipes
+28,Gyro Ball
+28,Magnitude
+28,Poison Sting
+28,Poison Sting
+28,Rapid Spin
+28,Rollout
+28,Sand Attack
+28,Sand Attack
+28,Sand Tomb
+28,Sandstorm
+28,Scratch
+28,Slash
+28,Swift
+28,Swords Dance
+29,Bite
+29,Captivate
+29,Crunch
+29,Double Kick
+29,Flatter
+29,Fury Swipes
+29,Growl
+29,Helping Hand
+29,Poison Fang
+29,Poison Sting
+29,Scratch
+29,Tail Whip
+29,Toxic Spikes
+30,Bite
+30,Captivate
+30,Crunch
+30,Double Kick
+30,Flatter
+30,Fury Swipes
+30,Growl
+30,Helping Hand
+30,Poison Fang
+30,Poison Sting
+30,Scratch
+30,Tail Whip
+30,Toxic Spikes
+31,Body Slam
+31,Chip Away
+31,Double Kick
+31,Earth Power
+31,Poison Sting
+31,Scratch
+31,Superpower
+31,Superpower
+31,Tail Whip
+32,Captivate
+32,Double Kick
+32,Flatter
+32,Focus Energy
+32,Fury Attack
+32,Helping Hand
+32,Horn Attack
+32,Horn Drill
+32,Leer
+32,Peck
+32,Poison Jab
+32,Poison Sting
+32,Toxic Spikes
+33,Captivate
+33,Double Kick
+33,Flatter
+33,Focus Energy
+33,Fury Attack
+33,Helping Hand
+33,Horn Attack
+33,Horn Drill
+33,Leer
+33,Peck
+33,Poison Jab
+33,Poison Sting
+33,Toxic Spikes
+34,Chip Away
+34,Double Kick
+34,Earth Power
+34,Focus Energy
+34,Megahorn
+34,Megahorn
+34,Peck
+34,Poison Sting
+34,Thrash
+35,After You
+35,After You
+35,Bestow
+35,Body Slam
+35,Cosmic Power
+35,Defense Curl
+35,Disarming Voice
+35,Double Slap
+35,Encore
+35,Follow Me
+35,Gravity
+35,Growl
+35,Healing Wish
+35,Healing Wish
+35,Lucky Chant
+35,Meteor Mash
+35,Metronome
+35,Minimize
+35,Moonblast
+35,Moonlight
+35,Pound
+35,Sing
+35,Stored Power
+35,Wake-Up Slap
+36,Disarming Voice
+36,Double Slap
+36,Metronome
+36,Minimize
+36,Sing
+37,Baby-Doll Eyes
+37,Captivate
+37,Confuse Ray
+37,Ember
+37,Extrasensory
+37,Feint Attack
+37,Fire Blast
+37,Fire Spin
+37,Flame Burst
+37,Flamethrower
+37,Grudge
+37,Hex
+37,Imprison
+37,Inferno
+37,Payback
+37,Quick Attack
+37,Roar
+37,Safeguard
+37,Tail Whip
+37,Will-O-Wisp
+38,Confuse Ray
+38,Flamethrower
+38,Imprison
+38,Nasty Plot
+38,Quick Attack
+38,Safeguard
+39,Body Slam
+39,Defense Curl
+39,Disable
+39,Disarming Voice
+39,Double Slap
+39,Double-Edge
+39,Gyro Ball
+39,Hyper Voice
+39,Mimic
+39,Play Nice
+39,Pound
+39,Rest
+39,Rollout
+39,Round
+39,Sing
+39,Wake-Up Slap
+40,Defense Curl
+40,Disable
+40,Double Slap
+40,Double-Edge
+40,Play Rough
+40,Sing
+41,Acrobatics
+41,Air Cutter
+41,Air Slash
+41,Astonish
+41,Bite
+41,Confuse Ray
+41,Haze
+41,Leech Life
+41,Mean Look
+41,Poison Fang
+41,Quick Guard
+41,Supersonic
+41,Swift
+41,Venoshock
+41,Wing Attack
+42,Acrobatics
+42,Air Cutter
+42,Air Slash
+42,Astonish
+42,Astonish
+42,Bite
+42,Bite
+42,Confuse Ray
+42,Haze
+42,Leech Life
+42,Mean Look
+42,Poison Fang
+42,Quick Guard
+42,Screech
+42,Supersonic
+42,Supersonic
+42,Swift
+42,Venoshock
+42,Wing Attack
+43,Absorb
+43,Acid
+43,Giga Drain
+43,Grassy Terrain
+43,Lucky Chant
+43,Mega Drain
+43,Moonblast
+43,Moonlight
+43,Natural Gift
+43,Petal Dance
+43,Poison Powder
+43,Sleep Powder
+43,Stun Spore
+43,Sweet Scent
+43,Toxic
+44,Absorb
+44,Acid
+44,Acid
+44,Giga Drain
+44,Grassy Terrain
+44,Lucky Chant
+44,Mega Drain
+44,Moonlight
+44,Natural Gift
+44,Petal Blizzard
+44,Petal Dance
+44,Poison Powder
+44,Sleep Powder
+44,Stun Spore
+44,Sweet Scent
+44,Sweet Scent
+44,Toxic
+45,Aromatherapy
+45,Mega Drain
+45,Petal Blizzard
+45,Petal Dance
+45,Poison Powder
+45,Solar Beam
+45,Stun Spore
+46,Aromatherapy
+46,Fury Cutter
+46,Giga Drain
+46,Growth
+46,Leech Life
+46,Poison Powder
+46,Rage Powder
+46,Scratch
+46,Slash
+46,Spore
+46,Stun Spore
+46,X-Scissor
+47,Aromatherapy
+47,Cross Poison
+47,Fury Cutter
+47,Giga Drain
+47,Growth
+47,Leech Life
+47,Leech Life
+47,Poison Powder
+47,Poison Powder
+47,Rage Powder
+47,Scratch
+47,Slash
+47,Spore
+47,Stun Spore
+47,Stun Spore
+47,X-Scissor
+48,Confusion
+48,Disable
+48,Foresight
+48,Leech Life
+48,Poison Fang
+48,Poison Powder
+48,Psybeam
+48,Psychic
+48,Signal Beam
+48,Sleep Powder
+48,Stun Spore
+48,Supersonic
+48,Tackle
+48,Zen Headbutt
+49,Bug Buzz
+49,Bug Buzz
+49,Confusion
+49,Disable
+49,Foresight
+49,Gust
+49,Leech Life
+49,Poison Fang
+49,Poison Powder
+49,Psybeam
+49,Psychic
+49,Quiver Dance
+49,Quiver Dance
+49,Signal Beam
+49,Silver Wind
+49,Sleep Powder
+49,Stun Spore
+49,Supersonic
+49,Supersonic
+49,Tackle
+49,Zen Headbutt
+50,Astonish
+50,Bulldoze
+50,Dig
+50,Earth Power
+50,Earthquake
+50,Fissure
+50,Growl
+50,Magnitude
+50,Mud Bomb
+50,Mud-Slap
+50,Sand Attack
+50,Scratch
+50,Slash
+50,Sucker Punch
+51,Astonish
+51,Bulldoze
+51,Dig
+51,Earth Power
+51,Earthquake
+51,Fissure
+51,Growl
+51,Growl
+51,Magnitude
+51,Mud Bomb
+51,Mud-Slap
+51,Night Slash
+51,Rototiller
+51,Sand Attack
+51,Sand Tomb
+51,Scratch
+51,Slash
+51,Sucker Punch
+51,Tri Attack
+52,Assurance
+52,Bite
+52,Captivate
+52,Fake Out
+52,Feint
+52,Feint Attack
+52,Fury Swipes
+52,Growl
+52,Nasty Plot
+52,Night Slash
+52,Pay Day
+52,Scratch
+52,Screech
+52,Slash
+52,Taunt
+53,Assurance
+53,Bite
+53,Bite
+53,Captivate
+53,Fake Out
+53,Fake Out
+53,Feint
+53,Feint Attack
+53,Fury Swipes
+53,Growl
+53,Nasty Plot
+53,Night Slash
+53,Play Rough
+53,Power Gem
+53,Scratch
+53,Screech
+53,Slash
+53,Swift
+53,Switcheroo
+53,Taunt
+54,Amnesia
+54,Aqua Tail
+54,Confusion
+54,Disable
+54,Fury Swipes
+54,Hydro Pump
+54,Psych Up
+54,Scratch
+54,Screech
+54,Soak
+54,Tail Whip
+54,Water Gun
+54,Water Pulse
+54,Water Sport
+54,Wonder Room
+54,Zen Headbutt
+55,Amnesia
+55,Aqua Jet
+55,Aqua Tail
+55,Confusion
+55,Disable
+55,Fury Swipes
+55,Hydro Pump
+55,Psych Up
+55,Scratch
+55,Screech
+55,Soak
+55,Tail Whip
+55,Tail Whip
+55,Water Gun
+55,Water Gun
+55,Water Pulse
+55,Water Sport
+55,Wonder Room
+55,Zen Headbutt
+56,Assurance
+56,Close Combat
+56,Covet
+56,Cross Chop
+56,Final Gambit
+56,Focus Energy
+56,Fury Swipes
+56,Karate Chop
+56,Leer
+56,Low Kick
+56,Punishment
+56,Scratch
+56,Screech
+56,Seismic Toss
+56,Swagger
+56,Thrash
+57,Assurance
+57,Close Combat
+57,Cross Chop
+57,Final Gambit
+57,Final Gambit
+57,Fling
+57,Focus Energy
+57,Fury Swipes
+57,Karate Chop
+57,Leer
+57,Low Kick
+57,Punishment
+57,Rage
+57,Scratch
+57,Screech
+57,Seismic Toss
+57,Swagger
+57,Thrash
+58,Agility
+58,Bite
+58,Crunch
+58,Ember
+58,Fire Fang
+58,Flame Burst
+58,Flame Wheel
+58,Flamethrower
+58,Flare Blitz
+58,Heat Wave
+58,Helping Hand
+58,Leer
+58,Odor Sleuth
+58,Outrage
+58,Retaliate
+58,Reversal
+58,Roar
+58,Take Down
+59,Bite
+59,Extreme Speed
+59,Fire Fang
+59,Odor Sleuth
+59,Roar
+59,Thunder Fang
+60,Belly Drum
+60,Body Slam
+60,Bubble
+60,Bubble Beam
+60,Double Slap
+60,Hydro Pump
+60,Hypnosis
+60,Mud Bomb
+60,Mud Shot
+60,Rain Dance
+60,Wake-Up Slap
+60,Water Gun
+60,Water Sport
+61,Belly Drum
+61,Body Slam
+61,Bubble
+61,Bubble Beam
+61,Double Slap
+61,Hydro Pump
+61,Hypnosis
+61,Hypnosis
+61,Mud Bomb
+61,Mud Shot
+61,Rain Dance
+61,Wake-Up Slap
+61,Water Gun
+61,Water Gun
+61,Water Sport
+62,Bubble Beam
+62,Circle Throw
+62,Circle Throw
+62,Double Slap
+62,Dynamic Punch
+62,Hypnosis
+62,Mind Reader
+62,Submission
+63,Teleport
+64,Ally Switch
+64,Confusion
+64,Confusion
+64,Disable
+64,Future Sight
+64,Kinesis
+64,Miracle Eye
+64,Psybeam
+64,Psychic
+64,Psycho Cut
+64,Recover
+64,Reflect
+64,Role Play
+64,Telekinesis
+64,Teleport
+64,Trick
+65,Ally Switch
+65,Calm Mind
+65,Confusion
+65,Confusion
+65,Disable
+65,Future Sight
+65,Kinesis
+65,Miracle Eye
+65,Psybeam
+65,Psychic
+65,Psycho Cut
+65,Recover
+65,Reflect
+65,Telekinesis
+65,Teleport
+65,Trick
+66,Bulk Up
+66,Cross Chop
+66,Dual Chop
+66,Dynamic Punch
+66,Focus Energy
+66,Foresight
+66,Karate Chop
+66,Knock Off
+66,Leer
+66,Low Kick
+66,Low Sweep
+66,Revenge
+66,Scary Face
+66,Seismic Toss
+66,Submission
+66,Vital Throw
+66,Wake-Up Slap
+67,Bulk Up
+67,Cross Chop
+67,Dual Chop
+67,Dynamic Punch
+67,Focus Energy
+67,Focus Energy
+67,Foresight
+67,Karate Chop
+67,Karate Chop
+67,Knock Off
+67,Leer
+67,Low Kick
+67,Low Sweep
+67,Revenge
+67,Scary Face
+67,Seismic Toss
+67,Submission
+67,Vital Throw
+67,Wake-Up Slap
+68,Bulk Up
+68,Cross Chop
+68,Dual Chop
+68,Dynamic Punch
+68,Focus Energy
+68,Focus Energy
+68,Foresight
+68,Karate Chop
+68,Karate Chop
+68,Knock Off
+68,Leer
+68,Low Kick
+68,Low Sweep
+68,Revenge
+68,Scary Face
+68,Seismic Toss
+68,Submission
+68,Vital Throw
+68,Wake-Up Slap
+68,Wide Guard
+69,Acid
+69,Gastro Acid
+69,Growth
+69,Knock Off
+69,Poison Powder
+69,Razor Leaf
+69,Slam
+69,Sleep Powder
+69,Stun Spore
+69,Sweet Scent
+69,Vine Whip
+69,Wrap
+69,Wring Out
+70,Acid
+70,Gastro Acid
+70,Growth
+70,Growth
+70,Knock Off
+70,Poison Powder
+70,Razor Leaf
+70,Slam
+70,Sleep Powder
+70,Stun Spore
+70,Sweet Scent
+70,Vine Whip
+70,Wrap
+70,Wrap
+70,Wring Out
+71,Leaf Blade
+71,Leaf Storm
+71,Leaf Tornado
+71,Razor Leaf
+71,Sleep Powder
+71,Spit Up
+71,Stockpile
+71,Swallow
+71,Sweet Scent
+71,Vine Whip
+72,Acid
+72,Acid Spray
+72,Barrier
+72,Brine
+72,Bubble Beam
+72,Constrict
+72,Hex
+72,Hydro Pump
+72,Poison Jab
+72,Poison Sting
+72,Screech
+72,Sludge Wave
+72,Supersonic
+72,Toxic Spikes
+72,Water Pulse
+72,Wrap
+72,Wring Out
+73,Acid
+73,Acid
+73,Acid Spray
+73,Barrier
+73,Brine
+73,Bubble Beam
+73,Constrict
+73,Constrict
+73,Hex
+73,Hydro Pump
+73,Poison Jab
+73,Poison Sting
+73,Reflect Type
+73,Screech
+73,Sludge Wave
+73,Supersonic
+73,Supersonic
+73,Toxic Spikes
+73,Water Pulse
+73,Wrap
+73,Wring Out
+73,Wring Out
+74,Bulldoze
+74,Defense Curl
+74,Double-Edge
+74,Earthquake
+74,Explosion
+74,Magnitude
+74,Mud Sport
+74,Rock Blast
+74,Rock Polish
+74,Rock Throw
+74,Rollout
+74,Self-Destruct
+74,Smack Down
+74,Stealth Rock
+74,Stone Edge
+74,Tackle
+75,Bulldoze
+75,Defense Curl
+75,Double-Edge
+75,Earthquake
+75,Explosion
+75,Magnitude
+75,Mud Sport
+75,Mud Sport
+75,Rock Blast
+75,Rock Polish
+75,Rock Polish
+75,Rock Throw
+75,Rollout
+75,Self-Destruct
+75,Smack Down
+75,Stealth Rock
+75,Stone Edge
+75,Tackle
+76,Bulldoze
+76,Defense Curl
+76,Double-Edge
+76,Earthquake
+76,Explosion
+76,Heavy Slam
+76,Heavy Slam
+76,Magnitude
+76,Mud Sport
+76,Mud Sport
+76,Rock Blast
+76,Rock Polish
+76,Rock Polish
+76,Rock Throw
+76,Self-Destruct
+76,Smack Down
+76,Stealth Rock
+76,Steamroller
+76,Stone Edge
+76,Tackle
+77,Agility
+77,Bounce
+77,Ember
+77,Fire Blast
+77,Fire Spin
+77,Flame Charge
+77,Flame Wheel
+77,Flare Blitz
+77,Growl
+77,Inferno
+77,Stomp
+77,Tackle
+77,Tail Whip
+77,Take Down
+78,Agility
+78,Bounce
+78,Ember
+78,Ember
+78,Fire Blast
+78,Fire Spin
+78,Flame Charge
+78,Flame Wheel
+78,Flare Blitz
+78,Fury Attack
+78,Growl
+78,Inferno
+78,Megahorn
+78,Poison Jab
+78,Quick Attack
+78,Stomp
+78,Tail Whip
+78,Tail Whip
+78,Take Down
+79,Amnesia
+79,Confusion
+79,Curse
+79,Disable
+79,Growl
+79,Headbutt
+79,Heal Pulse
+79,Psych Up
+79,Psychic
+79,Rain Dance
+79,Slack Off
+79,Tackle
+79,Water Gun
+79,Water Pulse
+79,Yawn
+79,Zen Headbutt
+80,Amnesia
+80,Confusion
+80,Curse
+80,Disable
+80,Growl
+80,Growl
+80,Headbutt
+80,Heal Pulse
+80,Heal Pulse
+80,Psych Up
+80,Psychic
+80,Rain Dance
+80,Slack Off
+80,Tackle
+80,Water Gun
+80,Water Pulse
+80,Withdraw
+80,Yawn
+80,Zen Headbutt
+81,Discharge
+81,Electro Ball
+81,Flash Cannon
+81,Gyro Ball
+81,Lock-On
+81,Magnet Bomb
+81,Magnet Rise
+81,Metal Sound
+81,Mirror Shot
+81,Screech
+81,Sonic Boom
+81,Spark
+81,Supersonic
+81,Tackle
+81,Thunder Shock
+81,Thunder Wave
+81,Zap Cannon
+82,Discharge
+82,Electric Terrain
+82,Electro Ball
+82,Flash Cannon
+82,Gyro Ball
+82,Lock-On
+82,Magnet Bomb
+82,Magnet Rise
+82,Metal Sound
+82,Mirror Shot
+82,Screech
+82,Sonic Boom
+82,Sonic Boom
+82,Spark
+82,Supersonic
+82,Supersonic
+82,Tackle
+82,Thunder Shock
+82,Thunder Shock
+82,Thunder Wave
+82,Tri Attack
+82,Zap Cannon
+82,Zap Cannon
+83,Acrobatics
+83,Aerial Ace
+83,Agility
+83,Air Cutter
+83,Air Slash
+83,Brave Bird
+83,Brave Bird
+83,False Swipe
+83,Feint
+83,Fury Attack
+83,Fury Cutter
+83,Knock Off
+83,Leer
+83,Night Slash
+83,Peck
+83,Poison Jab
+83,Sand Attack
+83,Slash
+83,Swords Dance
+84,Acupressure
+84,Agility
+84,Double Hit
+84,Drill Peck
+84,Endeavor
+84,Fury Attack
+84,Growl
+84,Peck
+84,Pluck
+84,Pursuit
+84,Quick Attack
+84,Rage
+84,Thrash
+84,Uproar
+85,Acupressure
+85,Agility
+85,Drill Peck
+85,Endeavor
+85,Fury Attack
+85,Growl
+85,Peck
+85,Pluck
+85,Pursuit
+85,Quick Attack
+85,Quick Attack
+85,Rage
+85,Rage
+85,Thrash
+85,Tri Attack
+85,Uproar
+86,Aqua Jet
+86,Aqua Ring
+86,Aqua Tail
+86,Aurora Beam
+86,Brine
+86,Dive
+86,Encore
+86,Growl
+86,Hail
+86,Headbutt
+86,Ice Beam
+86,Ice Shard
+86,Icy Wind
+86,Rest
+86,Safeguard
+86,Take Down
+86,Water Sport
+87,Aqua Jet
+87,Aqua Ring
+87,Aqua Tail
+87,Aurora Beam
+87,Brine
+87,Dive
+87,Encore
+87,Growl
+87,Growl
+87,Hail
+87,Ice Beam
+87,Ice Shard
+87,Icy Wind
+87,Icy Wind
+87,Rest
+87,Safeguard
+87,Sheer Cold
+87,Signal Beam
+87,Signal Beam
+87,Take Down
+88,Acid Armor
+88,Belch
+88,Disable
+88,Fling
+88,Gunk Shot
+88,Harden
+88,Memento
+88,Minimize
+88,Mud Bomb
+88,Mud-Slap
+88,Poison Gas
+88,Pound
+88,Screech
+88,Sludge
+88,Sludge Bomb
+88,Sludge Wave
+89,Acid Armor
+89,Belch
+89,Disable
+89,Fling
+89,Gunk Shot
+89,Harden
+89,Harden
+89,Memento
+89,Minimize
+89,Mud Bomb
+89,Mud-Slap
+89,Mud-Slap
+89,Poison Gas
+89,Pound
+89,Screech
+89,Sludge
+89,Sludge Bomb
+89,Sludge Wave
+89,Venom Drench
+90,Aurora Beam
+90,Brine
+90,Clamp
+90,Hydro Pump
+90,Ice Beam
+90,Ice Shard
+90,Icicle Spear
+90,Iron Defense
+90,Leer
+90,Protect
+90,Razor Shell
+90,Shell Smash
+90,Supersonic
+90,Tackle
+90,Whirlpool
+90,Withdraw
+91,Aurora Beam
+91,Hydro Pump
+91,Icicle Crash
+91,Protect
+91,Shell Smash
+91,Spike Cannon
+91,Spikes
+91,Supersonic
+91,Toxic Spikes
+91,Withdraw
+92,Confuse Ray
+92,Curse
+92,Dark Pulse
+92,Destiny Bond
+92,Dream Eater
+92,Hex
+92,Hypnosis
+92,Lick
+92,Mean Look
+92,Night Shade
+92,Nightmare
+92,Payback
+92,Shadow Ball
+92,Spite
+92,Sucker Punch
+93,Confuse Ray
+93,Curse
+93,Dark Pulse
+93,Destiny Bond
+93,Dream Eater
+93,Hex
+93,Hypnosis
+93,Lick
+93,Mean Look
+93,Night Shade
+93,Nightmare
+93,Payback
+93,Shadow Ball
+93,Shadow Punch
+93,Spite
+93,Spite
+93,Sucker Punch
+94,Confuse Ray
+94,Curse
+94,Dark Pulse
+94,Destiny Bond
+94,Dream Eater
+94,Hex
+94,Hypnosis
+94,Lick
+94,Mean Look
+94,Night Shade
+94,Nightmare
+94,Payback
+94,Shadow Ball
+94,Shadow Punch
+94,Spite
+94,Spite
+94,Sucker Punch
+95,Confusion
+95,Disable
+95,Future Sight
+95,Headbutt
+95,Headbutt
+95,Hypnosis
+95,Meditate
+95,Nasty Plot
+95,Poison Gas
+95,Pound
+95,Psybeam
+95,Psych Up
+95,Psychic
+95,Psyshock
+95,Swagger
+95,Synchronoise
+95,Zen Headbutt
+96,Confusion
+96,Disable
+96,Future Sight
+96,Headbutt
+96,Headbutt
+96,Hypnosis
+96,Meditate
+96,Nasty Plot
+96,Poison Gas
+96,Pound
+96,Psybeam
+96,Psych Up
+96,Psychic
+96,Psyshock
+96,Swagger
+96,Synchronoise
+96,Zen Headbutt
+97,Confusion
+97,Confusion
+97,Disable
+97,Disable
+97,Future Sight
+97,Future Sight
+97,Headbutt
+97,Headbutt
+97,Hypnosis
+97,Meditate
+97,Nasty Plot
+97,Nasty Plot
+97,Nightmare
+97,Poison Gas
+97,Pound
+97,Psybeam
+97,Psych Up
+97,Psychic
+97,Psyshock
+97,Swagger
+97,Switcheroo
+97,Synchronoise
+97,Zen Headbutt
+98,Brine
+98,Bubble
+98,Bubble Beam
+98,Crabhammer
+98,Flail
+98,Guillotine
+98,Harden
+98,Leer
+98,Metal Claw
+98,Mud Shot
+98,Mud Sport
+98,Protect
+98,Slam
+98,Stomp
+98,Vice Grip
+99,Brine
+99,Bubble
+99,Bubble Beam
+99,Crabhammer
+99,Flail
+99,Guillotine
+99,Harden
+99,Leer
+99,Leer
+99,Metal Claw
+99,Mud Shot
+99,Mud Sport
+99,Protect
+99,Slam
+99,Stomp
+99,Vice Grip
+99,Vice Grip
+99,Wide Guard
+100,Charge
+100,Charge Beam
+100,Discharge
+100,Eerie Impulse
+100,Electro Ball
+100,Explosion
+100,Gyro Ball
+100,Light Screen
+100,Magnet Rise
+100,Mirror Coat
+100,Rollout
+100,Screech
+100,Self-Destruct
+100,Sonic Boom
+100,Spark
+100,Swift
+100,Tackle
+101,Charge
+101,Charge Beam
+101,Discharge
+101,Eerie Impulse
+101,Electro Ball
+101,Explosion
+101,Gyro Ball
+101,Light Screen
+101,Magnet Rise
+101,Magnetic Flux
+101,Mirror Coat
+101,Rollout
+101,Screech
+101,Self-Destruct
+101,Sonic Boom
+101,Sonic Boom
+101,Spark
+101,Spark
+101,Swift
+101,Tackle
+101,Tackle
+102,Barrage
+102,Bestow
+102,Bullet Seed
+102,Confusion
+102,Extrasensory
+102,Hypnosis
+102,Leech Seed
+102,Natural Gift
+102,Poison Powder
+102,Reflect
+102,Sleep Powder
+102,Solar Beam
+102,Stun Spore
+102,Uproar
+102,Worry Seed
+103,Barrage
+103,Confusion
+103,Egg Bomb
+103,Hypnosis
+103,Leaf Storm
+103,Psyshock
+103,Seed Bomb
+103,Stomp
+103,Wood Hammer
+104,Bone Club
+104,Bone Rush
+104,Bonemerang
+104,Double-Edge
+104,Endeavor
+104,False Swipe
+104,Fling
+104,Focus Energy
+104,Growl
+104,Headbutt
+104,Leer
+104,Rage
+104,Retaliate
+104,Tail Whip
+104,Thrash
+105,Bone Club
+105,Bone Club
+105,Bone Rush
+105,Bonemerang
+105,Double-Edge
+105,Endeavor
+105,False Swipe
+105,Fling
+105,Focus Energy
+105,Growl
+105,Headbutt
+105,Headbutt
+105,Leer
+105,Rage
+105,Retaliate
+105,Tail Whip
+105,Tail Whip
+105,Thrash
+106,Blaze Kick
+106,Brick Break
+106,Close Combat
+106,Close Combat
+106,Double Kick
+106,Endure
+106,Feint
+106,Focus Energy
+106,Foresight
+106,High Jump Kick
+106,Jump Kick
+106,Meditate
+106,Mega Kick
+106,Mega Kick
+106,Mind Reader
+106,Revenge
+106,Reversal
+106,Reversal
+106,Rolling Kick
+106,Wide Guard
+107,Agility
+107,Bullet Punch
+107,Close Combat
+107,Close Combat
+107,Comet Punch
+107,Counter
+107,Counter
+107,Detect
+107,Feint
+107,Fire Punch
+107,Focus Punch
+107,Focus Punch
+107,Ice Punch
+107,Mach Punch
+107,Mega Punch
+107,Pursuit
+107,Quick Guard
+107,Revenge
+107,Sky Uppercut
+107,Thunder Punch
+107,Vacuum Wave
+108,Chip Away
+108,Defense Curl
+108,Disable
+108,Knock Off
+108,Lick
+108,Me First
+108,Power Whip
+108,Refresh
+108,Rollout
+108,Screech
+108,Slam
+108,Stomp
+108,Supersonic
+108,Wrap
+108,Wring Out
+109,Assurance
+109,Belch
+109,Clear Smog
+109,Destiny Bond
+109,Explosion
+109,Gyro Ball
+109,Haze
+109,Memento
+109,Poison Gas
+109,Self-Destruct
+109,Sludge
+109,Sludge Bomb
+109,Smog
+109,Smokescreen
+109,Tackle
+110,Assurance
+110,Belch
+110,Clear Smog
+110,Destiny Bond
+110,Double Hit
+110,Explosion
+110,Haze
+110,Memento
+110,Poison Gas
+110,Self-Destruct
+110,Sludge
+110,Sludge Bomb
+110,Smog
+110,Smog
+110,Smokescreen
+110,Smokescreen
+110,Tackle
+111,Bulldoze
+111,Chip Away
+111,Drill Run
+111,Earthquake
+111,Fury Attack
+111,Horn Attack
+111,Horn Drill
+111,Megahorn
+111,Rock Blast
+111,Scary Face
+111,Smack Down
+111,Stomp
+111,Stone Edge
+111,Tail Whip
+111,Take Down
+112,Bulldoze
+112,Chip Away
+112,Drill Run
+112,Earthquake
+112,Fury Attack
+112,Fury Attack
+112,Hammer Arm
+112,Horn Attack
+112,Horn Drill
+112,Horn Drill
+112,Megahorn
+112,Megahorn
+112,Rock Blast
+112,Scary Face
+112,Scary Face
+112,Smack Down
+112,Stomp
+112,Stomp
+112,Stone Edge
+112,Tail Whip
+112,Take Down
+113,Bestow
+113,Defense Curl
+113,Double Slap
+113,Double-Edge
+113,Double-Edge
+113,Egg Bomb
+113,Fling
+113,Growl
+113,Heal Pulse
+113,Healing Wish
+113,Light Screen
+113,Minimize
+113,Pound
+113,Refresh
+113,Sing
+113,Soft-Boiled
+113,Tail Whip
+113,Take Down
+114,Dark
+114,Grass
+114,Grass
+114,Grass
+114,Grass
+114,Grass
+114,Grass
+114,Grass
+114,Grass
+114,Grass
+114,Normal
+114,Normal
+114,Normal
+114,Normal
+114,Normal
+114,Normal
+114,Normal
+114,Poison
+114,Rock
+115,Bite
+115,Chip Away
+115,Comet Punch
+115,Crunch
+115,Dizzy Punch
+115,Double Hit
+115,Endure
+115,Fake Out
+115,Leer
+115,Mega Punch
+115,Outrage
+115,Rage
+115,Reversal
+115,Sucker Punch
+115,Tail Whip
+116,Agility
+116,Brine
+116,Bubble
+116,Bubble Beam
+116,Dragon Dance
+116,Dragon Pulse
+116,Focus Energy
+116,Hydro Pump
+116,Leer
+116,Smokescreen
+116,Twister
+116,Water Gun
+117,Agility
+117,Brine
+117,Bubble
+117,Bubble
+117,Bubble Beam
+117,Dragon Dance
+117,Dragon Pulse
+117,Focus Energy
+117,Hydro Pump
+117,Hydro Pump
+117,Leer
+117,Leer
+117,Smokescreen
+117,Smokescreen
+117,Twister
+117,Water Gun
+117,Water Gun
+118,Agility
+118,Aqua Ring
+118,Flail
+118,Fury Attack
+118,Horn Attack
+118,Horn Drill
+118,Megahorn
+118,Peck
+118,Soak
+118,Supersonic
+118,Tail Whip
+118,Water Pulse
+118,Water Sport
+118,Waterfall
+119,Agility
+119,Aqua Ring
+119,Flail
+119,Fury Attack
+119,Horn Attack
+119,Horn Drill
+119,Megahorn
+119,Megahorn
+119,Peck
+119,Poison Jab
+119,Soak
+119,Supersonic
+119,Supersonic
+119,Tail Whip
+119,Water Pulse
+119,Water Sport
+119,Waterfall
+120,Brine
+120,Bubble Beam
+120,Camouflage
+120,Confuse Ray
+120,Cosmic Power
+120,Gyro Ball
+120,Harden
+120,Hydro Pump
+120,Light Screen
+120,Minimize
+120,Power Gem
+120,Psychic
+120,Psywave
+120,Rapid Spin
+120,Recover
+120,Reflect Type
+120,Swift
+120,Tackle
+120,Water Gun
+121,Confuse Ray
+121,Hydro Pump
+121,Rapid Spin
+121,Recover
+121,Swift
+121,Water Gun
+122,Barrier
+122,Baton Pass
+122,Confusion
+122,Copycat
+122,Double Slap
+122,Encore
+122,Guard Swap
+122,Light Screen
+122,Magical Leaf
+122,Meditate
+122,Mimic
+122,Misty Terrain
+122,Power Swap
+122,Psybeam
+122,Psychic
+122,Psywave
+122,Quick Guard
+122,Recycle
+122,Reflect
+122,Role Play
+122,Safeguard
+122,Substitute
+122,Trick
+122,Wide Guard
+123,Agility
+123,Air Slash
+123,Double Hit
+123,Double Team
+123,False Swipe
+123,Feint
+123,Focus Energy
+123,Fury Cutter
+123,Leer
+123,Night Slash
+123,Pursuit
+123,Quick Attack
+123,Razor Wind
+123,Slash
+123,Swords Dance
+123,Vacuum Wave
+123,Wing Attack
+123,X-Scissor
+124,Avalanche
+124,Blizzard
+124,Body Slam
+124,Double Slap
+124,Draining Kiss
+124,Fake Tears
+124,Heart Stamp
+124,Ice Punch
+124,Lick
+124,Lick
+124,Lovely Kiss
+124,Lovely Kiss
+124,Mean Look
+124,Perish Song
+124,Perish Song
+124,Pound
+124,Powder Snow
+124,Powder Snow
+124,Wake-Up Slap
+124,Wring Out
+125,Discharge
+125,Electro Ball
+125,Leer
+125,Light Screen
+125,Low Kick
+125,Quick Attack
+125,Screech
+125,Shock Wave
+125,Swift
+125,Thunder
+125,Thunder Punch
+125,Thunder Shock
+125,Thunder Shock
+125,Thunder Wave
+125,Thunderbolt
+126,Clear Smog
+126,Confuse Ray
+126,Ember
+126,Ember
+126,Feint Attack
+126,Fire Blast
+126,Fire Punch
+126,Fire Spin
+126,Flame Burst
+126,Flamethrower
+126,Lava Plume
+126,Leer
+126,Smog
+126,Smokescreen
+126,Sunny Day
+127,Bind
+127,Brick Break
+127,Double Hit
+127,Focus Energy
+127,Guillotine
+127,Harden
+127,Revenge
+127,Seismic Toss
+127,Storm Throw
+127,Submission
+127,Superpower
+127,Swords Dance
+127,Thrash
+127,Vice Grip
+127,Vital Throw
+127,X-Scissor
+128,Giga Impact
+128,Horn Attack
+128,Payback
+128,Pursuit
+128,Rage
+128,Rest
+128,Scary Face
+128,Swagger
+128,Tackle
+128,Tail Whip
+128,Take Down
+128,Thrash
+128,Work Up
+128,Zen Headbutt
+129,Flail
+129,Splash
+129,Tackle
+130,Aqua Tail
+130,Bite
+130,Crunch
+130,Dragon Dance
+130,Dragon Rage
+130,Hydro Pump
+130,Hyper Beam
+130,Ice Fang
+130,Leer
+130,Rain Dance
+130,Thrash
+130,Twister
+131,Body Slam
+131,Brine
+131,Confuse Ray
+131,Growl
+131,Hydro Pump
+131,Ice Beam
+131,Ice Shard
+131,Mist
+131,Perish Song
+131,Rain Dance
+131,Safeguard
+131,Sheer Cold
+131,Sing
+131,Water Gun
+131,Water Pulse
+132,Transform
+133,Baby-Doll Eyes
+133,Baton Pass
+133,Bite
+133,Charm
+133,Covet
+133,Double-Edge
+133,Growl
+133,Helping Hand
+133,Last Resort
+133,Quick Attack
+133,Refresh
+133,Sand Attack
+133,Swift
+133,Tackle
+133,Tail Whip
+133,Take Down
+133,Trump Card
+134,Acid Armor
+134,Aqua Ring
+134,Aurora Beam
+134,Haze
+134,Helping Hand
+134,Hydro Pump
+134,Last Resort
+134,Muddy Water
+134,Quick Attack
+134,Sand Attack
+134,Tackle
+134,Tail Whip
+134,Water Gun
+134,Water Pulse
+135,Agility
+135,Discharge
+135,Double Kick
+135,Helping Hand
+135,Last Resort
+135,Pin Missile
+135,Quick Attack
+135,Sand Attack
+135,Tackle
+135,Tail Whip
+135,Thunder
+135,Thunder Fang
+135,Thunder Shock
+135,Thunder Wave
+136,Bite
+136,Ember
+136,Fire Fang
+136,Fire Spin
+136,Flare Blitz
+136,Helping Hand
+136,Last Resort
+136,Lava Plume
+136,Quick Attack
+136,Sand Attack
+136,Scary Face
+136,Smog
+136,Tackle
+136,Tail Whip
+137,Agility
+137,Conversion
+137,Conversion 2
+137,Discharge
+137,Lock-On
+137,Magic Coat
+137,Magnet Rise
+137,Psybeam
+137,Recover
+137,Recycle
+137,Sharpen
+137,Signal Beam
+137,Tackle
+137,Tri Attack
+137,Zap Cannon
+138,Ancient Power
+138,Bite
+138,Brine
+138,Constrict
+138,Hydro Pump
+138,Leer
+138,Mud Shot
+138,Protect
+138,Rock Blast
+138,Rollout
+138,Shell Smash
+138,Tickle
+138,Water Gun
+138,Withdraw
+139,Ancient Power
+139,Bite
+139,Bite
+139,Brine
+139,Constrict
+139,Hydro Pump
+139,Hydro Pump
+139,Leer
+139,Mud Shot
+139,Protect
+139,Rock Blast
+139,Rollout
+139,Shell Smash
+139,Spike Cannon
+139,Tickle
+139,Water Gun
+139,Withdraw
+140,Absorb
+140,Ancient Power
+140,Aqua Jet
+140,Endure
+140,Harden
+140,Leer
+140,Mega Drain
+140,Metal Sound
+140,Mud Shot
+140,Sand Attack
+140,Scratch
+140,Wring Out
+141,Absorb
+141,Absorb
+141,Ancient Power
+141,Aqua Jet
+141,Endure
+141,Feint
+141,Harden
+141,Leer
+141,Leer
+141,Mega Drain
+141,Metal Sound
+141,Mud Shot
+141,Night Slash
+141,Night Slash
+141,Sand Attack
+141,Scratch
+141,Slash
+141,Wring Out
+142,Agility
+142,Ancient Power
+142,Bite
+142,Crunch
+142,Fire Fang
+142,Giga Impact
+142,Hyper Beam
+142,Ice Fang
+142,Iron Head
+142,Iron Head
+142,Roar
+142,Rock Slide
+142,Scary Face
+142,Sky Drop
+142,Supersonic
+142,Take Down
+142,Thunder Fang
+142,Wing Attack
+143,Amnesia
+143,Belly Drum
+143,Block
+143,Body Slam
+143,Chip Away
+143,Crunch
+143,Defense Curl
+143,Giga Impact
+143,Heavy Slam
+143,Lick
+143,Rest
+143,Rollout
+143,Sleep Talk
+143,Snore
+143,Tackle
+143,Yawn
+144,Agility
+144,Ancient Power
+144,Blizzard
+144,Freeze-Dry
+144,Gust
+144,Hail
+144,Hurricane
+144,Hurricane
+144,Ice Beam
+144,Ice Shard
+144,Mind Reader
+144,Mist
+144,Powder Snow
+144,Reflect
+144,Roost
+144,Roost
+144,Sheer Cold
+144,Sheer Cold
+144,Tailwind
+144,Tailwind
+145,Agility
+145,Ancient Power
+145,Charge
+145,Detect
+145,Discharge
+145,Drill Peck
+145,Drill Peck
+145,Light Screen
+145,Peck
+145,Pluck
+145,Rain Dance
+145,Roost
+145,Roost
+145,Thunder
+145,Thunder Shock
+145,Thunder Wave
+145,Zap Cannon
+145,Zap Cannon
+146,Agility
+146,Air Slash
+146,Ancient Power
+146,Ember
+146,Endure
+146,Fire Spin
+146,Flamethrower
+146,Heat Wave
+146,Heat Wave
+146,Hurricane
+146,Hurricane
+146,Roost
+146,Roost
+146,Safeguard
+146,Sky Attack
+146,Sky Attack
+146,Solar Beam
+146,Sunny Day
+146,Wing Attack
+147,Agility
+147,Aqua Tail
+147,Dragon Dance
+147,Dragon Rage
+147,Dragon Rush
+147,Dragon Tail
+147,Hyper Beam
+147,Leer
+147,Outrage
+147,Safeguard
+147,Slam
+147,Thunder Wave
+147,Twister
+147,Wrap
+148,Agility
+148,Aqua Tail
+148,Dragon Dance
+148,Dragon Rage
+148,Dragon Rush
+148,Dragon Tail
+148,Hyper Beam
+148,Leer
+148,Outrage
+148,Safeguard
+148,Slam
+148,Thunder Wave
+148,Thunder Wave
+148,Twister
+148,Twister
+148,Wrap
+149,Agility
+149,Aqua Tail
+149,Dragon Dance
+149,Dragon Rage
+149,Dragon Rush
+149,Dragon Tail
+149,Fire Punch
+149,Hurricane
+149,Hurricane
+149,Hyper Beam
+149,Leer
+149,Outrage
+149,Roost
+149,Safeguard
+149,Slam
+149,Thunder Punch
+149,Thunder Wave
+149,Thunder Wave
+149,Twister
+149,Twister
+149,Wing Attack
+149,Wrap
+150,Amnesia
+150,Aura Sphere
+150,Barrier
+150,Confusion
+150,Disable
+150,Future Sight
+150,Guard Swap
+150,Me First
+150,Miracle Eye
+150,Mist
+150,Power Swap
+150,Psych Up
+150,Psychic
+150,Psycho Cut
+150,Psystrike
+150,Recover
+150,Safeguard
+150,Swift
+151,Amnesia
+151,Ancient Power
+151,Aura Sphere
+151,Barrier
+151,Baton Pass
+151,Me First
+151,Mega Punch
+151,Metronome
+151,Nasty Plot
+151,Pound
+151,Psychic
+151,Reflect Type
+151,Transform
+165,Tackle
+165,Growl
+165,Leech Seed
+166,Vine Whip
+166,Poison Powder
+166,Sleep Powder
+169,Take Down
+169,Razor Leaf
+169,Sweet Scent
+172,Growth
+172,Double-Edge
+172,Worry Seed
+173,Synthesis
+173,Seed Bomb
+173,Solar Beam
+174,Petal Dance
+174,Petal Blizzard
+174,Scratch
+191,Ember
+191,Smokescreen
+191,Dragon Rage
+192,Scary Face
+192,Fire Fang
+192,Flame Burst
+202,Slash
+202,Flamethrower
+202,Fire Spin
+203,Inferno
+203,Flare Blitz
+203,Heat Wave
+208,Dragon Claw
+208,Shadow Claw
+208,Air Slash
+212,Wing Attack
+212,Tail Whip
+212,Water Gun
+214,Withdraw
+214,Bubble
+214,Bite
+215,Rapid Spin
+215,Protect
+215,Water Pulse
+227,Aqua Tail
+227,Skull Bash
+227,Iron Defense
+228,Rain Dance
+228,Hydro Pump
+228,Flash Cannon
+229,String Shot
+229,Bug Bite
+229,Harden
+230,Confusion
+230,Stun Spore
+230,Gust
+233,Supersonic
+233,Whirlwind
+233,Psybeam
+236,Silver Wind
+236,Tailwind
+236,Rage Powder
+238,Safeguard
+238,Captivate
+238,Bug Buzz
+239,Quiver Dance
+239,Poison Sting
+239,Fury Attack
+240,Focus Energy
+240,Twineedle
+240,Rage
+242,Pursuit
+242,Toxic Spikes
+242,Pin Missile
+258,Agility
+258,Assurance
+258,Poison Jab
+259,Endeavor
+259,Fell Stinger
+259,Sand Attack
+260,Quick Attack
+260,Twister
+260,Feather Dance
+265,Roost
+265,Mirror Move
+265,Hurricane
+266,Normal
+266,Ground
+266,Flying
+267,Dragon
+267,Psychic
+267,Hyper Fang
+273,Sucker Punch
+273,Crunch
+273,Super Fang
+274,Swords Dance
+274,Peck
+274,Leer
+275,Aerial Ace
+275,Drill Peck
+275,Drill Run
+278,Pluck
+278,Wrap
+278,Glare
+279,Screech
+279,Acid
+279,Stockpile
+287,Swallow
+287,Spit Up
+287,Acid Spray
+288,Mud Bomb
+288,Gastro Acid
+288,Belch
+289,Haze
+289,Coil
+289,Gunk Shot
+300,Ice Fang
+300,Thunder Fang
+300,Thunder Shock
+301,Play Nice
+301,Electro Ball
+301,Thunder Wave
+311,Feint
+311,Double Team
+311,Spark
+314,Nuzzle
+314,Discharge
+314,Slam
+320,Thunderbolt
+320,Wild Charge
+320,Light Screen
+321,Thunder
+321,Defense Curl
+321,Rollout
+324,Fury Cutter
+324,Magnitude
+324,Swift
+327,Fury Swipes
+327,Sand Tomb
+327,Dig
+333,Gyro Ball
+333,Sandstorm
+333,Earthquake
+334,Crush Claw
+334,Double Kick
+334,Helping Hand
+337,Flatter
+337,Poison Fang
+337,Superpower
+349,Chip Away
+349,Body Slam
+349,Earth Power
+350,Horn Attack
+350,Horn Drill
+350,Megahorn
+360,Thrash
+360,After You
+360,Healing Wish
+387,Disarming Voice
+387,Pound
+387,Encore
+388,Sing
+388,Double Slap
+388,Follow Me
+389,Bestow
+389,Wake-Up Slap
+389,Minimize
+390,Stored Power
+390,Metronome
+390,Cosmic Power
+391,Lucky Chant
+391,Moonlight
+391,Moonblast
+392,Gravity
+392,Meteor Mash
+392,Roar
+430,Baby-Doll Eyes
+430,Confuse Ray
+430,Payback
+431,Will-O-Wisp
+431,Feint Attack
+431,Hex
+432,Extrasensory
+432,Imprison
+432,Fire Blast
+439,Grudge
+439,Nasty Plot
+439,Disable
+440,Round
+440,Rest
+440,Mimic

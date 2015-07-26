@@ -1,0 +1,248 @@
+1,Bulbasaur,B,Seed,FALSE,Overgrow
+2,Ivysaur,B,Seed,TRUE,Overgrow
+3,Venusaur,B,Seed,TRUE,Overgrow
+4,Charmander,B,Lizard,FALSE,Blaze
+5,Charmeleon,B,Flame,TRUE,Blaze
+6,Charizard,B,Flame,TRUE,Blaze
+7,Squirtle,B,Tiny Turtle,FALSE,Torrent
+8,Wartortle,B,Turtle,TRUE,Torrent
+9,Blastoise,B,Shellfish,TRUE,Torrent
+10,Caterpie,B,Worm,FALSE,Shield Dust
+11,Metapod,B,Cocoon,TRUE,Shed Skin
+12,Butterfree,B,Butterfly,TRUE,Compound Eyes
+13,Weedle,B,Hairy  Bug,FALSE,Shield Dust
+14,Kakuna,B,Cocoon,TRUE,Shed Skin
+15,Beedrill,B,Poison Bee,TRUE,Swarm
+16,Pidgey,B,Tiny Bird,FALSE,Keen Eye
+17,Pidgeotto,B,Bird,TRUE,Keen Eye
+18,Pidgeot,B,Bird,TRUE,Keen
+19,Rattata,B,Mouse,FALSE,Run Away
+20,Raticate,B,Mouse,TRUE,Run Away
+21,Spearow,B,Tiny Bird,FALSE,Keen Eye
+22,Fearow,B,Beak,TRUE,Keen Eye
+23,Ekans,B,Snake,FALSE,Shed Skin
+24,Arbok,B ,Cobra,TRUE,Intimidate
+25,Pikachu,B,Mouse,TRUE,Static
+26,Raichu,B,Mouse,TRUE,Static
+27,Sandshrew,B,Mouse,FALSE,Sand Veil
+28,Sandslash,B,Mouse,TRUE,Sand Veil
+29,Nidoran,F,Poison Pin,FALSE,Poison Point
+30,Nidorina,F,Poison Pin,TRUE,Poison Point
+31,Nidoqueen,F,Drill,TRUE,Rivalry
+32,Nidoran,M,Poison Pin,FALSE,Poison Point
+33,Nidorano,M,Poison Pin,TRUE,Poison Point
+34,Nidoking,M,Drill,TRUE,Rivalry
+35,Clefairy,B,Fairy,TRUE,Cute Charm
+36,Clefable,B,Fairy,TRUE,Magic Guard
+37,Vulpix,B,Fox,FALSE,Flash Fire
+38,Ninetails,B,Fox,TRUE,Flash Fire
+39,Jigglypuff,B,Balloon,TRUE,Competitive
+40,Wigglytuff,B,Balloon,TRUE,Competitive
+41,Zubat,B,Bat,FALSE,Inner Focus
+42,Golbat,B,Bat,TRUE,Inner Focus
+43,Oddish,B,Weed,FALSE,Chlorophyll
+44,Gloom,B,Weed,TRUE,Chlorophyll
+45,Vileplume,B,Flower,TRUE,Chlorophyll
+46,Paras,B,Mushroom,FALSE,Effect Spore
+47,Parasect,B,Mushroom,TRUE,Dry Skin
+48,Venonat,B,Insect,FALSE,Effect Spore
+49,Venomoth,B,Poison Moth,TRUE,Sheld Dust
+50,Diglett,B,Mole,FALSE,Sand Veil
+51,Dugtrio,B,Mole,TRUE,Arena Trap
+52,Meowth,B,Scratch  Cat,FALSE,Pick Up
+53,Persian,B,Classy Cat,TRUE,Limber
+54,Psyduck,B,Duck,FALSE,Damp
+55,Golduck,B,Duck,TRUE,Cloud Nine
+56,Mankey,B,Pig Monkey,FALSE,Vital Spirit
+57,Primeape,B,Pig Monkey,TRUE,Anger Point
+58,Growlithe,B,Puppy,FALSE,Intimidate
+59,Arcanine,B,Legendary,TRUE,Flash Fire
+60,Poliwag,B,Tadpole,FALSE,Damp
+61,Poliwhirl,B,Tadpole,TRUE,Damp
+62,Poliwrath,B,Tadpole,TRUE,Water Absorb
+63,Abra,B,Psi,FALSE,Inner Focus
+64,Kadabra,B,Psi,TRUE,Inner Focus
+65,Alakazam,B,Psi,TRUE,Synchronize
+66,Machop,B,Superpower,FALSE,Guts
+67,Machoke,B,Superpower,TRUE,No Guard
+68,Machamp,B,Superpower,TRUE,No Guard
+69,Bellsprout,B,Flower,FALSE,Chlorophyll
+70,Weepinbell,B,Flycatcher,TRUE,Chlorophyll
+71,Victreebel,B,Flycatcher,TRUE,Chlorophyll
+72,Tentacool,B,Jellyfish,FALSE,Clear Body
+73,Tentacruel,B,Jellyfish,TRUE,Liquid Ooze
+74,Geodude,B,Rock,FALSE,Rock Head
+75,Graveler,B,Rock,TRUE,Rock Head
+76,Golem,B,Rock,TRUE,Sturdy
+77,Ponyta,B,Fire Horse,FALSE,Run Away
+78,Rapidash,B,Fire Horse,TRUE,Flash Fire
+79,Slowpoke,B,Dopey,FALSE,Oblivious
+80,Slowbro,B,Hermit Crab,TRUE,Own Tempo
+81,Magnemite,U,Magnet,FALSE,Sturdy
+82,Magneton,U,Magnet,TRUE,Magnet Pull
+83,Farfetchd,B,Wild Duck,FALSE,Inner Focus
+84,Doduo,B,Twin Bird,FALSE,Run Away
+85,Dodrio,B,Triple Bird,TRUE,Early Bird
+86,Seel,B,Sea Lion,FALSE,Thick Fat
+87,Dewgong,B,Sea Lion,TRUE,Hydration
+88,Grimer,B,Sludge,FALSE,Stench
+89,Muk,B,Sludge,TRUE,Sticky Hold
+90,Shellder,B,Bivalve,FALSE,Shell Armor
+91,Cloyster,B,Bivalve,TRUE,Skill Link
+92,Gastly,B,Gas,FALSE,Levitate
+93,Haunter,B,Gas,TRUE,Levitate
+94,Gengar,B,Shadow,TRUE,Levitate
+95,Onix,B,Rock Snake,FALSE,Rock Head
+96,Drowzee,B,Hypnosis,FALSE,Insomnia
+97,Hypno,B,Hypnosis,TRUE,Forewarn
+98,Krabby,B,River Crab,FALSE,Shell Armor
+99,Kingler,B,Pincer,TRUE,Hyper Cutter
+100,Voltorb,U,Ball,FALSE,Static
+101,Electrode,U,Ball,TRUE,Soundproof
+102,Exeggcute,B,Egg,FALSE,Chlorophyll
+103,Exeggutor,B,Coconut,TRUE,Chlorophyll
+104,Cubone,B,Lonely,FALSE,Rock Head
+105,Marowak,B,Bone Keeper,TRUE,Lightning Rod
+106,Hitmonlee,M,Kicking,TRUE,Reckless
+107,Hitmonchan,M,Punching,TRUE,Iron Fist
+108,Lickitung,B,Licking,FALSE,Own Tempo
+109,Koffing,B,Poison Gas,FALSE,Levitate
+110,Weezing,B,Poison Gas,TRUE,Levitate
+111,Rhyhorn,B,Spikes,FALSE,Rock Head
+112,Rhydon,B,Drill,TRUE,Lightning Rod
+113,Chansey,F,Egg,TRUE,Serence Grace
+114,Tangela,B,Vine,FALSE,Leaf Guard
+115,Kangaskhan,F,Parent,FALSE,Scrappy
+116,Horsea,B,Dragon,FALSE,Sniper
+117,Seadra,B,Dragon,TRUE,Poison Point
+118,Goldeen,B,Goldfish,FALSE,Water Veil
+119,Seaking,B,Goldfish,TRUE,Swift Swim
+120,Staryu,U,Star Shape,FALSE,Nature Cure 
+121,Starmie,U,Mysterious,TRUE,Illuminate 
+122,Mr.Mime,B,Barrier,TRUE,Filter 
+123,Scyther,B,Mantis,FALSE,Technician 
+124,Jynx,F,Human Shape, TRUE,Forewarn
+125,Electrabuzz,B,Electric,TRUE,Static
+126,Magmar,B,Spitfire,TRUE,Flame Body
+127,Pinsir,B,Stag Beetle,FALSE,Nature Cure
+128,Tauros,M,Wild Bull,FALSE,Anger Point
+129,Magikarp,B,Fish,FALSE,Swift Swim
+130,Gyarados,B,Atrocious,TRUE,Intimidate
+131,Lapras,B,Transport,FALSE,Shell Armor
+132,Ditto,U,Transform,FALSE,Limber
+133,Eevee,B,Evolution,FALSE,Adaptability
+134,Vaporeon,B,Bubble Jet,TRUE,Water Absorb
+137,Porygon,U,Virtual,FALSE,Download
+138,Omanyte,B,Spiral,FALSE,Shell Armor
+139,Omastar,B,Spiral,TRUE,Swift Armor
+140,Kabuto,B,Shellfish,TRUE,Swift Swim
+141,Kabutops,B,Shellfish,TRUE,Battle Armor
+142,Aerodactyl,B,Fossil,FALSE,Pressure
+143,Snorlax,B,Sleeping,TRUE,Thick Fat
+144,Articuno,U,Freeze,FALSE,Pressure
+145,Zapdos,U,Electric,FALSE,Pressure
+146,Moltres,U,Flame,FALSE,Pressure
+147,Dratini,B,Dragon,FALSE,Shed Skin
+148,Dragonair,B,Dragon,TRUE,Shed Skin
+149,Dragonite,B,Dragon,TRUE,Inner Focus
+150,Mewtwo,U,Genetic,FALSE,Pressure
+151,Mew,U,New Species,FALSE,Synchronize
+,,,,,
+,,,,,
+165,Ledyba,B,Five Star,FALSE,Swarm
+166,Ledian,B,Five Star,TRUE,Swarm
+169,Crobat,B,Bat ,TRUE,Infiltrator
+172,Pichu,B,Tiny Mouse,FALSE,Static
+173,Cleffa,B,Star Shape,FALSE,Friend Guard
+174,Igglypuff,B,Ballon,FALSE,Friend Guard
+191,Sunkern,B,Seed,FALSE,Solar Power
+192,Sunflora,B,Sun,TRUE,Solar Power
+202,Wobbuffet,B,Patient,TRUE,Shadow tag
+203,Girafarig,B,Long Neck,FALSE,Inner Focus
+208,Steelix,B,Iron Snake ,TRUE,Sturdy
+212,Scizor,B,Pincer,TRUE,Swarm
+214,Heracross,B,Single Horn,FALSE,Guts
+215,Sneasel,B,Sharp Claw,FALSE,Keen Eye
+227,Skarmory,B,Armor Bird,FALSE,Sturdy
+228,Houndour,B,Dark,FALSE,Flash Fire
+229,Houndoom,B,Dark,TRUE,Flash Fire
+230,Kingdra,B,Dragon,TRUE,Swift Swin
+233,Porygon2,U,Virtual,TRUE,Download
+236,Tyrogue,M,Scuffle,FALSE,Steadfast
+238,Smoochum,F,Kiss,FALSE,Forewarn
+239,Elekid,B,Electric,FALSE,Static
+240,Magby,B,Live Coal,FALSE,Flame Body
+241,Miltank,F,Milk Cow,FALSE,Scrappy
+242,Blissey,F,Happiness,TRUE,Natural Cure
+258,Mudkip,B,Mud Fish,FALSE,Torrent
+259,Marshtomp,B,Mud Fish,TRUE,Torrent
+260,Swampert,B,Mud Fish,TRUE,Torrent
+265,Wurmple,B,Worm,FALSE,Shield Dust
+266,Silcoon,B,Cocoon,TRUE,Shed Skin
+267,Beautifly,B,Butterfly,TRUE,Swarm
+273,Seedot,B,Accorn,FALSE,Chlorophyll
+274,Nuzleaf,B,Wily,TRUE,Early Bird
+275,Shiftry,B,Wicked,TRUE,Early Bird
+278,Wingull,B,Seagull,FALSE,Keen Eye
+279,Pelipper,B,Water Bird,TRUE,Keen Eye
+287,Slakoth,B,Slacker,FALSE,Truant
+288,Vigoroth,B,Wild Monkey,TRUE,Vital Spirit
+289,Slaking,B,Lazy,TRUE,Truant
+300,Skitty,B,Kitten,FALSE,Normalize
+301,Delcatty,B,Prim,TRUE,Cute Charm
+302,Sableye,B,Darkness,FALSE,Keen Eye
+311,Plusle,B,Cheering,FALSE,Plus
+314,Illumise,F,Firefly,FALSE,Tinted Lens
+320,Wailmer,B,Ball Whale,FALSE,Water Veil
+321,Wailord,B,Float Whale,TRUE,Water Veil
+324,Torkoal,B,Coal,FALSE,White Smole
+327,Spinda,B,Spot Panda,FALSE,Tangled Feet
+333,Swablu,B,Cotton Bird,FALSE,Nature Cure
+334,Altaria,B,Humming,TRUE,Nature Cure
+337,Lunatone,U,Meteorite,FALSE,Levitate
+347, Anorith,B,Old Shrimp,FALSE,Battle Armor
+348, Armaldo,B,Plate Armor,TRUE,Battle Armor
+349,Feebas,B,Fish,FALSE,Swift Swin
+350,Milotic,B,Tender,TRUE,Marvel Scale
+360,Wynaut,B,Bright,FALSE,Shadow tag
+387,Turtwig,B,Tiny Leaf,FALSE,Overgrow
+388,Grotle,B,Grove,TRUE,Overgrow
+389,Torterra,B,Continent,TRUE,Overgrow
+390,Chimchar,B,Chimp,FALSE,Blaze
+391,Monferno,B,Playful,TRUE,Blaze
+392,Infernape,B,Flame,TRUE,Blaze
+431,Glameow,B,Catty,FALSE,Limber
+432,Purugle,B,Tiger cat,TRUE,Thick Fat
+439,Mime Jr.,B,Mime,FALSE,Filter
+440,Happiny,F,Playhouse,FALSE,Serene Grace
+446,Munchlax,B,Eater,FALSE,Thick Fat
+447,Riolu,B,Emanation,FALSE,Steadfast
+448,Lucario,B,Aura,TRUE,Inner Focus
+461,Weavile,B,Sharp Claw,TRUE,Pressure
+462,Magnezone,U,Magnet Area,TRUE,Magnet Pull
+463,Lickilicky,B,Licking,TRUE,Oblivious
+464,Rhyperior,B,Drill,TRUE,Solid Rock
+465,Tangrowth,B,Vine,TRUE,Leaf Guard
+466,Electivire,B,Thunderbolt,TRUE,Motor Drive
+467,Magmortar,B,Blast,TRUE,Flame Body
+501,Oshawott,B,Sea Otter,FALSE,Torrent
+502,Dewott,B,Discipline,TRUE,Torrent
+503,Samurott,B,Formidable,TRUE,Torrent
+504,Patrat,B,Scout,FALSE,Run Away
+505,Watchog,B,Lookout,TRUE,Illuminate
+548,Petilil,F,Bulb,FALSE,Chlorophyll
+549,Lilligant,F,Flowering,TRUE,Chlorophyll
+561,Sigilyph,B,Avianoid,FALSE,Magic Guard
+580,Ducklett,B,Water Bird,FALSE,Keen Eye
+581,Swanna,B,White Bird,TRUE,Big Pecks
+587,Emolga,B,Sky Squirrel,FALSE,Static
+615,Cryogonal,U,Crystallizing,FALSE,Levitate
+621,Druddigon,B,Cave,FALSE,Rough Skin
+650,Chespin,B,Spiny Nut,FALSE,Overgrow
+651,Quilladin,B,Spiny Armor,TRUE,Overgrow
+652,Chesnaught,B,Spiny Armor,TRUE,Overgrow
+664,Scatterbug,B,Scatterdust,FALSE,Shield Dust
+665,Spewpa,B,Scatterdust,TRUE,Shed Skin
+666,Vivillon,B,Scale,TRUE,Compound Eyes
+698,Amaura,B,Tundra,FALSE,Refrigerate
+699,Aurorus,B,Tundra,TRUE,Refrigerate
