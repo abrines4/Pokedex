@@ -86,11 +86,6 @@ CREATE TABLE IF NOT EXISTS Owns (
 	pokemonID INT
 );
 
-CREATE TABLE IF NOT EXISTS Membership (
-	trainerName VARCHAR(20),
-	gymName VARCHAR(20)
-);
-
 CREATE TABLE IF NOT EXISTS Appears_In (
 	pokemonID INT,
 	gymName VARCHAR(20)
