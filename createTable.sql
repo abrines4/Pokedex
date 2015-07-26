@@ -28,11 +28,6 @@ CREATE TABLE IF NOT EXISTS PokemonType (
 	pokemonType VARCHAR(20)
 );
 
-CREATE TABLE IF NOT EXISTS PokemonMove (
-	pokemonID INT PRIMARY KEY,
-	moveName VARCHAR(20)
-);
-
 CREATE TABLE IF NOT EXISTS Statistics (
 	pokemonID INT PRIMARY KEY,
 	defense INT,
@@ -63,6 +58,7 @@ CREATE TABLE IF NOT EXISTS Attack (
 	attackType VARCHAR(20)
 );
 
+/* Specifies all of the attacks or moves that the pokemon is able to learn */
 CREATE TABLE IF NOT EXISTS Learn (
 	attackName VARCHAR(20),
 	pokemonName VARCHAR(20),
@@ -76,6 +72,7 @@ CREATE TABLE IF NOT EXISTS Gym (
 	gymBadge VARCHAR(20)
 );
 
+/* Relates all of the attacks, moves, learned from leveling up */
 CREATE TABLE IF NOT EXISTS Performs (
 	pokemonID INT,
 	attackName VARCHAR(20)
