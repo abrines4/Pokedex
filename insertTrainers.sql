@@ -143,5 +143,5 @@ INSERT INTO Trainer VALUES('Volkner', 'Gym Leader');
 INSERT INTO Trainer VALUES('Crasher Wake', 'Gym Leader');
 INSERT INTO Trainer VALUES('Wallace', 'Champion');
 INSERT INTO Trainer VALUES('Wattson', 'Gym Leader');
-INSERT INTO Trainer VALUES('Wulfric', 'Rancher');
+INSERT INTO Trainer VALUES('Wulfric', 'Gym Leader');
 INSERT INTO Trainer VALUES('Yas', 'Gym Leader');
