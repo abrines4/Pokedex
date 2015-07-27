@@ -24,8 +24,9 @@ CREATE TABLE IF NOT EXISTS Trainer (
 );
 
 CREATE TABLE IF NOT EXISTS PokemonType (
-	pokemonID INT PRIMARY KEY,
-	pokemonType VARCHAR(20)
+	pokemonID INT,
+	pokemonType VARCHAR(20),
+	PRIMARY KEY(pokemonID, pokemonType)
 );
 
 CREATE TABLE IF NOT EXISTS Statistics (
@@ -48,7 +49,7 @@ CREATE TABLE IF NOT EXISTS Evolution (
 	pokemonID INT PRIMARY KEY,
 	evolutionName VARCHAR(20),
 	levelOfEvolution INT,
-	evolutionType VARCHAR(50),
+	evolutionType VARCHAR(75),
 	previousEvolution VARCHAR(20),
 	postEvolution VARCHAR(20)
 );
