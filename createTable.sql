@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS Statistics (
 );
 
 CREATE TABLE IF NOT EXISTS Weaknesses (
-	pokemonID INT PRIMARY KEY,
+	pokemonID INT,
 	weakness VARCHAR(20)
 );
 
