@@ -1,6 +1,5 @@
 # selectSyntheticData.sql
 
-SELECT * FROM each table_name
 SELECT * FROM Appears_In;
 SELECT * FROM Attack;
 SELECT * FROM Badges;
