@@ -1,0 +1,277 @@
+mysql> use Pokemon
+Database changed
+mysql> source insertSyntheticData.sql;
+Query OK, 1 row affected (0.05 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Type' doesn't exist
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1146 (42S02): Table 'Pokemon.Weakness' doesn't exist
+ERROR 1062 (23000): Duplicate entry '45' for key 'PRIMARY'
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected, 1 warning (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Poison')' at line 1
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Fighting')' at line 1
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.03 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> source selectSynteticData.sql;
+ERROR: 
+Failed to open file 'selectSynteticData.sql', error: 2
+mysql> source selectSyntheticData.sql;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'each table_name
+SELECT * FROM Appears_In' at line 1
++--------------+-------------+------------+
+| attackName   | attackPower | attackType |
++--------------+-------------+------------+
+| Blizzard     |         110 | Ice        |
+| Hidden Power |          60 | Normal     |
+| Psyshock     |          80 | Psychic    |
+| Thief        |          60 | Dark       |
++--------------+-------------+------------+
+4 rows in set (0.00 sec)
+
++-------------+----------+
+| trainerName | gymBadge |
++-------------+----------+
+| Brawly      | Knuckle  |
+| Brock       | Boulder  |
+| Brycen      | Freeze   |
++-------------+----------+
+3 rows in set (0.00 sec)
+
++-----------+---------------+------------------+----------------------+-------------------+---------------+
+| pokemonID | evolutionName | levelOfEvolution | evolutionType        | previousEvolution | postEvolution |
++-----------+---------------+------------------+----------------------+-------------------+---------------+
+|        45 | hhh           |             NULL | NULL                 | hhh               | NULL          |
+|        66 | Machop        |               28 | Normal               | Egg               | Machoke       |
+|        74 | Geodude       |               25 | Normal               | Egg               | Graveler      |
+|        95 | Onix          |             NULL | Trade holding Metal  | Egg               | Steelix       |
+|       461 | Weavile       |             NULL | NULL                 | Sneasel           | NULL          |
+|       615 | Cryogonal     |             NULL | NULL                 | Egg               | NULL          |
++-----------+---------------+------------------+----------------------+-------------------+---------------+
+6 rows in set (0.00 sec)
+
++---------+------------+---------+----------+
+| gymName | leaderName | gymType | gymBadge |
++---------+------------+---------+----------+
+| Dewford | Brawly     | Knuckle | Fighting |
+| Icirrus | Brycen     | Freeze  | Ice      |
+| Pewter  | Brock      | Boulder | Rock     |
++---------+------------+---------+----------+
+3 rows in set (0.00 sec)
+
++--------------+-------------+
+| attackName   | pokemonName |
++--------------+-------------+
+| Blizzard     | Cryogonal   |
+| Bulk Up      | Machop      |
+| Hidden Power | Geodude     |
+| Psyshock     | Onix        |
+| Thief        | Weavile     |
+| Toxic        | Vileplume   |
++--------------+-------------+
+6 rows in set (0.00 sec)
+
++-------------+-----------+
+| trainerName | pokemonID |
++-------------+-----------+
+| Bailey      | 45        |
+| Brawly      | 66        |
+| Brock       | 74        |
+| Brock       | 95        |
+| Brycen      | 615       |
+| Aldith      | 461       |
++-------------+-----------+
+6 rows in set (0.00 sec)
+
++-----------+--------------+
+| pokemonID | attackName   |
++-----------+--------------+
+|        45 | Aromatherapy |
+|        66 | Bulk Up      |
+|        74 | Bulldoze     |
+|        95 | Confusion    |
+|       461 | Scratch      |
+|       615 | Solar Beam   |
++-----------+--------------+
+6 rows in set (0.00 sec)
+
++-----------+-------------+--------+---------------+---------+-------------+
+| pokemonID | pokemonName | gender | category      | evolved | ability     |
++-----------+-------------+--------+---------------+---------+-------------+
+|        45 | Vileplume   | B      | Flower        |       1 | Chlorophyll |
+|        66 | Machop      | B      | Superpower    |       0 | Guts        |
+|        74 | Geodude     | B      | Rock          |       0 | Rock Head   |
+|       461 | Weavile     | B      | Sharp Claw    |       1 | Pressure    |
+|       615 | Cryogonal   | U      | Crystallizing |       0 | Levitate    |
++-----------+-------------+--------+---------------+---------+-------------+
+5 rows in set (0.00 sec)
+
+Empty set (0.00 sec)
+
++-----------+---------+--------+-------+------+---------------+----------------+
+| pokemonID | defense | attack | speed | hp   | specialAttack | specialDefense |
++-----------+---------+--------+-------+------+---------------+----------------+
+|        45 |       3 |      4 |     4 |    5 |             4 |              3 |
+|        66 |       3 |      4 |     2 |    2 |             2 |              2 |
+|        74 |       2 |      4 |     4 |    1 |             1 |              1 |
+|        95 |       2 |      2 |     7 |    1 |             2 |              4 |
+|       461 |       3 |      6 |     3 |    2 |             4 |              7 |
+|       615 |       3 |      3 |     2 |    5 |             6 |              6 |
++-----------+---------+--------+-------+------+---------------+----------------+
+6 rows in set (0.00 sec)
+
++-------------+---------------+
+| trainerName | trainerType   |
++-------------+---------------+
+| Aldith      | Team Plasma   |
+| Bailey      | Grass Trainer |
+| Brawly      | Gym Leader    |
+| Brock       | Gym Leader    |
+| Brycen      | Gym Leader    |
++-------------+---------------+
+5 rows in set (0.00 sec)
+
+Empty set (0.00 sec)
+
+mysql> exit;
