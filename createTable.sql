@@ -40,8 +40,8 @@ CREATE TABLE IF NOT EXISTS Statistics (
 
 CREATE TABLE IF NOT EXISTS Weaknesses (
 	pokemonID INT,
-	weakness VARCHAR(20)
-	FOREIGN KEY (pokemonID) REFERENCES Pokemon(pokemonID);
+	weakness VARCHAR(20),
+	PRIMARY KEY(pokemonID, weakness)
 );
 
 CREATE TABLE IF NOT EXISTS Evolution (
