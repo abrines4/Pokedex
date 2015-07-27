@@ -18,7 +18,7 @@ INSERT INTO Badges VALUES('Brycen', 'Freeze');
 INSERT INTO Pokemon VALUES (45,'Vileplume','B','Flower',TRUE,'Chlorophyll');
 INSERT INTO Pokemon VALUES (66,'Machop','B','Superpower',FALSE,'Guts');
 INSERT INTO Pokemon VALUES (74,'Geodude','B','Rock',FALSE,'Rock Head');
-INSERT INTO Pokemon VALUES (95,'Onix'',B','Rock Snake',FALSE,'Rock Head');
+INSERT INTO Pokemon VALUES (95,'Onix','B','Rock Snake',FALSE,'Rock Head');
 INSERT INTO Pokemon VALUES (461,'Weavile','B','Sharp Claw',TRUE,'Pressure');
 INSERT INTO Pokemon VALUES (615,'Cryogonal','U','Crystallizing',FALSE,'Levitate');
 
