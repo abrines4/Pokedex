@@ -223,3 +223,186 @@ Query OK, 1 row affected (0.00 sec)
 Query OK, 1 row affected (0.01 sec)
 
 mysql> exit;
+mysql> use Pokemon;
+Database changed
+mysql> source selectSyntheticaData.sql;
+ERROR: 
+Failed to open file 'selectSyntheticaData.sql', error: 2
+mysql> source selectSyntheticData.sql;
++-----------+-----------+
+| pokemonID | gymName   |
++-----------+-----------+
+|        45 | Celadon   |
+|        66 | Cianwood  |
+|        74 | Pewter    |
+|        95 | Cyllage   |
+|       461 | Icirrus   |
+|       615 | Snowbelle |
++-----------+-----------+
+6 rows in set (0.00 sec)
+
++--------------+-------------+------------+
+| attackName   | attackPower | attackType |
++--------------+-------------+------------+
+| Blizzard     |         110 | Ice        |
+| Bulk Up      |           0 | Fighting   |
+| Hidden Power |          60 | Normal     |
+| Psyshock     |          80 | Psychic    |
+| Thief        |          60 | Dark       |
+| Toxic        |           0 | Poison     |
++--------------+-------------+------------+
+6 rows in set (0.00 sec)
+
++-------------+----------+
+| trainerName | gymBadge |
++-------------+----------+
+| Brawly      | Knuckle  |
+| Brock       | Boulder  |
+| Brycen      | Freeze   |
++-------------+----------+
+3 rows in set (0.00 sec)
+
++-----------+---------------+------------------+--------------------------+-------------------+---------------+
+| pokemonID | evolutionName | levelOfEvolution | evolutionType            | previousEvolution | postEvolution |
++-----------+---------------+------------------+--------------------------+-------------------+---------------+
+|        45 | Vileplume     |             NULL | NULL                     | Gloom             | NULL          |
+|        66 | Machop        |               28 | Normal                   | Egg               | Machoke       |
+|        74 | Geodude       |               25 | Normal                   | Egg               | Graveler      |
+|        95 | Onix          |             NULL | Trade holding Metal Coat | Egg               | Steelix       |
+|       461 | Weavile       |             NULL | NULL                     | Sneasel           | NULL          |
+|       615 | Cryogonal     |             NULL | NULL                     | Egg               | NULL          |
++-----------+---------------+------------------+--------------------------+-------------------+---------------+
+6 rows in set (0.00 sec)
+
++---------+------------+---------+----------+
+| gymName | leaderName | gymType | gymBadge |
++---------+------------+---------+----------+
+| Dewford | Brawly     | Knuckle | Fighting |
+| Icirrus | Brycen     | Freeze  | Ice      |
+| Pewter  | Brock      | Boulder | Rock     |
++---------+------------+---------+----------+
+3 rows in set (0.00 sec)
+
++--------------+-------------+
+| attackName   | pokemonName |
++--------------+-------------+
+| Blizzard     | Cryogonal   |
+| Bulk Up      | Machop      |
+| Hidden Power | Geodude     |
+| Psyshock     | Onix        |
+| Thief        | Weavile     |
+| Toxic        | Vileplume   |
++--------------+-------------+
+6 rows in set (0.00 sec)
+
++-------------+-----------+
+| trainerName | pokemonID |
++-------------+-----------+
+| Bailey      |        45 |
+| Brawly      |        66 |
+| Brock       |        74 |
+| Brock       |        95 |
+| Brycen      |       615 |
+| Aldith      |       461 |
++-------------+-----------+
+6 rows in set (0.00 sec)
+
++-----------+--------------+
+| pokemonID | attackName   |
++-----------+--------------+
+|        45 | Aromatherapy |
+|        66 | Bulk Up      |
+|        74 | Bulldoze     |
+|        95 | Confusion    |
+|       461 | Scratch      |
+|       615 | Solar Beam   |
++-----------+--------------+
+6 rows in set (0.00 sec)
+
++-----------+-------------+--------+---------------+---------+-------------+
+| pokemonID | pokemonName | gender | category      | evolved | ability     |
++-----------+-------------+--------+---------------+---------+-------------+
+|        45 | Vileplume   | B      | Flower        |       1 | Chlorophyll |
+|        66 | Machop      | B      | Superpower    |       0 | Guts        |
+|        74 | Geodude     | B      | Rock          |       0 | Rock Head   |
+|        95 | Onix        | B      | Rock Snake    |       0 | Rock Head   |
+|       461 | Weavile     | B      | Sharp Claw    |       1 | Pressure    |
+|       615 | Cryogonal   | U      | Crystallizing |       0 | Levitate    |
++-----------+-------------+--------+---------------+---------+-------------+
+6 rows in set (0.00 sec)
+
++-----------+-------------+
+| pokemonID | pokemonType |
++-----------+-------------+
+|        45 | Grass       |
+|        45 | Poison      |
+|        66 | Fighting    |
+|        74 | Ground      |
+|        74 | Rock        |
+|        95 | Ground      |
+|        95 | Rock        |
+|       461 | Dark        |
+|       461 | Ice         |
+|       615 | Ice         |
++-----------+-------------+
+10 rows in set (0.00 sec)
+
++-----------+---------+--------+-------+------+---------------+----------------+
+| pokemonID | defense | attack | speed | hp   | specialAttack | specialDefense |
++-----------+---------+--------+-------+------+---------------+----------------+
+|        45 |       3 |      4 |     4 |    5 |             4 |              3 |
+|        66 |       3 |      4 |     2 |    2 |             2 |              2 |
+|        74 |       2 |      4 |     4 |    1 |             1 |              1 |
+|        95 |       2 |      2 |     7 |    1 |             2 |              4 |
+|       461 |       3 |      6 |     3 |    2 |             4 |              7 |
+|       615 |       3 |      3 |     2 |    5 |             6 |              6 |
++-----------+---------+--------+-------+------+---------------+----------------+
+6 rows in set (0.00 sec)
+
++-------------+---------------+
+| trainerName | trainerType   |
++-------------+---------------+
+| Aldith      | Team Plasma   |
+| Bailey      | Grass Trainer |
+| Brawly      | Gym Leader    |
+| Brock       | Gym Leader    |
+| Brycen      | Gym Leader    |
++-------------+---------------+
+5 rows in set (0.00 sec)
+
++-----------+----------+
+| pokemonID | weakness |
++-----------+----------+
+|        45 | Fire     |
+|        45 | Flying   |
+|        45 | Ice      |
+|        45 | Psychic  |
+|        66 | Fairy    |
+|        66 | Flying   |
+|        66 | Psychic  |
+|        74 | Fighting |
+|        74 | Grass    |
+|        74 | Ground   |
+|        74 | Ice      |
+|        74 | Steel    |
+|        74 | Water    |
+|        95 | Fighting |
+|        95 | Grass    |
+|        95 | Ground   |
+|        95 | Ice      |
+|        95 | Steel    |
+|        95 | Water    |
+|       461 | Bug      |
+|       461 | Fairy    |
+|       461 | Fighting |
+|       461 | Fire     |
+|       461 | Rock     |
+|       461 | Steel    |
+|       615 | FIghting |
+|       615 | Fire     |
+|       615 | Rock     |
+|       615 | Steel    |
++-----------+----------+
+29 rows in set (0.00 sec)
+
+mysql> exit;
