@@ -48,8 +48,6 @@ MySQL GUI (DBeaver)
 
 Mason strongly recommends to install DBeaver[2],  a free universal database manager. It allows you to view/edit data in DB easily and offer a straightforward view for DB content. After installation, if you experience any difficulty in configuration, let Mason know.
 
-
-
 Appendix:
 
 If you use OS X system, you can try the following command lines as well at first.
@@ -89,7 +87,9 @@ $ sudo gdebi dbeaver_3.4.2_amd64.deb
 
 
 GitHub
-	Notes:
+Notes:
+It is strongly recommended that using git and github with terminal and commamd lines. Compared to modify files on the github web, you can modify multiple files at the same times with the terminal and command lines.
+
 Do not use “” when copying prompts.
 This information is reference for interacting with git Repositories using the terminal either locally or through a given server like CSNet.
 How to connect to a specific repository on github, adding it’s directory to your system.
