@@ -82,6 +82,7 @@ CREATE TABLE IF NOT EXISTS Performs (
 
 CREATE TABLE IF NOT EXISTS Owns (
 	trainerName VARCHAR(20),
+	pokemonName VARCHAR(30),
 	pokemonID INT
 );
 
