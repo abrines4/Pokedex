@@ -66,7 +66,7 @@ INSERT INTO Weaknesses VALUES(461,'Rock');
 INSERT INTO Weaknesses VALUES(461,'Steel');
 INSERT INTO Weaknesses VALUES(461,'Fairy');
 INSERT INTO Weaknesses VALUES(615,'Fire');
-INSERT INTO Weaknesses VALUES(615,'FIghting');
+INSERT INTO Weaknesses VALUES(615,'Fighting');
 INSERT INTO Weaknesses VALUES(615,'Rock');
 INSERT INTO Weaknesses VALUES(615,'Steel');
 
