@@ -9,6 +9,9 @@
 	Yuan-Peng Yu
 */
 
+# in order to avoid data conflict, we drop all tables we may have at first and then create new tables.
+DROP TABLE Appears_In, Attack, Badges, Evolution, Gym, Learn, Owns, Performs, Pokemon, PokemonType, Statistics, Trainer, Weaknesses; 
+
 CREATE TABLE IF NOT EXISTS Trainer (
 	trainerName VARCHAR(30) PRIMARY KEY,
 	trainerType  VARCHAR(30)
