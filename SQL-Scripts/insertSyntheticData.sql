@@ -77,8 +77,8 @@ INSERT INTO Evolution VALUES(95,'Onix',NULL,'Trade holding Metal Coat','Egg','St
 INSERT INTO Evolution VALUES(461,'Weavile',NULL,NULL,'Sneasel',NULL);
 INSERT INTO Evolution VALUES(615,'Cryogonal',NULL,NULL,'Egg',NULL);
 
-INSERT INTO Attack VALUES('Toxic',' ' ,'Poison');
-INSERT INTO Attack VALUES('Bulk Up',' ' ,'Fighting');
+INSERT INTO Attack VALUES('Toxic',0,'Poison');
+INSERT INTO Attack VALUES('Bulk Up',0,'Fighting');
 INSERT INTO Attack VALUES('Hidden Power',60,'Normal');
 INSERT INTO Attack VALUES('Psyshock',80,'Psychic');
 INSERT INTO Attack VALUES('Thief',60,'Dark');
