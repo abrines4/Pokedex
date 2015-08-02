@@ -128,7 +128,7 @@ INSERT INTO Pokemon VALUES(123, 'Scyther', 'B', 'Mantis', FALSE, 'Technician ');
 INSERT INTO Pokemon VALUES(124, 'Jynx', 'F', 'Human Shape', TRUE, 'Forewarn');
 INSERT INTO Pokemon VALUES(125, 'Electrabuzz', 'B', 'Electric', TRUE, 'Static');
 INSERT INTO Pokemon VALUES(126, 'Magmar', 'B', 'Spitfire', TRUE, 'Flame Body');
-INSERT INTO Pokemon VALUES(127, 'Pinsir', ' B', 'Stag Beetle', FALSE, 'Nature Cure');
+INSERT INTO Pokemon VALUES(127, 'Pinsir', 'B', 'Stag Beetle', FALSE, 'Nature Cure');
 INSERT INTO Pokemon VALUES(128, 'Tauros', 'M', 'Wild Bull', FALSE, 'Anger Point');
 INSERT INTO Pokemon VALUES(129, 'Magikarp', 'B', 'Fish', FALSE, 'Swift Swim');
 INSERT INTO Pokemon VALUES(130, 'Gyarados', 'B', 'Atrocious', TRUE, 'Intimidate');
