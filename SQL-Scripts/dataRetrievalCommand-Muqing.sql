@@ -12,7 +12,16 @@ SELECT * FROM Learn;
 SELECT COUNT(*) AS Total
 FROM Learn;
 
+#Ana's queries
 SELECT Appears_In.pokemonID, Weaknesses.weakness 
 FROM Weaknesses, Appears_In 
 WHERE (Appears_In.gymName = 'Pewter' OR weakness = 'Ice') 
               AND Appears_In.pokemonID = Weaknesses.pokemonID;
+              
+SELECT pokemonID 
+FROM Owns
+WHERE trainerName = 'Bailey'
+UNION
+SELECT pokemonID 
+FROM Weaknesses
+WHERE weakness = 'Fairy';
