@@ -45,7 +45,6 @@ INSERT INTO Trainer VALUES('Stephanie', 'Basic');
 INSERT INTO Trainer VALUES('Stella', 'Circus Ringmaster');
 INSERT INTO Trainer VALUES('Millis Steel', 'Basic');
 INSERT INTO Trainer VALUES('Spring', 'Basic');
-INSERT INTO Trainer VALUES('Summer', 'Basic');
 INSERT INTO Trainer VALUES('Skyla', 'Gym Leader');
 INSERT INTO Trainer VALUES('Sabrina','Gym Leader');
 INSERT INTO Trainer VALUES('Nancy', 'Water Trainer');
