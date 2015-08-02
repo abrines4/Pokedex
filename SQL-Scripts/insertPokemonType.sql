@@ -323,7 +323,6 @@ INSERT INTO PokemonType VALUES(464, 'Rock');
 INSERT INTO PokemonType VALUES(465, 'Grass');
 INSERT INTO PokemonType VALUES(466, 'Electric');
 INSERT INTO PokemonType VALUES(467, 'Fire');
-INSERT INTO PokemonType VALUES(467, 'Fire');
 INSERT INTO PokemonType VALUES(501, 'Water');
 INSERT INTO PokemonType VALUES(502, 'Water');
 INSERT INTO PokemonType VALUES(503, 'Water');
