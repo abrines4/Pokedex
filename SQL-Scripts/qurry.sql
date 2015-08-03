@@ -25,11 +25,10 @@ SELECT DISTINCT pokemonName, hp
 FROM Pokemon  NATURAL JOIN Statistics CROSS JOIN Weaknesses
 WHERE ( hp<3 AND speed = 5 AND weakness= 'Ground');
 
-/* Find the name of the pokemon, that have the highest hp in each pokemon type.  */
+/* Find the ID of the pokemon, that have the highest hp in each pokemon type.  */
 SELECT pokemonID, MAX(hp), pokemonType
 FROM	Statistics NATURAL JOIN PokemonType
-GROUP BY pokemonType
-);
+GROUP BY pokemonType;
 
 # Masons’ Queries:
 
