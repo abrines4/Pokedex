@@ -14,6 +14,8 @@ DELETE from Statistics;
 DELETE from Trainer;
 DELETE from Weaknesses; 
 
+tee updatesLog.txt;
+
 LOAD DATA LOCAL INFILE './AppearsIn.csv' INTO TABLE Appears_In FIELDS TERMINATED BY ','  ENCLOSED BY '"'  LINES TERMINATED BY '\r\n';
 
 LOAD DATA LOCAL INFILE './Attacks.csv' INTO TABLE Attack FIELDS TERMINATED BY ','  ENCLOSED BY '"'  LINES TERMINATED BY '\r\n';
@@ -39,6 +41,10 @@ LOAD DATA LOCAL INFILE './Statistics.csv' INTO TABLE Statistics FIELDS TERMINATE
 LOAD DATA LOCAL INFILE './Trainer.csv' INTO TABLE Trainer FIELDS TERMINATED BY ','  ENCLOSED BY '"'  LINES TERMINATED BY '\r\n';
 
 LOAD DATA LOCAL INFILE './Weakness.csv' INTO TABLE Weaknesses FIELDS TERMINATED BY ','  ENCLOSED BY '"'  LINES TERMINATED BY '\r\n';
+
+source ../SQL-Scripts/updates.sql;
+
+
 
 
 

@@ -3,8 +3,8 @@
 # landon*
 # Change all of the trainers whose type is ‘Basic’ to ‘Pokemon Trainer’
 UPDATE Trainer
-SET trainerType = ‘Pokemon Trainer’ 
-WHERE trainerType = ‘Basic’;
+SET trainerType = 'Pokemon Trainer' 
+WHERE trainerType = 'Basic';
 
 
 # update pokemonType = ‘Fairy’ to ‘Blood’
@@ -12,10 +12,7 @@ UPDATE PokemonType
 SET pokemonType = 'Blood'
 WHERE pokemonType = 'Fairy' ;
 
-# Delete:
-
-attackPower IN (select max(attackpower) attackPower from attack);
-
+#Delete 
 #landon
 # Delete all the weak links. Any pokemon that has a 1 for a stats goes.
 DELETE FROM Pokemon WHERE pokemonID IN (SELECT pokemonID FROM Statistics WHERE defense=1 OR attack=1 OR speed=1 OR hp=1);
@@ -25,7 +22,7 @@ DELETE FROM Appears_In WHERE pokemonID IN (SELECT pokemonID FROM Statistics WHER
 DELETE FROM PokemonType WHERE pokemonID IN (SELECT pokemonID FROM Statistics WHERE defense=1 OR attack=1 OR speed=1 OR hp=1);
 DELETE FROM Weaknesses WHERE pokemonID IN (SELECT pokemonID FROM Statistics WHERE defense=1 OR attack=1 OR speed=1 OR hp=1);
 DELETE FROM Evolution WHERE pokemonID IN (SELECT pokemonID FROM Statistics WHERE defense=1 OR attack=1 OR speed=1 OR hp=1);
-DELETE FROM Statistics WHERE pokemonID IN (SELECT pokemonID FROM Statistics WHERE defense=1 OR attack=1 OR speed=1 OR hp=1);
+DELETE FROM Statistics WHERE defense=1 OR attack=1 OR speed=1 OR hp=1;
 
 # Mason
 # delete attack tuples which attack type = poison and power larger than 10

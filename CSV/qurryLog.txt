@@ -1,0 +1,804 @@
+Query OK, 45 rows affected (0.01 sec)
+Records: 45  Deleted: 0  Skipped: 0  Warnings: 0
+
+Query OK, 623 rows affected, 1642 warnings (0.01 sec)
+Records: 1000  Deleted: 0  Skipped: 377  Warnings: 1642
+
+Query OK, 68 rows affected (0.01 sec)
+Records: 68  Deleted: 0  Skipped: 0  Warnings: 0
+
+Query OK, 258 rows affected, 144 warnings (0.00 sec)
+Records: 275  Deleted: 0  Skipped: 17  Warnings: 144
+
+Query OK, 55 rows affected (0.06 sec)
+Records: 58  Deleted: 0  Skipped: 3  Warnings: 0
+
+Query OK, 5452 rows affected (0.08 sec)
+Records: 5511  Deleted: 0  Skipped: 59  Warnings: 0
+
+Query OK, 242 rows affected, 1 warning (0.00 sec)
+Records: 242  Deleted: 0  Skipped: 0  Warnings: 1
+
+Query OK, 2589 rows affected, 7 warnings (0.06 sec)
+Records: 2589  Deleted: 0  Skipped: 0  Warnings: 7
+
+Query OK, 247 rows affected, 250 warnings (0.00 sec)
+Records: 248  Deleted: 0  Skipped: 1  Warnings: 250
+
+Query OK, 350 rows affected, 1 warning (0.01 sec)
+Records: 351  Deleted: 0  Skipped: 1  Warnings: 1
+
+Query OK, 245 rows affected, 6292 warnings (0.06 sec)
+Records: 1000  Deleted: 0  Skipped: 755  Warnings: 6292
+
+Query OK, 144 rows affected (0.01 sec)
+Records: 145  Deleted: 0  Skipped: 1  Warnings: 0
+
+Query OK, 748 rows affected, 1454 warnings (0.05 sec)
+Records: 1100  Deleted: 0  Skipped: 352  Warnings: 1454
+
++---------------+
+| attackName    |
++---------------+
+| Ally Switch   |
+| Barrier       |
+| Baton Pass    |
+| Bug Buzz      |
+| Calm Mind     |
+| Confusion     |
+| Copycat       |
+| Disable       |
+| Double Slap   |
+| Encore        |
+| Foresight     |
+| Future Sight  |
+| Guard Swap    |
+| Gust          |
+| Kinesis       |
+| Leech Life    |
+| Light Screen  |
+| Magical Leaf  |
+| Meditate      |
+| Mimic         |
+| Miracle Eye   |
+| Misty Terrain |
+| Poison Fang   |
+| Poison Powder |
+| Power Swap    |
+| Psybeam       |
+| Psychic       |
+| Psycho Cut    |
+| Psywave       |
+| Quick Guard   |
+| Quiver Dance  |
+| Recover       |
+| Recycle       |
+| Reflect       |
+| Role Play     |
+| Safeguard     |
+| Signal Beam   |
+| Silver Wind   |
+| Sleep Powder  |
+| Stun Spore    |
+| Substitute    |
+| Supersonic    |
+| Tackle        |
+| Telekinesis   |
+| Teleport      |
+| Trick         |
+| Wide Guard    |
+| Zen Headbutt  |
++---------------+
+48 rows in set (1.35 sec)
+
++-------------+
+| pokemonName |
++-------------+
+| Pikachu     |
+| Plusle      |
+| Raichu      |
+| Scyther     |
+| Starmie     |
+| Vaporeon    |
+| Vivillon    |
+| Voltorb     |
++-------------+
+8 rows in set (0.04 sec)
+
++-------------+------+
+| pokemonName | hp   |
++-------------+------+
+| Sandslash   |    2 |
+| Graveler    |    2 |
+| Kingler     |    2 |
+| Marowak     |    2 |
+| Rhydon      |    2 |
++-------------+------+
+5 rows in set (0.01 sec)
+
++-----------+---------+-------------+
+| pokemonID | MAX(hp) | pokemonType |
++-----------+---------+-------------+
+|         0 |       0 |             |
+|       327 |       3 | 'Fire')     |
+|        10 |       5 | Bug         |
+|       215 |       5 | Dark        |
+|       147 |       5 | Dragon      |
+|        25 |       6 | Electric    |
+|        35 |       5 | Fairy       |
+|        56 |       6 | Fighting    |
+|         4 |       6 | Fire        |
+|         6 |       6 | Flying      |
+|        92 |       6 | Ghost       |
+|         1 |       6 | Grass       |
+|        27 |       4 | Ground      |
+|       208 |       3 | Grounds     |
+|        87 |       6 | Ice         |
+|        16 |       5 | Normal      |
+|         1 |       6 | Poison      |
+|        63 |       8 | Psychic     |
+|        74 |       6 | Rock        |
+|        81 |       6 | Steel       |
+|         7 |       6 | Water       |
++-----------+---------+-------------+
+21 rows in set (0.00 sec)
+
++---------------+-----------+
+| attackName    | pokemonID |
++---------------+-----------+
+| Bulldoze      |        75 |
+| Defense Curl  |        75 |
+| Double-Edge   |        75 |
+| Earthquake    |        75 |
+| Explosion     |        75 |
+| Magnitude     |        75 |
+| Mud Sport     |        75 |
+| Mud Sport     |        75 |
+| Rock Blast    |        75 |
+| Rock Polish   |        75 |
+| Rock Polish   |        75 |
+| Rock Throw    |        75 |
+| Rollout       |        75 |
+| Self-Destruct |        75 |
+| Smack Down    |        75 |
+| Stealth Rock  |        75 |
+| Stone Edge    |        75 |
+| Tackle        |        75 |
++---------------+-----------+
+18 rows in set (0.01 sec)
+
++---------------------+
+| Total_attack_number |
++---------------------+
+|                  18 |
++---------------------+
+1 row in set (0.00 sec)
+
++-----------+-------------+---------------+---------+--------+------+---------------+----------------+-------------+
+| pokemonID | pokemonName | ability       | defense | attack | hp   | specialAttack | specialDefense | pokemonType |
++-----------+-------------+---------------+---------+--------+------+---------------+----------------+-------------+
+|         0 |             |               |       0 |      0 |    0 |             0 |              0 |             |
+|         1 | Bulbasaur   | Overgrow      |       2 |      3 |    3 |             3 |              3 | Grass       |
+|         1 | Bulbasaur   | Overgrow      |       2 |      3 |    3 |             3 |              3 | Poison      |
+|         2 | Ivysaur     | Overgrow      |       3 |      3 |    4 |             3 |              3 | Grass       |
+|         2 | Ivysaur     | Overgrow      |       3 |      3 |    4 |             3 |              3 | Poison      |
+|         3 | Venusaur    | Overgrow      |       3 |      4 |    5 |             4 |              4 | Grass       |
+|         3 | Venusaur    | Overgrow      |       3 |      4 |    5 |             4 |              4 | Poison      |
+|         4 | Charmander  | Blaze         |       2 |      3 |    3 |             2 |              4 | Fire        |
+|         5 | Charmeleon  | Blaze         |       3 |      3 |    4 |             3 |              4 | Fire        |
+|         6 | Charizard   | Blaze         |       3 |      4 |    5 |             4 |              5 | Fire        |
+|         6 | Charizard   | Blaze         |       3 |      4 |    5 |             4 |              5 | Flying      |
+|         7 | Squirtle    | Torrent       |       2 |      3 |    2 |             3 |              2 | Water       |
+|         8 | Wartortle   | Torrent       |       3 |      3 |    3 |             3 |              3 | Water       |
+|         9 | Blastoise   | Torrent       |       3 |      4 |    4 |             4 |              4 | Water       |
+|        10 | Caterpie    | Shield Dust   |       2 |      2 |    1 |             1 |              3 | Bug         |
+|        11 | Metapod     | Shed Skin     |       2 |      1 |    1 |             1 |              2 | Bug         |
+|        12 | Butterfree  | Compound Eyes |       3 |      2 |    4 |             3 |              4 | Bug         |
+|        12 | Butterfree  | Compound Eyes |       3 |      2 |    4 |             3 |              4 | Flying      |
+|        13 | Weedle      | Shield Dust   |       2 |      2 |    1 |             1 |              3 | Bug         |
+|        13 | Weedle      | Shield Dust   |       2 |      2 |    1 |             1 |              3 | Poison      |
+|        14 | Kakuna      | Shed Skin     |       2 |      1 |    1 |             1 |              2 | Bug         |
+|        14 | Kakuna      | Shed Skin     |       2 |      1 |    1 |             1 |              2 | Poison      |
+|        15 | Beedrill    | Swarm         |       3 |      5 |    2 |             3 |              4 | Bug         |
+|        15 | Beedrill    | Swarm         |       3 |      5 |    2 |             3 |              4 | Poison      |
+|        16 | Pidgey      | Keen Eye      |       2 |      2 |    2 |             2 |              3 | Flying      |
+|        16 | Pidgey      | Keen Eye      |       2 |      2 |    2 |             2 |              3 | Normal      |
+|        17 | Pidgeotto   | Keen Eye      |       3 |      3 |    2 |             2 |              4 | Flying      |
+|        17 | Pidgeotto   | Keen Eye      |       3 |      3 |    2 |             2 |              4 | Normal      |
+|        18 | Pidgeot     | Keen          |       3 |      4 |    3 |             3 |              5 | Flying      |
+|        18 | Pidgeot     | Keen          |       3 |      4 |    3 |             3 |              5 | Normal      |
+|        19 | Rattata     | Run Away      |       2 |      3 |    1 |             2 |              4 | Normal      |
+|        20 | Raticate    | Run Away      |       2 |      4 |    2 |             3 |              5 | Normal      |
+|        21 | Spearow     | Keen Eye      |       2 |      3 |    2 |             1 |              4 | Flying      |
+|        21 | Spearow     | Keen Eye      |       2 |      3 |    2 |             1 |              4 | Normal      |
+|        22 | Fearow      | Keen Eye      |       3 |      5 |    3 |             3 |              5 | Flying      |
+|        22 | Fearow      | Keen Eye      |       3 |      5 |    3 |             3 |              5 | Normal      |
+|        23 | Ekans       | Shed Skin     |       2 |      3 |    2 |             2 |              3 | Poison      |
+|        24 | Arbok       | Intimidate    |       3 |      4 |    3 |             3 |              4 | Poison      |
+|        25 | Pikachu     | Static        |       2 |      3 |    2 |             2 |              5 | Electric    |
+|        26 | Raichu      | Static        |       3 |      5 |    4 |             3 |              6 | Electric    |
+|        27 | Sandshrew   | Sand Veil     |       2 |      4 |    1 |             1 |              2 | Ground      |
+|        28 | Sandslash   | Sand Veil     |       3 |      5 |    2 |             2 |              4 | Ground      |
+|        29 | Nidoran     | Poison Point  |       2 |      3 |    2 |             2 |              2 | Poison      |
+|        30 | Nidorina    | Poison Point  |       3 |      3 |    3 |             2 |              3 | Poison      |
+|        31 | Nidoqueen   | Rivalry       |       4 |      5 |    4 |             4 |              4 | Ground      |
+|        31 | Nidoqueen   | Rivalry       |       4 |      5 |    4 |             4 |              4 | Poison      |
+|        32 | Nidoran     | Poison Point  |       2 |      3 |    2 |             2 |              3 | Poison      |
+|        33 | Nidorano    | Poison Point  |       3 |      4 |    3 |             2 |              4 | Poison      |
+|        34 | Nidoking    | Rivalry       |       3 |      5 |    4 |             3 |              5 | Ground      |
+|        34 | Nidoking    | Rivalry       |       3 |      5 |    4 |             3 |              5 | Poison      |
+|        35 | Clefairy    | Cute Charm    |       3 |      2 |    3 |             3 |              2 | Fairy       |
+|        36 | Clefable    | Magic Guard   |       3 |      4 |    3 |             4 |              4 | Fairy       |
+|        37 | Vulpix      | Flash Fire    |       2 |      2 |    2 |             3 |              4 | Fire        |
+|        38 | Ninetails   | Flash Fire    |       3 |      4 |    4 |             4 |              5 | Fire        |
+|        39 | Jigglypuff  | Competitive   |       5 |      2 |    2 |             1 |              1 | Fairy       |
+|        39 | Jigglypuff  | Competitive   |       5 |      2 |    2 |             1 |              1 | Normal      |
+|        40 | Wigglytuff  | Competitive   |       5 |      4 |    4 |             2 |              3 | Fairy       |
+|        40 | Wigglytuff  | Competitive   |       5 |      4 |    4 |             2 |              3 | Normal      |
+|        41 | Zubat       | Inner Focus   |       2 |      2 |    1 |             2 |              3 | Flying      |
+|        41 | Zubat       | Inner Focus   |       2 |      2 |    1 |             2 |              3 | Poison      |
+|        42 | Golbat      | Inner Focus   |       3 |      4 |    3 |             3 |              5 | Flying      |
+|        42 | Golbat      | Inner Focus   |       3 |      4 |    3 |             3 |              5 | Poison      |
+|        43 | Oddish      | Chlorophyll   |       2 |      3 |    4 |             3 |              2 | Grass       |
+|        43 | Oddish      | Chlorophyll   |       2 |      3 |    4 |             3 |              2 | Poison      |
+|        44 | Gloom       | Chlorophyll   |       3 |      3 |    4 |             3 |              2 | Grass       |
+|        44 | Gloom       | Chlorophyll   |       3 |      3 |    4 |             3 |              2 | Poison      |
+|        45 | Vileplume   | Chlorophyll   |       3 |      4 |    5 |             4 |              3 | Grass       |
+|        45 | Vileplume   | Chlorophyll   |       3 |      4 |    5 |             4 |              3 | Poison      |
+|        46 | Paras       | Effect Spore  |       2 |      4 |    2 |             2 |              2 | Bug         |
+|        46 | Paras       | Effect Spore  |       2 |      4 |    2 |             2 |              2 | Grass       |
+|        47 | Parasect    | Dry Skin      |       3 |      5 |    3 |             3 |              2 | Bug         |
+|        47 | Parasect    | Dry Skin      |       3 |      5 |    3 |             3 |              2 | Grass       |
+|        48 | Venonat     | Effect Spore  |       3 |      3 |    2 |             2 |              3 | Bug         |
+|        48 | Venonat     | Effect Spore  |       3 |      3 |    2 |             2 |              3 | Poison      |
+|        49 | Venomoth    | Sheld Dust    |       3 |      3 |    4 |             3 |              5 | Bug         |
+|        49 | Venomoth    | Sheld Dust    |       3 |      3 |    4 |             3 |              5 | Poison      |
+|        50 | Diglett     | Sand Veil     |       1 |      3 |    2 |             2 |              5 | Ground      |
+|        51 | Dugtrio     | Arena Trap    |       2 |      4 |    2 |             3 |              6 | Ground      |
+|        52 | Meowth      | Pick Up       |       2 |      2 |    2 |             2 |              5 | Normal      |
+|        53 | Persian     | Limber        |       3 |      4 |    3 |             3 |              6 | Normal      |
+|        54 | Psyduck     | Damp          |       2 |      3 |    3 |             2 |              3 | Water       |
+|        55 | Golduck     | Cloud Nine    |       3 |      4 |    5 |             3 |              5 | Water       |
+|        56 | Mankey      | Vital Spirit  |       2 |      4 |    2 |             2 |              4 | Fighting    |
+|        57 | Primeape    | Anger Point   |       3 |      5 |    3 |             3 |              5 | Fighting    |
+|        58 | Growlithe   | Intimidate    |       2 |      4 |    3 |             2 |              3 | Fire        |
+|        59 | Arcanine    | Flash Fire    |       4 |      6 |    5 |             3 |              5 | Fire        |
+|        60 | Poliwag     | Damp          |       2 |      3 |    2 |             2 |              5 | Water       |
+|        61 | Poliwhirl   | Damp          |       3 |      3 |    2 |             2 |              5 | Water       |
+|        62 | Poliwrath   | Water Absorb  |       4 |      5 |    3 |             4 |              4 | Fighting    |
+|        62 | Poliwrath   | Water Absorb  |       4 |      5 |    3 |             4 |              4 | Water       |
+|        63 | Abra        | Inner Focus   |       1 |      1 |    5 |             2 |              5 | Psychic     |
+|        64 | Kadabra     | Inner Focus   |       2 |      2 |    6 |             3 |              6 | Psychic     |
+|        65 | Alakazam    | Synchronize   |       2 |      3 |    7 |             4 |              6 | Psychic     |
+|        66 | Machop      | Guts          |       3 |      4 |    2 |             2 |              2 | Fighting    |
+|        67 | Machoke     | No Guard      |       3 |      5 |    2 |             3 |              3 | Fighting    |
+|        68 | Machamp     | No Guard      |       4 |      7 |    3 |             4 |              3 | Fighting    |
+|        69 | Bellsprout  | Chlorophyll   |       2 |      4 |    3 |             1 |              2 | Grass       |
+|        69 | Bellsprout  | Chlorophyll   |       2 |      4 |    3 |             1 |              2 | Poison      |
+|        70 | Weepinbell  | Chlorophyll   |       3 |      5 |    4 |             2 |              3 | Grass       |
+|        70 | Weepinbell  | Chlorophyll   |       3 |      5 |    4 |             2 |              3 | Poison      |
+|        71 | Victreebel  | Chlorophyll   |       3 |      5 |    5 |             3 |              4 | Grass       |
+|        71 | Victreebel  | Chlorophyll   |       3 |      5 |    5 |             3 |              4 | Poison      |
+|        72 | Tentacool   | Clear Body    |       2 |      2 |    2 |             4 |              4 | Poison      |
+|        72 | Tentacool   | Clear Body    |       2 |      2 |    2 |             4 |              4 | Water       |
+|        73 | Tentacruel  | Liquid Ooze   |       3 |      4 |    4 |             5 |              5 | Poison      |
+|        73 | Tentacruel  | Liquid Ooze   |       3 |      4 |    4 |             5 |              5 | Water       |
+|        74 | Geodude     | Rock Head     |       2 |      4 |    1 |             1 |              1 | Ground      |
+|        74 | Geodude     | Rock Head     |       2 |      4 |    1 |             1 |              1 | Rock        |
+|        75 | Graveler    | Rock Head     |       2 |      5 |    2 |             2 |              2 | Ground      |
+|        75 | Graveler    | Rock Head     |       2 |      5 |    2 |             2 |              2 | Rock        |
+|        76 | Golem       | Sturdy        |       3 |      6 |    3 |             3 |              3 | Ground      |
+|        76 | Golem       | Sturdy        |       3 |      6 |    3 |             3 |              3 | Rock        |
+|        77 | Ponyta      | Run Away      |       2 |      4 |    3 |             3 |              5 | Fire        |
+|        78 | Rapidash    | Flash Fire    |       3 |      5 |    4 |             3 |              6 | Fire        |
+|        79 | Slowpoke    | Oblivious     |       4 |      3 |    2 |             2 |              1 | Psychic     |
+|        79 | Slowpoke    | Oblivious     |       4 |      3 |    2 |             2 |              1 | Water       |
+|        80 | Slowbro     | Own Tempo     |       4 |      4 |    5 |             3 |              2 | Psychic     |
+|        80 | Slowbro     | Own Tempo     |       4 |      4 |    5 |             3 |              2 | Water       |
+|        81 | Magnemite   | Sturdy        |       1 |      2 |    5 |             2 |              3 | Electric    |
+|        81 | Magnemite   | Sturdy        |       1 |      2 |    5 |             2 |              3 | Steel       |
+|        82 | Magneton    | Magnet Pull   |       2 |      3 |    6 |             3 |              4 | Electric    |
+|        82 | Magneton    | Magnet Pull   |       2 |      3 |    6 |             3 |              4 | Steel       |
+|        83 | Farfetchd   | Inner Focus   |       2 |      3 |    3 |             3 |              3 | Flying      |
+|        83 | Farfetchd   | Inner Focus   |       2 |      3 |    3 |             3 |              3 | Normal      |
+|        84 | Doduo       | Run Away      |       2 |      4 |    2 |             2 |              4 | Flying      |
+|        84 | Doduo       | Run Away      |       2 |      4 |    2 |             2 |              4 | Normal      |
+|        85 | Dodrio      | Early Bird    |       3 |      6 |    3 |             3 |              5 | Flying      |
+|        85 | Dodrio      | Early Bird    |       3 |      6 |    3 |             3 |              5 | Normal      |
+|        86 | Seel        | Thick Fat     |       3 |      2 |    2 |             3 |              3 | Water       |
+|        87 | Dewgong     | Hydration     |       4 |      4 |    3 |             4 |              4 | Ice         |
+|        87 | Dewgong     | Hydration     |       4 |      4 |    3 |             4 |              4 | Water       |
+|        88 | Grimer      | Stench        |       3 |      4 |    2 |             2 |              2 | Poison      |
+|        89 | Muk         | Sticky Hold   |       4 |      5 |    3 |             4 |              3 | Poison      |
+|        90 | Shellder    | Shell Armor   |       2 |      3 |    2 |             1 |              2 | Water       |
+|        91 | Cloyster    | Skill Link    |       2 |      5 |    4 |             2 |              4 | Ice         |
+|        91 | Cloyster    | Skill Link    |       2 |      5 |    4 |             2 |              4 | Water       |
+|        92 | Gastly      | Levitate      |       2 |      2 |    5 |             2 |              4 | Ghost       |
+|        92 | Gastly      | Levitate      |       2 |      2 |    5 |             2 |              4 | Poison      |
+|        93 | Haunter     | Levitate      |       2 |      3 |    6 |             2 |              5 | Ghost       |
+|        93 | Haunter     | Levitate      |       2 |      3 |    6 |             2 |              5 | Poison      |
+|        94 | Gengar      | Levitate      |       3 |      3 |    6 |             3 |              6 | Ghost       |
+|        94 | Gengar      | Levitate      |       3 |      3 |    6 |             3 |              6 | Poison      |
+|        95 | Onix        | Rock Head     |       2 |      2 |    1 |             2 |              4 | Ground      |
+|        95 | Onix        | Rock Head     |       2 |      2 |    1 |             2 |              4 | Rock        |
+|        96 | Drowzee     | Insomnia      |       3 |      3 |    2 |             4 |              2 | Psychic     |
+|        97 | Hypno       | Forewarn      |       3 |      4 |    4 |             5 |              4 | Psychic     |
+|        98 | Krabby      | Shell Armor   |       2 |      5 |    1 |             1 |              3 | Water       |
+|        99 | Kingler     | Hyper Cutter  |       2 |      7 |    2 |             2 |              4 | Water       |
+|       100 | Voltorb     | Static        |       2 |      2 |    3 |             2 |              5 | Electric    |
+|       101 | Electrode   | Soundproof    |       3 |      3 |    4 |             3 |              7 | Electric    |
+|       102 | Exeggcute   | Chlorophyll   |       3 |      2 |    3 |             2 |              2 | Grass       |
+|       102 | Exeggcute   | Chlorophyll   |       3 |      2 |    3 |             2 |              2 | Psychic     |
+|       103 | Exeggutor   | Chlorophyll   |       4 |      5 |    6 |             3 |              3 | Grass       |
+|       103 | Exeggutor   | Chlorophyll   |       4 |      5 |    6 |             3 |              3 | Psychic     |
+|       104 | Cubone      | Rock Head     |       2 |      3 |    2 |             2 |              2 | Ground      |
+|       105 | Marowak     | Lightning Rod |       3 |      4 |    2 |             3 |              3 | Ground      |
+|       106 | Hitmonlee   | Reckless      |       2 |      6 |    2 |             5 |              5 | Fighting    |
+|       107 | Hitmonchan  | Iron Fist     |       2 |      5 |    2 |             5 |              4 | Fighting    |
+|       108 | Lickitung   | Own Tempo     |       4 |      3 |    3 |             3 |              2 | Normal      |
+|       109 | Koffing     | Levitate      |       2 |      3 |    3 |             2 |              2 | Poison      |
+|       110 | Weezing     | Levitate      |       3 |      5 |    4 |             3 |              3 | Poison      |
+|       111 | Rhyhorn     | Rock Head     |       3 |      4 |    1 |             1 |              2 | Ground      |
+|       111 | Rhyhorn     | Rock Head     |       3 |      4 |    1 |             1 |              2 | Rock        |
+|       112 | Rhydon      | Lightning Rod |       4 |      7 |    2 |             2 |              2 | Ground      |
+|       112 | Rhydon      | Lightning Rod |       4 |      7 |    2 |             2 |              2 | Rock        |
+|       113 | Chansey     | Serence Grace |       9 |      1 |    2 |             4 |              3 | Normal      |
+|       114 | Tangela     | Leaf Guard    |       3 |      3 |    5 |             2 |              3 | Grass       |
+|       115 | Kangaskhan  | Scrappy       |       4 |      5 |    2 |             3 |              5 | Normal      |
+|       116 | Horsea      | Sniper        |       2 |      2 |    3 |             1 |              3 | Water       |
+|       117 | Seadra      | Poison Point  |       2 |      3 |    5 |             2 |              5 | Water       |
+|       118 | Goldeen     | Water Veil    |       2 |      4 |    2 |             2 |              3 | Water       |
+|       119 | Seaking     | Swift Swim    |       3 |      5 |    3 |             3 |              4 | Water       |
+|       120 | Staryu      | Nature Cure   |       2 |      2 |    3 |             2 |              5 | Water       |
+|       121 | Starmie     | Illuminate    |       3 |      4 |    5 |             4 |              6 | Water       |
+|       122 | Mr.Mime     | Filter        |       2 |      2 |    5 |             5 |              5 | Fairy       |
+|       122 | Mr.Mime     | Filter        |       2 |      2 |    5 |             5 |              5 | Psychic     |
+|       123 | Scyther     | Technician    |       3 |      6 |    3 |             3 |              6 | Bug         |
+|       123 | Scyther     | Technician    |       3 |      6 |    3 |             3 |              6 | Flying      |
+|       124 | Jynx        | Forewarn      |       3 |      3 |    6 |             4 |              5 | Ice         |
+|       124 | Jynx        | Forewarn      |       3 |      3 |    6 |             4 |              5 | Psychic     |
+|       125 | Electrabuzz | Static        |       3 |      4 |    5 |             4 |              6 | Electric    |
+|       126 | Magmar      | Flame Body    |       3 |      5 |    5 |             4 |              5 | Fire        |
+|       127 | Pinsir      | Nature Cure   |       3 |      6 |    3 |             3 |              5 | Bug         |
+|       128 | Tauros      | Anger Point   |       3 |      5 |    2 |             3 |              6 | Normal      |
+|       129 | Magikarp    | Swift Swim    |       1 |      1 |    1 |             1 |              4 | Water       |
+|       130 | Gyarados    | Intimidate    |       4 |      6 |    3 |             4 |              4 | Flying      |
+|       130 | Gyarados    | Intimidate    |       4 |      6 |    3 |             4 |              4 | Water       |
+|       131 | Lapras      | Shell Armor   |       5 |      4 |    4 |             4 |              3 | Ice         |
+|       131 | Lapras      | Shell Armor   |       5 |      4 |    4 |             4 |              3 | Water       |
+|       132 | Ditto       | Limber        |       2 |      3 |    2 |             2 |              3 | Normal      |
+|       133 | Eevee       | Adaptability  |       2 |      3 |    2 |             3 |              3 | Normal      |
+|       134 | Vaporeon    | Water Absorb  |       5 |      3 |    5 |             4 |              4 | Water       |
+|       137 | Porygon     | Download      |       3 |      3 |    4 |             3 |              2 | Normal      |
+|       138 | Omanyte     | Shell Armor   |       2 |      2 |    4 |             2 |              2 | Rock        |
+|       138 | Omanyte     | Shell Armor   |       2 |      2 |    4 |             2 |              2 | Water       |
+|       139 | Omastar     | Swift Armor   |       3 |      3 |    6 |             3 |              3 | Rock        |
+|       139 | Omastar     | Swift Armor   |       3 |      3 |    6 |             3 |              3 | Water       |
+|       140 | Kabuto      | Swift Swim    |       2 |      4 |    3 |             2 |              3 | Rock        |
+|       140 | Kabuto      | Swift Swim    |       2 |      4 |    3 |             2 |              3 | Water       |
+|       141 | Kabutops    | Battle Armor  |       3 |      6 |    3 |             3 |              4 | Rock        |
+|       141 | Kabutops    | Battle Armor  |       3 |      6 |    3 |             3 |              4 | Water       |
+|       142 | Aerodactyl  | Pressure      |       3 |      5 |    3 |             3 |              7 | Flying      |
+|       142 | Aerodactyl  | Pressure      |       3 |      5 |    3 |             3 |              7 | Rock        |
+|       143 | Snorlax     | Thick Fat     |       6 |      6 |    3 |             5 |              2 | Normal      |
+|       144 | Articuno    | Pressure      |       4 |      4 |    5 |             5 |              5 | Flying      |
+|       144 | Articuno    | Pressure      |       4 |      4 |    5 |             5 |              5 | Ice         |
+|       145 | Zapdos      | Pressure      |       4 |      5 |    6 |             4 |              5 | Electric    |
+|       145 | Zapdos      | Pressure      |       4 |      5 |    6 |             4 |              5 | Flying      |
+|       146 | Moltres     | Pressure      |       4 |      5 |    6 |             4 |              5 | Fire        |
+|       146 | Moltres     | Pressure      |       4 |      5 |    6 |             4 |              5 | Flying      |
+|       147 | Dratini     | Shed Skin     |       2 |      3 |    2 |             2 |              3 | Dragon      |
+|       148 | Dragonair   | Shed Skin     |       3 |      4 |    3 |             3 |              4 | Dragon      |
+|       149 | Dragonite   | Inner Focus   |       4 |      7 |    5 |             4 |              4 | Dragon      |
+|       149 | Dragonite   | Inner Focus   |       4 |      7 |    5 |             4 |              4 | Flying      |
+|       150 | Mewtwo      | Pressure      |       4 |      6 |    8 |             4 |              7 | Psychic     |
+|       151 | Mew         | Synchronize   |       4 |      5 |    5 |             4 |              5 | Psychic     |
+|       165 | Ledyba      | Swarm         |       2 |      1 |    2 |             3 |              3 | Bug         |
+|       165 | Ledyba      | Swarm         |       2 |      1 |    2 |             3 |              3 | Flying      |
+|       166 | Ledian      | Swarm         |       2 |      2 |    3 |             5 |              5 | Bug         |
+|       166 | Ledian      | Swarm         |       2 |      2 |    3 |             5 |              5 | Flying      |
+|       169 | Crobat      | Infiltrator   |       3 |      5 |    3 |             3 |              7 | Flying      |
+|       169 | Crobat      | Infiltrator   |       3 |      5 |    3 |             3 |              7 | Poison      |
+|       172 | Pichu       | Static        |       1 |      2 |    2 |             2 |              3 | Electric    |
+|       173 | Cleffa      | Friend Guard  |       2 |      1 |    2 |             2 |              1 | Fairy       |
+|       174 | Igglypuff   | Friend Guard  |       4 |      2 |    2 |             1 |              1 | Fairy       |
+|       174 | Igglypuff   | Friend Guard  |       4 |      2 |    2 |             1 |              1 | Normal      |
+|       191 | Sunkern     | Solar Power   |       2 |      2 |    1 |             1 |              2 | Grass       |
+|       192 | Sunflora    | Solar Power   |       3 |      4 |    5 |             4 |              2 | Grass       |
+|       202 | Wobbuffet   | Shadow tag    |       7 |      2 |    2 |             2 |              2 | Psychic     |
+|       203 | Girafarig   | Inner Focus   |       3 |      4 |    4 |             3 |              5 | Normal      |
+|       203 | Girafarig   | Inner Focus   |       3 |      4 |    4 |             3 |              5 | Psychic     |
+|       208 | Steelix     | Sturdy        |       3 |      4 |    3 |             3 |              2 | Grounds     |
+|       208 | Steelix     | Sturdy        |       3 |      4 |    3 |             3 |              2 | Steel       |
+|       212 | Scizor      | Swarm         |       3 |      7 |    3 |             3 |              4 | Bug         |
+|       212 | Scizor      | Swarm         |       3 |      7 |    3 |             3 |              4 | Steel       |
+|       214 | Heracross   | Guts          |       3 |      6 |    2 |             4 |              5 | Bug         |
+|       214 | Heracross   | Guts          |       3 |      6 |    2 |             4 |              5 | Fighting    |
+|       215 | Sneasel     | Keen Eye      |       2 |      5 |    2 |             3 |              6 | Dark        |
+|       215 | Sneasel     | Keen Eye      |       2 |      5 |    2 |             3 |              6 | Ice         |
+|       227 | Skarmory    | Sturdy        |       3 |      4 |    2 |             3 |              4 | Flying      |
+|       227 | Skarmory    | Sturdy        |       3 |      4 |    2 |             3 |              4 | Steel       |
+|       228 | Houndour    | Flash Fire    |       2 |      3 |    4 |             2 |              4 | Dark        |
+|       228 | Houndour    | Flash Fire    |       2 |      3 |    4 |             2 |              4 | Fire        |
+|       229 | Houndoom    | Flash Fire    |       3 |      5 |    5 |             3 |              5 | Dark        |
+|       229 | Houndoom    | Flash Fire    |       3 |      5 |    5 |             3 |              5 | Fire        |
+|       230 | Kingdra     | Swift Swin    |       3 |      5 |    5 |             4 |              5 | Dragon      |
+|       230 | Kingdra     | Swift Swin    |       3 |      5 |    5 |             4 |              5 | Water       |
+|       233 | Porygon2    | Download      |       3 |      4 |    5 |             4 |              3 | Normal      |
+|       236 | Tyrogue     | Steadfast     |       2 |      2 |    2 |             2 |              2 | Fighting    |
+|       238 | Smoochum    | Forewarn      |       2 |      2 |    4 |             3 |              4 | Ice         |
+|       238 | Smoochum    | Forewarn      |       2 |      2 |    4 |             3 |              4 | Psychic     |
+|       239 | Elekid      | Static        |       2 |      3 |    3 |             2 |              5 | Electric    |
+|       240 | Magby       | Flame Body    |       2 |      4 |    3 |             2 |              5 | Fire        |
+|       242 | Blissey     | Natural Cure  |      10 |      1 |    4 |             6 |              3 | Normal      |
+|       258 | Mudkip      | Torrent       |       2 |      4 |    2 |             2 |              2 | Water       |
+|       259 | Marshtomp   | Torrent       |       3 |      4 |    3 |             3 |              3 | Ground      |
+|       259 | Marshtomp   | Torrent       |       3 |      4 |    3 |             3 |              3 | Water       |
+|       260 | Swampert    | Torrent       |       4 |      6 |    4 |             4 |              3 | Ground      |
+|       260 | Swampert    | Torrent       |       4 |      6 |    4 |             4 |              3 | Water       |
+|       265 | Wurmple     | Shield Dust   |       2 |      2 |    1 |             1 |              1 | Bug         |
+|       266 | Silcoon     | Shed Skin     |       2 |      2 |    1 |             1 |              1 | Bug         |
+|       267 | Beautifly   | Swarm         |       3 |      4 |    5 |             2 |              4 | Bug         |
+|       267 | Beautifly   | Swarm         |       3 |      4 |    5 |             2 |              4 | Flying      |
+|       273 | Seedot      | Chlorophyll   |       2 |      2 |    1 |             1 |              2 | Grass       |
+|       274 | Nuzleaf     | Early Bird    |       3 |      4 |    3 |             2 |              3 | Dark        |
+|       274 | Nuzleaf     | Early Bird    |       3 |      4 |    3 |             2 |              3 | Grass       |
+|       275 | Shiftry     | Early Bird    |       4 |      5 |    4 |             3 |              4 | Dark        |
+|       275 | Shiftry     | Early Bird    |       4 |      5 |    4 |             3 |              4 | Grass       |
+|       278 | Wingull     | Keen Eye      |       2 |      2 |    3 |             1 |              5 | Flying      |
+|       278 | Wingull     | Keen Eye      |       2 |      2 |    3 |             1 |              5 | Water       |
+|       279 | Pelipper    | Keen Eye      |       3 |      3 |    4 |             3 |              4 | Flying      |
+|       279 | Pelipper    | Keen Eye      |       3 |      3 |    4 |             3 |              4 | Water       |
+|       287 | Slakoth     | Truant        |       3 |      3 |    2 |             2 |              2 | Normal      |
+|       288 | Vigoroth    | Vital Spirit  |       3 |      4 |    3 |             2 |              5 | Normal      |
+|       289 | Slaking     | Truant        |       6 |      8 |    5 |             3 |              5 | Normal      |
+|       300 | Skitty      | Normalize     |       2 |      2 |    2 |             2 |              3 | Normal      |
+|       301 | Delcatty    | Cute Charm    |       3 |      3 |    3 |             2 |              4 | Normal      |
+|       311 | Plusle      | Plus          |       3 |      3 |    4 |             3 |              5 | Electric    |
+|       314 | Illumise    | Tinted Lens   |       3 |      3 |    4 |             3 |              5 | Bug         |
+|       320 | Wailmer     | Water Veil    |       5 |      4 |    3 |             2 |              3 | Water       |
+|       321 | Wailord     | Water Veil    |       6 |      5 |    4 |             2 |              3 | Water       |
+|       324 | Torkoal     | White Smole   |       3 |      4 |    4 |             3 |              1 | Fire        |
+|       327 | Spinda      | Tangled Feet  |       3 |      3 |    3 |             3 |              3 | 'Fire')     |
+|       333 | Swablu      | Nature Cure   |       2 |      2 |    2 |             3 |              3 | Flying      |
+|       333 | Swablu      | Nature Cure   |       2 |      2 |    2 |             3 |              3 | Normal      |
+|       334 | Altaria     | Nature Cure   |       3 |      4 |    3 |             4 |              4 | Dragon      |
+|       334 | Altaria     | Nature Cure   |       3 |      4 |    3 |             4 |              4 | Flying      |
+|       337 | Lunatone    | Levitate      |       3 |      3 |    5 |             4 |              4 | Psychic     |
+|       337 | Lunatone    | Levitate      |       3 |      3 |    5 |             4 |              4 | Rock        |
+|       349 | Feebas      | Swift Swin    |       1 |      1 |    1 |             2 |              4 | Water       |
+|       350 | Milotic     | Marvel Scale  |       4 |      3 |    5 |             5 |              4 | Water       |
+|       360 | Wynaut      | Shadow tag    |       4 |      1 |    1 |             2 |              1 | Psychic     |
+|       387 | Turtwig     | Overgrow      |       2 |      4 |    2 |             2 |              2 | Grass       |
+|       388 | Grotle      | Overgrow      |       3 |      5 |    3 |             3 |              2 | Grass       |
+|       389 | Torterra    | Overgrow      |       4 |      6 |    4 |             4 |              3 | Grass       |
+|       389 | Torterra    | Overgrow      |       4 |      6 |    4 |             4 |              3 | Ground      |
+|       390 | Chimchar    | Blaze         |       2 |      3 |    3 |             2 |              3 | Fire        |
+|       391 | Monferno    | Blaze         |       3 |      4 |    4 |             2 |              4 | Fighting    |
+|       391 | Monferno    | Blaze         |       3 |      4 |    4 |             2 |              4 | Fire        |
+|       392 | Infernape   | Blaze         |       3 |      5 |    5 |             3 |              6 | Fighting    |
+|       392 | Infernape   | Blaze         |       3 |      5 |    5 |             3 |              6 | Fire        |
+|       431 | Glameow     | Limber        |       2 |      3 |    2 |             2 |              5 | Normal      |
+|       432 | Purugle     | Thick Fat     |       3 |      4 |    3 |             3 |              6 | Normal      |
+|       439 | Mime Jr.    | Filter        |       1 |      1 |    3 |             4 |              3 | Fairy       |
+|       439 | Mime Jr.    | Filter        |       1 |      1 |    3 |             4 |              3 | Psychic     |
+|       440 | Happiny     | Serene Grace  |       4 |      1 |    1 |             3 |              2 | Normal      |
+|       446 | Munchlax    | Thick Fat     |       5 |      4 |    2 |             4 |              1 | Normal      |
+|       447 | Riolu       | Steadfast     |       2 |      4 |    2 |             2 |              3 | Fighting    |
+|       448 | Lucario     | Inner Focus   |       3 |      6 |    6 |             3 |              5 | Fighting    |
+|       448 | Lucario     | Inner Focus   |       3 |      6 |    6 |             3 |              5 | Steel       |
+|       461 | Weavile     | Pressure      |       3 |      6 |    2 |             4 |              7 | Dark        |
+|       461 | Weavile     | Pressure      |       3 |      6 |    2 |             4 |              7 | Ice         |
+|       462 | Magnezone   | Magnet Pull   |       3 |      4 |    6 |             4 |              3 | Electric    |
+|       462 | Magnezone   | Magnet Pull   |       3 |      4 |    6 |             4 |              3 | Steel       |
+|       463 | Lickilicky  | Oblivious     |       4 |      4 |    4 |             4 |              3 | Normal      |
+|       464 | Rhyperior   | Solid Rock    |       5 |      7 |    3 |             2 |              2 | Ground      |
+|       464 | Rhyperior   | Solid Rock    |       5 |      7 |    3 |             2 |              2 | Rock        |
+|       465 | Tangrowth   | Leaf Guard    |       4 |      5 |    5 |             2 |              3 | Grass       |
+|       466 | Electivire  | Motor Drive   |       3 |      6 |    5 |             4 |              5 | Electric    |
+|       467 | Magmortar   | Flame Body    |       3 |      5 |    6 |             4 |              5 | Fire        |
+|       501 | Oshawott    | Torrent       |       2 |      3 |    3 |             2 |              3 | Water       |
+|       502 | Dewott      | Torrent       |       3 |      4 |    4 |             3 |              3 | Water       |
+|       503 | Samurott    | Torrent       |       4 |      5 |    5 |             3 |              4 | Water       |
+|       504 | Patrat      | Run Away      |       2 |      3 |    2 |             2 |              2 | Normal      |
+|       505 | Watchog     | Illuminate    |       3 |      4 |    3 |             3 |              4 | Normal      |
+|       548 | Petilil     | Chlorophyll   |       2 |      2 |    3 |             2 |              2 | Grass       |
+|       549 | Lilligant   | Chlorophyll   |       3 |      3 |    5 |             3 |              5 | Grass       |
+|       561 | Sigilyph    | Magic Guard   |       3 |      3 |    5 |             3 |              5 | Flying      |
+|       561 | Sigilyph    | Magic Guard   |       3 |      3 |    5 |             3 |              5 | Psychic     |
+|       580 | Ducklett    | Keen Eye      |       3 |      2 |    2 |             2 |              3 | Flying      |
+|       580 | Ducklett    | Keen Eye      |       3 |      2 |    2 |             2 |              3 | Water       |
+|       581 | Swanna      | Big Pecks     |       3 |      4 |    4 |             3 |              5 | Flying      |
+|       581 | Swanna      | Big Pecks     |       3 |      4 |    4 |             3 |              5 | Water       |
+|       587 | Emolga      | Static        |       2 |      4 |    4 |             3 |              6 | Electric    |
+|       587 | Emolga      | Static        |       2 |      4 |    4 |             3 |              6 | Flying      |
+|       615 | Cryogonal   | Levitate      |       3 |      3 |    5 |             6 |              6 | Ice         |
+|       621 | Druddigon   | Rough Skin    |       3 |      6 |    3 |             4 |              3 | Dragon      |
+|       650 | Chespin     | Overgrow      |       2 |      3 |    2 |             2 |              2 | Grass       |
+|       651 | Quilladin   | Overgrow      |       3 |      4 |    3 |             2 |              3 | Grass       |
+|       652 | Chesnaught  | Overgrow      |       4 |      5 |    4 |             3 |              4 | Fighting    |
+|       652 | Chesnaught  | Overgrow      |       4 |      5 |    4 |             3 |              4 | Grass       |
+|       664 | Scatterbug  | Shield Dust   |       2 |      2 |    1 |             1 |              2 | Bug         |
+|       665 | Spewpa      | Shed Skin     |       2 |      1 |    1 |             1 |              2 | Bug         |
+|       666 | Vivillon    | Compound Eyes |       3 |      3 |    4 |             2 |              5 | Bug         |
+|       666 | Vivillon    | Compound Eyes |       3 |      3 |    4 |             2 |              5 | Flying      |
+|       698 | Amaura      | Refrigerate   |       3 |      3 |    3 |             3 |              3 | Ice         |
+|       698 | Amaura      | Refrigerate   |       3 |      3 |    3 |             3 |              3 | Rock        |
+|       699 | Aurorus     | Refrigerate   |       5 |      4 |    5 |             4 |              3 | Ice         |
+|       699 | Aurorus     | Refrigerate   |       5 |      4 |    5 |             4 |              3 | Rock        |
++-----------+-------------+---------------+---------+--------+------+---------------+----------------+-------------+
+349 rows in set (0.00 sec)
+
++-----------+-------------+---------------+---------------+
+| pokemonID | pokemonName | category      | ability       |
++-----------+-------------+---------------+---------------+
+|         0 |             |               |               |
+|       133 | Eevee       | Evolution     | Adaptability  |
+|        57 | Primeape    | Pig Monkey    | Anger Point   |
+|       128 | Tauros      | Wild Bull     | Anger Point   |
+|        51 | Dugtrio     | Mole          | Arena Trap    |
+|       347 |  Anorith    | Old Shrimp    | Battle Armor  |
+|       348 |  Armaldo    | Plate Armor   | Battle Armor  |
+|       141 | Kabutops    | Shellfish     | Battle Armor  |
+|       581 | Swanna      | White Bird    | Big Pecks     |
+|       390 | Chimchar    | Chimp         | Blaze         |
+|         5 | Charmeleon  | Flame         | Blaze         |
+|         4 | Charmander  | Lizard        | Blaze         |
+|       391 | Monferno    | Playful       | Blaze         |
+|       273 | Seedot      | Accorn        | Chlorophyll   |
+|       548 | Petilil     | Bulb          | Chlorophyll   |
+|       103 | Exeggutor   | Coconut       | Chlorophyll   |
+|       102 | Exeggcute   | Egg           | Chlorophyll   |
+|        45 | Vileplume   | Flower        | Chlorophyll   |
+|       549 | Lilligant   | Flowering     | Chlorophyll   |
+|        70 | Weepinbell  | Flycatcher    | Chlorophyll   |
+|        43 | Oddish      | Weed          | Chlorophyll   |
+|        72 | Tentacool   | Jellyfish     | Clear Body    |
+|        55 | Golduck     | Duck          | Cloud Nine    |
+|        39 | Jigglypuff  | Balloon       | Competitive   |
+|        12 | Butterfree  | Butterfly     | Compound Eyes |
+|       666 | Vivillon    | Scale         | Compound Eyes |
+|        35 | Clefairy    | Fairy         | Cute Charm    |
+|       301 | Delcatty    | Prim          | Cute Charm    |
+|        54 | Psyduck     | Duck          | Damp          |
+|        60 | Poliwag     | Tadpole       | Damp          |
+|       137 | Porygon     | Virtual       | Download      |
+|        47 | Parasect    | Mushroom      | Dry Skin      |
+|        85 | Dodrio      | Triple Bird   | Early Bird    |
+|       275 | Shiftry     | Wicked        | Early Bird    |
+|       274 | Nuzleaf     | Wily          | Early Bird    |
+|        48 | Venonat     | Insect        | Effect Spore  |
+|        46 | Paras       | Mushroom      | Effect Spore  |
+|       122 | Mr.Mime     | Barrier       | Filter        |
+|       439 | Mime Jr.    | Mime          | Filter        |
+|       467 | Magmortar   | Blast         | Flame Body    |
+|       240 | Magby       | Live Coal     | Flame Body    |
+|       126 | Magmar      | Spitfire      | Flame Body    |
+|       228 | Houndour    | Dark          | Flash Fire    |
+|        78 | Rapidash    | Fire Horse    | Flash Fire    |
+|        37 | Vulpix      | Fox           | Flash Fire    |
+|        59 | Arcanine    | Legendary     | Flash Fire    |
+|       124 | Jynx        | Human Shape   | Forewarn      |
+|        97 | Hypno       | Hypnosis      | Forewarn      |
+|       238 | Smoochum    | Kiss          | Forewarn      |
+|       174 | Igglypuff   | Ballon        | Friend Guard  |
+|       173 | Cleffa      | Star Shape    | Friend Guard  |
+|       214 | Heracross   | Single Horn   | Guts          |
+|        66 | Machop      | Superpower    | Guts          |
+|        87 | Dewgong     | Sea Lion      | Hydration     |
+|        99 | Kingler     | Pincer        | Hyper Cutter  |
+|       505 | Watchog     | Lookout       | Illuminate    |
+|       121 | Starmie     | Mysterious    | Illuminate    |
+|       169 | Crobat      | Bat           | Infiltrator   |
+|       448 | Lucario     | Aura          | Inner Focus   |
+|        41 | Zubat       | Bat           | Inner Focus   |
+|       149 | Dragonite   | Dragon        | Inner Focus   |
+|       203 | Girafarig   | Long Neck     | Inner Focus   |
+|        63 | Abra        | Psi           | Inner Focus   |
+|        83 | Farfetchd   | Wild Duck     | Inner Focus   |
+|        96 | Drowzee     | Hypnosis      | Insomnia      |
+|       130 | Gyarados    | Atrocious     | Intimidate    |
+|        24 | Arbok       | Cobra         | Intimidate    |
+|        58 | Growlithe   | Puppy         | Intimidate    |
+|       107 | Hitmonchan  | Punching      | Iron Fist     |
+|        18 | Pidgeot     | Bird          | Keen          |
+|        22 | Fearow      | Beak          | Keen Eye      |
+|        17 | Pidgeotto   | Bird          | Keen Eye      |
+|       302 | Sableye     | Darkness      | Keen Eye      |
+|       278 | Wingull     | Seagull       | Keen Eye      |
+|       215 | Sneasel     | Sharp Claw    | Keen Eye      |
+|        16 | Pidgey      | Tiny Bird     | Keen Eye      |
+|       279 | Pelipper    | Water Bird    | Keen Eye      |
+|       114 | Tangela     | Vine          | Leaf Guard    |
+|       615 | Cryogonal   | Crystallizing | Levitate      |
+|        92 | Gastly      | Gas           | Levitate      |
+|       337 | Lunatone    | Meteorite     | Levitate      |
+|       109 | Koffing     | Poison Gas    | Levitate      |
+|        94 | Gengar      | Shadow        | Levitate      |
+|       105 | Marowak     | Bone Keeper   | Lightning Rod |
+|       112 | Rhydon      | Drill         | Lightning Rod |
+|       431 | Glameow     | Catty         | Limber        |
+|        53 | Persian     | Classy Cat    | Limber        |
+|       132 | Ditto       | Transform     | Limber        |
+|        73 | Tentacruel  | Jellyfish     | Liquid Ooze   |
+|       561 | Sigilyph    | Avianoid      | Magic Guard   |
+|        36 | Clefable    | Fairy         | Magic Guard   |
+|        82 | Magneton    | Magnet        | Magnet Pull   |
+|       462 | Magnezone   | Magnet Area   | Magnet Pull   |
+|       350 | Milotic     | Tender        | Marvel Scale  |
+|       466 | Electivire  | Thunderbolt   | Motor Drive   |
+|       242 | Blissey     | Happiness     | Natural Cure  |
+|       333 | Swablu      | Cotton Bird   | Nature Cure   |
+|       334 | Altaria     | Humming       | Nature Cure   |
+|       127 | Pinsir      | Stag Beetle   | Nature Cure   |
+|       120 | Staryu      | Star Shape    | Nature Cure   |
+|        67 | Machoke     | Superpower    | No Guard      |
+|       300 | Skitty      | Kitten        | Normalize     |
+|        79 | Slowpoke    | Dopey         | Oblivious     |
+|       463 | Lickilicky  | Licking       | Oblivious     |
+|       389 | Torterra    | Continent     | Overgrow      |
+|       388 | Grotle      | Grove         | Overgrow      |
+|         1 | Bulbasaur   | Seed          | Overgrow      |
+|       651 | Quilladin   | Spiny Armor   | Overgrow      |
+|       650 | Chespin     | Spiny Nut     | Overgrow      |
+|       387 | Turtwig     | Tiny Leaf     | Overgrow      |
+|        80 | Slowbro     | Hermit Crab   | Own Tempo     |
+|       108 | Lickitung   | Licking       | Own Tempo     |
+|        52 | Meowth      | Scratch  Cat  | Pick Up       |
+|       311 | Plusle      | Cheering      | Plus          |
+|       117 | Seadra      | Dragon        | Poison Point  |
+|        29 | Nidoran     | Poison Pin    | Poison Point  |
+|       145 | Zapdos      | Electric      | Pressure      |
+|       146 | Moltres     | Flame         | Pressure      |
+|       142 | Aerodactyl  | Fossil        | Pressure      |
+|       144 | Articuno    | Freeze        | Pressure      |
+|       150 | Mewtwo      | Genetic       | Pressure      |
+|       461 | Weavile     | Sharp Claw    | Pressure      |
+|       106 | Hitmonlee   | Kicking       | Reckless      |
+|       698 | Amaura      | Tundra        | Refrigerate   |
+|        31 | Nidoqueen   | Drill         | Rivalry       |
+|       104 | Cubone      | Lonely        | Rock Head     |
+|        74 | Geodude     | Rock          | Rock Head     |
+|        95 | Onix        | Rock Snake    | Rock Head     |
+|       111 | Rhyhorn     | Spikes        | Rock Head     |
+|       621 | Druddigon   | Cave          | Rough Skin    |
+|        77 | Ponyta      | Fire Horse    | Run Away      |
+|        19 | Rattata     | Mouse         | Run Away      |
+|       504 | Patrat      | Scout         | Run Away      |
+|        84 | Doduo       | Twin Bird     | Run Away      |
+|        50 | Diglett     | Mole          | Sand Veil     |
+|        27 | Sandshrew   | Mouse         | Sand Veil     |
+|       241 | Miltank     | Milk Cow      | Scrappy       |
+|       115 | Kangaskhan  | Parent        | Scrappy       |
+|       113 | Chansey     | Egg           | Serence Grace |
+|       440 | Happiny     | Playhouse     | Serene Grace  |
+|       360 | Wynaut      | Bright        | Shadow tag    |
+|       202 | Wobbuffet   | Patient       | Shadow tag    |
+|        11 | Metapod     | Cocoon        | Shed Skin     |
+|       147 | Dratini     | Dragon        | Shed Skin     |
+|       665 | Spewpa      | Scatterdust   | Shed Skin     |
+|        23 | Ekans       | Snake         | Shed Skin     |
+|        49 | Venomoth    | Poison Moth   | Sheld Dust    |
+|        90 | Shellder    | Bivalve       | Shell Armor   |
+|        98 | Krabby      | River Crab    | Shell Armor   |
+|       138 | Omanyte     | Spiral        | Shell Armor   |
+|       131 | Lapras      | Transport     | Shell Armor   |
+|        13 | Weedle      | Hairy  Bug    | Shield Dust   |
+|       664 | Scatterbug  | Scatterdust   | Shield Dust   |
+|        10 | Caterpie    | Worm          | Shield Dust   |
+|        91 | Cloyster    | Bivalve       | Skill Link    |
+|       116 | Horsea      | Dragon        | Sniper        |
+|       191 | Sunkern     | Seed          | Solar Power   |
+|       192 | Sunflora    | Sun           | Solar Power   |
+|       464 | Rhyperior   | Drill         | Solid Rock    |
+|       101 | Electrode   | Ball          | Soundproof    |
+|       100 | Voltorb     | Ball          | Static        |
+|       125 | Electrabuzz | Electric      | Static        |
+|        25 | Pikachu     | Mouse         | Static        |
+|       587 | Emolga      | Sky Squirrel  | Static        |
+|       172 | Pichu       | Tiny Mouse    | Static        |
+|       447 | Riolu       | Emanation     | Steadfast     |
+|       236 | Tyrogue     | Scuffle       | Steadfast     |
+|        88 | Grimer      | Sludge        | Stench        |
+|        89 | Muk         | Sludge        | Sticky Hold   |
+|       227 | Skarmory    | Armor Bird    | Sturdy        |
+|       208 | Steelix     | Iron Snake    | Sturdy        |
+|        81 | Magnemite   | Magnet        | Sturdy        |
+|        76 | Golem       | Rock          | Sturdy        |
+|       267 | Beautifly   | Butterfly     | Swarm         |
+|       165 | Ledyba      | Five Star     | Swarm         |
+|       212 | Scizor      | Pincer        | Swarm         |
+|        15 | Beedrill    | Poison Bee    | Swarm         |
+|       139 | Omastar     | Spiral        | Swift Armor   |
+|       129 | Magikarp    | Fish          | Swift Swim    |
+|       119 | Seaking     | Goldfish      | Swift Swim    |
+|       140 | Kabuto      | Shellfish     | Swift Swim    |
+|       230 | Kingdra     | Dragon        | Swift Swin    |
+|       349 | Feebas      | Fish          | Swift Swin    |
+|       151 | Mew         | New Species   | Synchronize   |
+|        65 | Alakazam    | Psi           | Synchronize   |
+|       327 | Spinda      | Spot Panda    | Tangled Feet  |
+|       123 | Scyther     | Mantis        | Technician    |
+|       446 | Munchlax    | Eater         | Thick Fat     |
+|        86 | Seel        | Sea Lion      | Thick Fat     |
+|       143 | Snorlax     | Sleeping      | Thick Fat     |
+|       432 | Purugle     | Tiger cat     | Thick Fat     |
+|       314 | Illumise    | Firefly       | Tinted Lens   |
+|       502 | Dewott      | Discipline    | Torrent       |
+|       503 | Samurott    | Formidable    | Torrent       |
+|       258 | Mudkip      | Mud Fish      | Torrent       |
+|       501 | Oshawott    | Sea Otter     | Torrent       |
+|         9 | Blastoise   | Shellfish     | Torrent       |
+|         7 | Squirtle    | Tiny Turtle   | Torrent       |
+|         8 | Wartortle   | Turtle        | Torrent       |
+|       289 | Slaking     | Lazy          | Truant        |
+|       287 | Slakoth     | Slacker       | Truant        |
+|        56 | Mankey      | Pig Monkey    | Vital Spirit  |
+|       288 | Vigoroth    | Wild Monkey   | Vital Spirit  |
+|       134 | Vaporeon    | Bubble Jet    | Water Absorb  |
+|        62 | Poliwrath   | Tadpole       | Water Absorb  |
+|       320 | Wailmer     | Ball Whale    | Water Veil    |
+|       321 | Wailord     | Float Whale   | Water Veil    |
+|       118 | Goldeen     | Goldfish      | Water Veil    |
+|       324 | Torkoal     | Coal          | White Smole   |
++-----------+-------------+---------------+---------------+
+209 rows in set (0.00 sec)
+
++-----------+----------+
+| pokemonID | weakness |
++-----------+----------+
+|        75 | Fighting |
+|        75 | Grass    |
+|        75 | Ground   |
+|        75 | Ice      |
+|        75 | Steel    |
+|        75 | Water    |
+|         3 | Ice      |
+|        45 | Ice      |
+|        42 | Ice      |
+|       112 | Ice      |
+|        18 | Ice      |
+|       165 | Ice      |
+|       149 | Ice      |
+|        76 | Ice      |
+|       275 | Ice      |
+|       389 | Ice      |
+|       334 | Ice      |
+|       666 | Ice      |
+|        95 | Ice      |
+|       652 | Ice      |
+|       561 | Ice      |
+|       464 | Ice      |
+|       389 | Ice      |
++-----------+----------+
+23 rows in set (0.00 sec)
+
++-----------+
+| pokemonID |
++-----------+
+|        45 |
+|        56 |
+|        57 |
+|        62 |
+|        66 |
+|        67 |
+|        68 |
+|       106 |
+|       107 |
+|       147 |
+|       148 |
+|       149 |
+|       230 |
+|       236 |
+|       274 |
+|       275 |
+|       302 |
+|       334 |
+|       447 |
+|       461 |
+|       621 |
+|       652 |
++-----------+
+22 rows in set (0.00 sec)
+
+mysql> tee updatesLog.txt

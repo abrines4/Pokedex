@@ -1,0 +1,104 @@
+Query OK, 45 rows affected (0.00 sec)
+Records: 45  Deleted: 0  Skipped: 0  Warnings: 0
+
+Query OK, 623 rows affected, 1642 warnings (0.02 sec)
+Records: 1000  Deleted: 0  Skipped: 377  Warnings: 1642
+
+Query OK, 68 rows affected (0.00 sec)
+Records: 68  Deleted: 0  Skipped: 0  Warnings: 0
+
+Query OK, 258 rows affected, 144 warnings (0.01 sec)
+Records: 275  Deleted: 0  Skipped: 17  Warnings: 144
+
+Query OK, 55 rows affected (0.01 sec)
+Records: 58  Deleted: 0  Skipped: 3  Warnings: 0
+
+Query OK, 5452 rows affected (0.07 sec)
+Records: 5511  Deleted: 0  Skipped: 59  Warnings: 0
+
+Query OK, 242 rows affected, 1 warning (0.00 sec)
+Records: 242  Deleted: 0  Skipped: 0  Warnings: 1
+
+Query OK, 2589 rows affected, 7 warnings (0.03 sec)
+Records: 2589  Deleted: 0  Skipped: 0  Warnings: 7
+
+Query OK, 247 rows affected, 250 warnings (0.01 sec)
+Records: 248  Deleted: 0  Skipped: 1  Warnings: 250
+
+Query OK, 350 rows affected, 1 warning (0.00 sec)
+Records: 351  Deleted: 0  Skipped: 1  Warnings: 1
+
+Query OK, 245 rows affected, 6292 warnings (0.02 sec)
+Records: 1000  Deleted: 0  Skipped: 755  Warnings: 6292
+
+Query OK, 144 rows affected (0.01 sec)
+Records: 145  Deleted: 0  Skipped: 1  Warnings: 0
+
+Query OK, 748 rows affected, 1454 warnings (0.03 sec)
+Records: 1100  Deleted: 0  Skipped: 352  Warnings: 1454
+
+Query OK, 0 rows affected (0.00 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+Query OK, 8 rows affected (0.01 sec)
+Rows matched: 8  Changed: 8  Warnings: 0
+
+Query OK, 33 rows affected (0.00 sec)
+
+Query OK, 22 rows affected (0.01 sec)
+
+Query OK, 234 rows affected (0.02 sec)
+
+Query OK, 3 rows affected (0.00 sec)
+
+Query OK, 45 rows affected (0.00 sec)
+
+Query OK, 104 rows affected (0.02 sec)
+
+Query OK, 33 rows affected (0.00 sec)
+
+Query OK, 33 rows affected (0.01 sec)
+
+Query OK, 15 rows affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> exit
