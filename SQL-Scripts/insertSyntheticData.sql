@@ -4,12 +4,12 @@ INSERT INTO Trainer VALUES('Brock', 'Gym Leader');
 INSERT INTO Trainer VALUES('Brycen', 'Gym Leader');
 INSERT INTO Trainer VALUES('Aldith', 'Team Plasma');
 
-INSERT INTO Owns VALUES('Bailey', 45);
-INSERT INTO Owns VALUES('Brawly', 66);
-INSERT INTO Owns VALUES('Brock', 74);
-INSERT INTO Owns VALUES('Brock', 95);
-INSERT INTO Owns VALUES('Brycen', 615);
-INSERT INTO Owns VALUES('Aldith', 461);
+INSERT INTO Owns VALUES('Bailey', 'Vileplum', 45);
+INSERT INTO Owns VALUES('Brawly', 'Machop', 66);
+INSERT INTO Owns VALUES('Brock', 'Geodude', 74);
+INSERT INTO Owns VALUES('Brock', 'Onix', 95);
+INSERT INTO Owns VALUES('Brycen', 'Cryogonal', 615);
+INSERT INTO Owns VALUES('Aldith', 'Weavile', 461);
 
 INSERT INTO Badges VALUES('Brawly', 'Knuckle');
 INSERT INTO Badges VALUES('Brock', 'Boulder');
