@@ -1,0 +1,300 @@
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Empty set (0.00 sec)
+
+Empty set (0.00 sec)
+
+Empty set (0.00 sec)
+
++-----------+---------+-------------+
+| pokemonID | MAX(hp) | pokemonType |
++-----------+---------+-------------+
+|       461 |       2 | Dark        |
+|        66 |       2 | Fighting    |
+|        45 |       5 | Grass       |
+|        74 |       1 | Ground      |
+|       461 |       5 | Ice         |
+|        45 |       5 | Poison      |
+|        74 |       1 | Rock        |
++-----------+---------+-------------+
+7 rows in set (0.00 sec)
+
++------------+-----------+
+| attackName | pokemonID |
++------------+-----------+
+| Bulldoze   |        74 |
++------------+-----------+
+1 row in set (0.00 sec)
+
++---------------------+
+| Total_attack_number |
++---------------------+
+|                   0 |
++---------------------+
+1 row in set (0.01 sec)
+
++-----------+-------------+-------------+---------+--------+------+---------------+----------------+-------------+
+| pokemonID | pokemonName | ability     | defense | attack | hp   | specialAttack | specialDefense | pokemonType |
++-----------+-------------+-------------+---------+--------+------+---------------+----------------+-------------+
+|        45 | Vileplume   | Chlorophyll |       3 |      4 |    5 |             4 |              3 | Grass       |
+|        45 | Vileplume   | Chlorophyll |       3 |      4 |    5 |             4 |              3 | Poison      |
+|        66 | Machop      | Guts        |       3 |      4 |    2 |             2 |              2 | Fighting    |
+|        74 | Geodude     | Rock Head   |       2 |      4 |    1 |             1 |              1 | Ground      |
+|        74 | Geodude     | Rock Head   |       2 |      4 |    1 |             1 |              1 | Rock        |
+|        95 | Onix        | Rock Head   |       2 |      2 |    1 |             2 |              4 | Ground      |
+|        95 | Onix        | Rock Head   |       2 |      2 |    1 |             2 |              4 | Rock        |
+|       461 | Weavile     | Pressure    |       3 |      6 |    2 |             4 |              7 | Dark        |
+|       461 | Weavile     | Pressure    |       3 |      6 |    2 |             4 |              7 | Ice         |
+|       615 | Cryogonal   | Levitate    |       3 |      3 |    5 |             6 |              6 | Ice         |
++-----------+-------------+-------------+---------+--------+------+---------------+----------------+-------------+
+10 rows in set (0.00 sec)
+
++-----------+-------------+---------------+-------------+
+| pokemonID | pokemonName | category      | ability     |
++-----------+-------------+---------------+-------------+
+|        45 | Vileplume   | Flower        | Chlorophyll |
+|        66 | Machop      | Superpower    | Guts        |
+|       615 | Cryogonal   | Crystallizing | Levitate    |
+|       461 | Weavile     | Sharp Claw    | Pressure    |
+|        74 | Geodude     | Rock          | Rock Head   |
+|        95 | Onix        | Rock Snake    | Rock Head   |
++-----------+-------------+---------------+-------------+
+6 rows in set (0.00 sec)
+
++-----------+----------+
+| pokemonID | weakness |
++-----------+----------+
+|        45 | Ice      |
+|        74 | Fighting |
+|        74 | Grass    |
+|        74 | Ground   |
+|        74 | Ice      |
+|        74 | Steel    |
+|        74 | Water    |
+|        95 | Ice      |
++-----------+----------+
+8 rows in set (0.00 sec)
+
++-----------+
+| pokemonID |
++-----------+
+|        66 |
+|       461 |
++-----------+
+2 rows in set (0.00 sec)
+
+mysql> source synthetic_updatesResults.sql;
+Query OK, 6 rows affected (0.01 sec)
+
+Query OK, 6 rows affected (0.00 sec)
+
+Query OK, 3 rows affected (0.00 sec)
+
+Query OK, 6 rows affected (0.01 sec)
+
+Query OK, 3 rows affected (0.01 sec)
+
+Query OK, 6 rows affected (0.00 sec)
+
+Query OK, 0 rows affected (0.00 sec)
+
+Query OK, 6 rows affected (0.01 sec)
+
+Query OK, 6 rows affected (0.01 sec)
+
+Query OK, 10 rows affected (0.00 sec)
+
+Query OK, 6 rows affected (0.01 sec)
+
+Query OK, 5 rows affected (0.00 sec)
+
+Query OK, 29 rows affected (0.01 sec)
+
