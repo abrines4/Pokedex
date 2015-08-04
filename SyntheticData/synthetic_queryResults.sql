@@ -23,12 +23,12 @@ INSERT INTO Trainer VALUES('Brock', 'Gym Leader');
 INSERT INTO Trainer VALUES('Brycen', 'Gym Leader');
 INSERT INTO Trainer VALUES('Aldith', 'Team Plasma');
 
-INSERT INTO Owns VALUES('Bailey', 45);
-INSERT INTO Owns VALUES('Brawly', 66);
-INSERT INTO Owns VALUES('Brock', 74);
-INSERT INTO Owns VALUES('Brock', 95);
-INSERT INTO Owns VALUES('Brycen', 615);
-INSERT INTO Owns VALUES('Aldith', 461);
+INSERT INTO Owns VALUES('Bailey', 'Vileplum', 45);
+INSERT INTO Owns VALUES('Brawly', 'Machop', 66);
+INSERT INTO Owns VALUES('Brock', 'Geodude', 74);
+INSERT INTO Owns VALUES('Brock', 'Onix', 95);
+INSERT INTO Owns VALUES('Brycen', 'Cryogonal', 615);
+INSERT INTO Owns VALUES('Aldith', 'Weavile', 461);
 
 INSERT INTO Badges VALUES('Brawly', 'Knuckle');
 INSERT INTO Badges VALUES('Brock', 'Boulder');
@@ -38,6 +38,7 @@ INSERT INTO Pokemon VALUES (45,'Vileplume','B','Flower',TRUE,'Chlorophyll');
 INSERT INTO Pokemon VALUES (66,'Machop','B','Superpower',FALSE,'Guts');
 INSERT INTO Pokemon VALUES (74,'Geodude','B','Rock',FALSE,'Rock Head');
 INSERT INTO Pokemon VALUES (95,'Onix','B','Rock Snake',FALSE,'Rock Head');
+INSERT INTO Pokemon VALUES (105,'Marowak','B','Bone Kepper',TRUE,'Rock Head');
 INSERT INTO Pokemon VALUES (461,'Weavile','B','Sharp Claw',TRUE,'Pressure');
 INSERT INTO Pokemon VALUES (615,'Cryogonal','U','Crystallizing',FALSE,'Levitate');
 
@@ -56,6 +57,7 @@ INSERT INTO Statistics VALUES(45,3,4,4,5,4,3);
 INSERT INTO Statistics VALUES(66,3,4,2,2,2,2);
 INSERT INTO Statistics VALUES(74,2,4,4,1,1,1);
 INSERT INTO Statistics VALUES(95,2,2,7,1,2,4);
+INSERT INTO Statistics VALUES(105,3,4,5,2,3,3);
 INSERT INTO Statistics VALUES(461,3,6,3,2,4,7);
 INSERT INTO Statistics VALUES(615,3,3,2,5,6,6);
 
@@ -72,12 +74,16 @@ INSERT INTO Weaknesses VALUES(74,'Ground');
 INSERT INTO Weaknesses VALUES(74,'Ice');
 INSERT INTO Weaknesses VALUES(74,'Steel');
 INSERT INTO Weaknesses VALUES(74,'Water');
+
 INSERT INTO Weaknesses VALUES(95,'Fighting');
 INSERT INTO Weaknesses VALUES(95,'Grass');
 INSERT INTO Weaknesses VALUES(95,'Ground');
 INSERT INTO Weaknesses VALUES(95,'Ice');
 INSERT INTO Weaknesses VALUES(95,'Steel');
 INSERT INTO Weaknesses VALUES(95,'Water');
+INSERT INTO Weaknesses VALUES(105,'Grass');
+INSERT INTO Weaknesses VALUES(105,'Ice');
+INSERT INTO Weaknesses VALUES(105,'Water');
 INSERT INTO Weaknesses VALUES(461,'Fighting');
 INSERT INTO Weaknesses VALUES(461,'Bug');
 INSERT INTO Weaknesses VALUES(461,'Fire');
@@ -128,5 +134,6 @@ INSERT INTO Appears_In VALUES(74,'Pewter');
 INSERT INTO Appears_In VALUES(95,'Cyllage');
 INSERT INTO Appears_In VALUES(461,'Icirrus');
 INSERT INTO Appears_In VALUES(615,'Snowbelle');
+
 
 source ../SQL-Scripts/qurry.sql;

@@ -8,31 +8,9 @@ Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
-ERROR 1136 (21S01): Column count doesn't match value count at row 1
-ERROR 1136 (21S01): Column count doesn't match value count at row 1
-ERROR 1136 (21S01): Column count doesn't match value count at row 1
-ERROR 1136 (21S01): Column count doesn't match value count at row 1
-ERROR 1136 (21S01): Column count doesn't match value count at row 1
-ERROR 1136 (21S01): Column count doesn't match value count at row 1
-Query OK, 1 row affected (0.01 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
 Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.01 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.01 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.01 sec)
-
-Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.01 sec)
 
@@ -50,7 +28,19 @@ Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
+Query OK, 1 row affected (0.01 sec)
+
 Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
@@ -74,14 +64,6 @@ Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
-Query OK, 1 row affected (0.01 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
 Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.01 sec)
@@ -94,11 +76,7 @@ Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
+Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.01 sec)
 
@@ -108,7 +86,7 @@ Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.01 sec)
 
-Query OK, 1 row affected (0.00 sec)
+Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
@@ -121,14 +99,6 @@ Query OK, 1 row affected (0.00 sec)
 Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
@@ -156,19 +126,7 @@ Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
-Query OK, 1 row affected (0.01 sec)
-
 Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.01 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.01 sec)
-
-Query OK, 1 row affected (0.00 sec)
-
-Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
 
@@ -180,6 +138,14 @@ Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.01 sec)
 
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
 Query OK, 1 row affected (0.01 sec)
 
 Query OK, 1 row affected (0.00 sec)
@@ -187,12 +153,75 @@ Query OK, 1 row affected (0.00 sec)
 Query OK, 1 row affected (0.00 sec)
 
 Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
++------------+
+| attackName |
++------------+
+| Bulk Up    |
+| Bulldoze   |
+| Confusion  |
+| Solar Beam |
++------------+
+4 rows in set (0.00 sec)
 
 Empty set (0.00 sec)
 
-Empty set (0.00 sec)
-
-Empty set (0.00 sec)
++-------------+------+
+| pokemonName | hp   |
++-------------+------+
+| Marowak     |    2 |
++-------------+------+
+1 row in set (0.00 sec)
 
 +-----------+---------+-------------+
 | pokemonID | MAX(hp) | pokemonType |
@@ -219,7 +248,7 @@ Empty set (0.00 sec)
 +---------------------+
 |                   0 |
 +---------------------+
-1 row in set (0.01 sec)
+1 row in set (0.00 sec)
 
 +-----------+-------------+-------------+---------+--------+------+---------------+----------------+-------------+
 | pokemonID | pokemonName | ability     | defense | attack | hp   | specialAttack | specialDefense | pokemonType |
@@ -244,10 +273,11 @@ Empty set (0.00 sec)
 |        66 | Machop      | Superpower    | Guts        |
 |       615 | Cryogonal   | Crystallizing | Levitate    |
 |       461 | Weavile     | Sharp Claw    | Pressure    |
+|       105 | Marowak     | Bone Kepper   | Rock Head   |
 |        74 | Geodude     | Rock          | Rock Head   |
 |        95 | Onix        | Rock Snake    | Rock Head   |
 +-----------+-------------+---------------+-------------+
-6 rows in set (0.00 sec)
+7 rows in set (0.00 sec)
 
 +-----------+----------+
 | pokemonID | weakness |
@@ -266,35 +296,10 @@ Empty set (0.00 sec)
 +-----------+
 | pokemonID |
 +-----------+
+|        45 |
 |        66 |
 |       461 |
 +-----------+
-2 rows in set (0.00 sec)
+3 rows in set (0.00 sec)
 
-mysql> source synthetic_updatesResults.sql;
-Query OK, 6 rows affected (0.01 sec)
-
-Query OK, 6 rows affected (0.00 sec)
-
-Query OK, 3 rows affected (0.00 sec)
-
-Query OK, 6 rows affected (0.01 sec)
-
-Query OK, 3 rows affected (0.01 sec)
-
-Query OK, 6 rows affected (0.00 sec)
-
-Query OK, 0 rows affected (0.00 sec)
-
-Query OK, 6 rows affected (0.01 sec)
-
-Query OK, 6 rows affected (0.01 sec)
-
-Query OK, 10 rows affected (0.00 sec)
-
-Query OK, 6 rows affected (0.01 sec)
-
-Query OK, 5 rows affected (0.00 sec)
-
-Query OK, 29 rows affected (0.01 sec)
-
+mysql> exit
