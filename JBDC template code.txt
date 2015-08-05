@@ -1,3 +1,8 @@
+Resouces:
+   http://mrbool.com/how-to-connect-with-mysql-database-using-java/25440
+   http://www.kitebird.com/articles/jdbc.html
+
+
 Template for writing an update(i.e: insert, update, deletions):
 
 Statement s = conn.createStatement ();
