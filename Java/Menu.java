@@ -14,7 +14,7 @@ public class Menu{
 			System.out.print("6:  Update a Trainer's type\n");
 			System.out.print("7:  Update a Pokemon's statistics\n");
 			System.out.print("8:  Delete a Pokemon\n");
-			System.out.print("9:  Delete and attack\n");
+			System.out.print("9:  Delete an attack\n");
 			System.out.print("10: Quit\n");
 			System.out.print("Choose one of the above options: ");
 			Scanner scan = new Scanner(System.in);
