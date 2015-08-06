@@ -87,6 +87,7 @@ public class Menu{
 		}
 		catch(Exception e) {
 			System.err.println("Unknown error");
+			System.exit(-2);
 		}
 	}
 }
