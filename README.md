@@ -1,5 +1,5 @@
 # Pokedex
-
+For connection problem, we may need to install connection J.
 
 mySQL:
 	
