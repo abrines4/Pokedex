@@ -84,6 +84,9 @@ public class Menu{
 			System.err.println ("Error message: " + e.getMessage ());
 			System.err.println ("Error number: " + e.getErrorCode ());
 			System.exit(-1);
-		}	
+		}
+		catch(Exception e) {
+			System.err.println("Unknown error");
+		}
 	}
 }
