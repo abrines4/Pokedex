@@ -67,6 +67,8 @@ public class Menu{
 					break;
 				case 9:
 					//Call Ivin's deletion
+					result = action.deleteAttack();
+					System.out.println(result);
 					break;
 				case 10:
 					//Call quit
