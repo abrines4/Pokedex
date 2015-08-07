@@ -8,9 +8,9 @@ public class Menu{
 		try{
 		Connection conn = null;
 		//connection will be made
-		String userName = "SQLusername";
-		String password = "SQLPassword";
-		String url = "jdbc:mysql://database2.cs.tamu.edu/DB_name";
+		String userName = "mqzhou";
+		String password = "920122";
+		String url = "jdbc:mysql://database2.cs.tamu.edu/mqzhou-pokemon";
 		Class.forName ("com.mysql.jdbc.Driver").newInstance ();
 		conn = DriverManager.getConnection (url, userName, password);
 		Statement s = conn.createStatement();

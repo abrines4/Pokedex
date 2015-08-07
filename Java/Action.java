@@ -48,12 +48,22 @@ public class Action {
 			return "Unsuccessful deletion of attack: " + attack;
 		}
 	}
-    /*
+    
 	public String listAttackOfGLPoke() { // List of all attacks used by gym leaders’ pokemon
+    Statement stmt = null;
+    String query =
+    	"SELECT leaderName " + 
+    	"FROM Gym";
+
     try {
     	Scanner scan = new Scanner(System.in);
-    	System.out.println("You can view all attacks used by your disered gym leaders’ pokemons. All gym leaders are listed as follows.\n Gym leaders:");
-    	s.executeQuery ("SELECT leaderName FROM Gym");
+    	System.out.println("You can view all attacks used by your disered gym leaders’ pokemons. All gym leaders are listed as follows.");
+    	System.out.println("Gym leaders:");
+        ResultSet rs = s.executeQuery(query);
+        while (rs.next()) {
+            String leaderName = rs.getString("leaderName");
+            System.out.println(leaderName + "\t");
+        }
         return "Successful search";
     }
 	catch(SQLException e){
