@@ -60,8 +60,8 @@ public class Menu{
 					break;
 				case 8:
 					//Call Ana's deletion
-					String result = "check";// action.deletePokemon();
-					System.out.print(result+"\n");	
+					String result = action.deletePokemon();
+					System.out.println(result);	
 					break;
 				case 9:
 					//Call Ivin's deletion
@@ -69,6 +69,7 @@ public class Menu{
 				case 10:
 					//Call quit
 					//close connection
+					conn.close();
 					System.exit(0);
 					break;
 				default:

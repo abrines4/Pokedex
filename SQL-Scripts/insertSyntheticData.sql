@@ -107,6 +107,7 @@ INSERT INTO Performs VALUES(74,'Bulldoze');
 INSERT INTO Performs VALUES(95,'Confusion');
 INSERT INTO Performs VALUES(461,'Scratch');
 INSERT INTO Performs VALUES(615,'Solar Beam');
+INSERT INTO Performs VALUES(615, 'Blizzard');
 
 
 INSERT INTO Appears_In VALUES(45,'Celadon');
