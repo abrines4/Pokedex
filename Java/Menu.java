@@ -48,6 +48,8 @@ public class Menu{
 				case 4:
 					//Call Mason's selection
 				    //Action.listAttackOfGLPoke;
+					String result_4 = action.listAttackOfGLPoke();
+					System.out.println(result_4);	
 					break;
 				case 5:
 					//Call Mason's count

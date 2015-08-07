@@ -28,7 +28,7 @@ public class Action {
 			return "Unsuccessful deletion " + pokemonID;
 		}
 	}
-
+    /*
 	public String listAttackOfGLPoke() { // List of all attacks used by gym leaders’ pokemon
     try {
     	Scanner scan = new Scanner(System.in);
@@ -41,6 +41,7 @@ public class Action {
     	System.err.println ("Error number: " + e.getErrorCode ());
 		return "Unsuccessful search";
 	}
+    }
     /*
    s.executeQuery ("SELECT id, name, category FROM animal");
    ResultSet rs = s.getResultSet ();
@@ -60,6 +61,4 @@ public class Action {
    s.close ();
    System.out.println (count + " rows were retrieved");	
    */	
-
-	} 
 }
