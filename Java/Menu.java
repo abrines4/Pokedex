@@ -15,10 +15,10 @@ public class Menu{
 		conn = DriverManager.getConnection (url, userName, password);
 		Statement s = conn.createStatement();
 		
-		//clear all tables and insert fresh info
-		
-		
 		Action action = new Action(s);
+		
+		//clear all tables and insert fresh info
+		action.resetDB();
 		
 		while(true){
 			try{
