@@ -6,7 +6,7 @@ public class Action {
 	
 	public Action(Statement conn) {s = conn;}
 	
-	public String queryStat(){
+	public String queryStatistics(){
     try{
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the ID number of the Poekmon you would like to survey: ");
