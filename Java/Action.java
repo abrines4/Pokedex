@@ -6,6 +6,22 @@ public class Action {
 	
 	public Action(Statement conn) {s = conn;}
 	
+	public String queryStat(){
+    try{
+		Scanner scan = new Scanner(System.in);
+		System.out.print("Enter the ID number of the Poekmon you would like to survey: ");
+		int pokemonID = scan.nextInt();
+		
+		s.executeQuery("SELECT * FROM Statistics WHERE "+ pokemonID +" =  pokemonID ");
+		return "Successful query。.";
+		}
+		catch(SQLException e){
+			System.err.println ("Error message: " + e.getMessage ());
+       			System.err.println ("Error number: " + e.getErrorCode ());
+			return "Unsuccessful deletion";
+		}
+	}
+	
 	public String deletePokemon(){
     
 		Scanner scan = new Scanner(System.in);
