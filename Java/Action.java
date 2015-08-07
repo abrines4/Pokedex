@@ -28,4 +28,38 @@ public class Action {
 			return "Unsuccessful deletion";
 		}
 	}
+
+	public String listAttackOfGLPoke() { // List of all attacks used by gym leaders’ pokemon
+    try {
+    	Scanner scan = new Scanner(System.in);
+    	System.out.println("You can view all attacks used by your disered gym leaders’ pokemons. All gym leaders are listed as follows.\n Gym leaders:");
+    	s.executeQuery ("SELECT leaderName FROM Gym");
+        return "Successful search";
+    }
+	catch(SQLException e){
+		System.err.println ("Error message: " + e.getMessage ());
+    	System.err.println ("Error number: " + e.getErrorCode ());
+		return "Unsuccessful search";
+	}
+    /*
+   s.executeQuery ("SELECT id, name, category FROM animal");
+   ResultSet rs = s.getResultSet ();
+   int count = 0;
+   while (rs.next ())
+   {
+       int idVal = rs.getInt ("id");
+       String nameVal = rs.getString ("name");
+       String catVal = rs.getString ("category");
+       System.out.println (
+               "id = " + idVal
+               + ", name = " + nameVal
+               + ", category = " + catVal);
+       ++count;
+   }
+   rs.close ();
+   s.close ();
+   System.out.println (count + " rows were retrieved");	
+   */	
+
+	} 
 }

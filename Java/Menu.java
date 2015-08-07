@@ -47,6 +47,7 @@ public class Menu{
 					break;
 				case 4:
 					//Call Mason's selection
+				    //Action.listAttackOfGLPoke;
 					break;
 				case 5:
 					//Call Mason's count

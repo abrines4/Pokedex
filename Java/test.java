@@ -10,9 +10,9 @@ import java.sql.*;
 
            try
            {
-               String userName = "CSNetid";
-               String password = "CSNetpw";
-               String url = "jdbc:mysql://database2.cs.tamu.edu/DB_name";
+               String userName = "database id";
+               String password = "database password";
+               String url = "jdbc:mysql://database2.cs.tamu.edu/mqzhou-pokemon";
                Class.forName ("com.mysql.jdbc.Driver").newInstance ();
                conn = DriverManager.getConnection (url, userName, password);
                System.out.println ("Database connection established");
