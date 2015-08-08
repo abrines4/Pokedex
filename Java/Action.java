@@ -6,55 +6,15 @@ public class Action {
 	
 	public Action(Statement conn) {s = conn;}
 	
-	public String multipleOwners() {
-		try {
-
-			// Prompt user for number of owners per pokemon.
-			Scanner scan = new Scanner(System.in);
-			System.out.print("Enter the number of owners you would like per pokemon: ");
-			int own = scan.nextInt();
-
-			// Execute the Query
-			s.executeQuery("SELECT DISTINCT pokemonName "
-				+ "FROM Pokemon p1 "
-				+ "WHERE ( "
-				+ 	"SELECT COUNT(*) "
-				+	"FROM Owns o1 "
-				+ 	"WHERE p1.pokemonName = o1.pokemonName) "
-				+ ">=" + own + " ORDER BY pokemonName"
-				);
-
-			// Print the results. 
-			ResultSet result = s.getResultSet();
-			int count = 0;
-			System.out.print('\n');
-			while(result.next()){
-				System.out.print(result.getString("pokemonName"));
-				if(!result.isLast()) System.out.print(", ");
-				count++;
-			} 
-
-			// Print the number of results.
-			return("\n \n" + (count) + " rows in set!");
-
-		// End of try
-		} catch(SQLException e){
-			System.err.println ("Error message: " + e.getMessage ());
-	       	System.err.println ("Error number: " + e.getErrorCode ());
-			return "Unsuccessful query";
-		// End of catch
-		}
-	}
-	
 	public String queryStatistics(){
-	   try{
+    try{
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the ID number of the Poekmon you would like to survey: ");
 		int pokemonID = scan.nextInt();
 		
 		s.executeQuery("SELECT * FROM Statistics WHERE "+ pokemonID +" =  pokemonID ");
 		return "Successful query。.";
-	   }
+		}
 		catch(SQLException e){
 			System.err.println ("Error message: " + e.getMessage ());
        			System.err.println ("Error number: " + e.getErrorCode ());
@@ -106,22 +66,39 @@ public class Action {
 	}
     
 	public String listAttackOfGLPoke() { // List of all attacks used by gym leaders’ pokemon
-    Statement stmt = null;
-    String query =
-    	"SELECT leaderName " + 
+    String leader_Name;
+    String query_leaders =
+    	"SELECT " + leader_Name +
     	"FROM Gym";
-
+    String query_listAttackOfGLPoke = 
+        "SELECT DISTINCT attackName " + 
+        "FROM Performs" +
+        "WHERE pokemonID IN ( " +
+        	"SELECT pokemonID " +
+        	"FROM Owns " +
+        	"WHERE trainerName = " + leader_Name +
+        	" ) ORDER BY attackName"
+           
     try {
-    	Scanner scan = new Scanner(System.in);
     	System.out.println("You can view all attacks used by your disered gym leaders’ pokemons. All gym leaders are listed as follows.");
     	System.out.println("Gym leaders:");
-        ResultSet rs = s.executeQuery(query);
+        ResultSet rs_leaderName = s.executeQuery(query);
         while (rs.next()) {
-            String leaderName = rs.getString("leaderName");
-            System.out.println(leaderName + "\t");
+            String leader_Name = rs.getString("leaderName");
+            System.out.println(leader_Name + "\t");
         }
+        System.out.println("Please enter a gym leader's name:");
+        Scanner scan = new Scanner(System.in);
+        leader_Name = scan.nextLine();
+        ResultSet rs_listAttackOfGLPoke = s.executeQuery(query_listAttackOfGLPoke);
+        while (rs.next()) {
+            String attackName = rs.getString("attackName");
+            System.out.println(attackName + "\t");
+        }
+
         return "Successful search";
     }
+    
 	catch(SQLException e){
 		System.err.println ("Error message: " + e.getMessage ());
     	System.err.println ("Error number: " + e.getErrorCode ());
