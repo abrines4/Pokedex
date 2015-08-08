@@ -155,31 +155,32 @@ public class Action {
 	public String listAttackOfGLPoke() { // List of all attacks used by gym leaders’ pokemon
     String leader_Name;
     String query_leaders =
-    	"SELECT " + leader_Name +
+    	"SELECT leaderName " +
     	"FROM Gym";
-    String query_listAttackOfGLPoke = 
-        "SELECT DISTINCT attackName " + 
-        "FROM Performs " +
-        "WHERE pokemonID IN ( " +
-        	"SELECT pokemonID " +
-        	"FROM Owns " +
-        	"WHERE trainerName = " + leader_Name +
-        	" ) ORDER BY attackName"
-           
+
     try {
-    	System.out.println("You can view all attacks used by your disered gym leaders’ pokemons. All gym leaders are listed as follows.");
+    	System.out.println("You can view all attacks performed by your disered gym leaders’ pokemons. All gym leaders are listed as follows.");
     	System.out.println("Gym leaders:");
-        ResultSet rs_leaderName = s.executeQuery(query);
-        while (rs.next()) {
-            String leader_Name = rs.getString("leaderName");
+        ResultSet rs_leaderName = s.executeQuery(query_leaders);
+        while (rs_leaderName.next()) {
+            leader_Name = rs_leaderName.getString("leaderName");
             System.out.println(leader_Name + "\t");
         }
         System.out.println("Please enter a gym leader's name:");
         Scanner scan = new Scanner(System.in);
         leader_Name = scan.nextLine();
-        ResultSet rs_listAttackOfGLPoke = s.executeQuery(query_listAttackOfGLPoke);
-        while (rs.next()) {
-            String attackName = rs.getString("attackName");
+        ResultSet rs_listAttackOfGLPoke = s.executeQuery(
+        "SELECT DISTINCT attackName " + 
+        "FROM Performs " +
+        "WHERE pokemonID IN ( " +
+        	"SELECT pokemonID " +
+        	"FROM Owns " +
+        	"WHERE trainerName = '" + leader_Name +    // attention to ''. SQL command should be trainerName = 'leader_Name' 
+        	"' ) ORDER BY attackName"
+        );
+        System.out.println("all attacks performed by " + leader_Name + " are listed as follows: ");
+        while (rs_listAttackOfGLPoke.next()) {
+            String attackName = rs_listAttackOfGLPoke.getString("attackName");
             System.out.println(attackName + "\t");
         }
 
@@ -193,43 +194,24 @@ public class Action {
 	}
     }
     
-    public String countAttackOfPoke() {
-    	"SELECT COUNT(DISTINCT Performs.attackName) AS Total_attack_number
-        FROM Performs, Evolution
-        WHERE Performs.pokemonID = (
-        	  SELECT Evolution.pokemonID
-        	  FROM Evolution
-        	  WHERE Evolution.evolutionName = 'Pikachu' and Evolution.previousEvolution = 'Pichu');"
-        String leader_Name;
-    String query_leaders =
-    	"SELECT " + leader_Name +
-    	"FROM Gym";
-    String query_listAttackOfGLPoke = 
-        "SELECT DISTINCT attackName " + 
-        "FROM Performs " +
-        "WHERE pokemonID IN ( " +
-        	"SELECT pokemonID " +
-        	"FROM Owns " +
-        	"WHERE trainerName = " + leader_Name +
-        	" ) ORDER BY attackName"
+    /*
+    public int countAttackOfPoke() {	
+        String pokemon_Name;
+        int countAttackOfPoke;
+        String query_listAttackOfGLPoke = 
+        "SELECT COUNT(DISTINCT Performs.attackName) AS Total_attack_number " +
+        "FROM Performs, Pokemon " +
+        "WHERE Pokemon.pokemonID = ( " +
+        	  "SELECT Pokemon.pokemonID " + 
+        	  "FROM Pokemon " +
+        	  "WHERE Pokemon.pokemonName = " + pokemon_Name ;
            
     try {
-    	System.out.println("You can view all attacks used by your disered gym leaders’ pokemons. All gym leaders are listed as follows.");
-    	System.out.println("Gym leaders:");
-        ResultSet rs_leaderName = s.executeQuery(query);
-        while (rs.next()) {
-            String leader_Name = rs.getString("leaderName");
-            System.out.println(leader_Name + "\t");
-        }
-        System.out.println("Please enter a gym leader's name:");
+    	System.out.println("Please enter a pokemon name: ");
         Scanner scan = new Scanner(System.in);
-        leader_Name = scan.nextLine();
-        ResultSet rs_listAttackOfGLPoke = s.executeQuery(query_listAttackOfGLPoke);
-        while (rs.next()) {
-            String attackName = rs.getString("attackName");
-            System.out.println(attackName + "\t");
-        }
-
+        pokemon_Name = scan.nextLine();
+        countAttackOfPoke = s.executeQuery(query_listAttackOfGLPoke);
+        System.out.println("The total number of attacks which " + pokemon_Name + " can perform is " + countAttackOfPoke);
         return "Successful search";
     }
     
@@ -239,6 +221,7 @@ public class Action {
 		return "Unsuccessful search";
 	}   
     }
+    */
 
     /*
    s.executeQuery ("SELECT id, name, category FROM animal");

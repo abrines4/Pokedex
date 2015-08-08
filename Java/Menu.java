@@ -18,7 +18,7 @@ public class Menu{
 		Action action = new Action(s);
 		
 		//clear all tables and insert fresh info
-		action.resetDB();
+		//action.resetDB();
 		
 		while(true){
 			try{
