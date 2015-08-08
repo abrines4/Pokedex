@@ -43,7 +43,8 @@ public class Menu{
 					//Call Patrick's selection
 					break;
 				case 3:
-					//Call Landon's selection
+					//Call Landon's selection ( Pokemon with multiple owners )
+					System.out.println(action.multipleOwners());
 					break;
 				case 4:
 					//Call Mason's selection
