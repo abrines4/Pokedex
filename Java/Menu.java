@@ -56,7 +56,8 @@ public class Menu{
 					//Call Mason's count
 					break;
 				case 6:
-					//Call Landon's update
+					//Call Landon's update (Update trainerType)
+					System.out.println(action.trainerType());
 					break;
 				case 7:
 					//Call Landon's update
