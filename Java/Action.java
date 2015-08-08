@@ -6,6 +6,53 @@ public class Action {
 	
 	public Action(Statement conn) {s = conn;}
 	
+	public String trainerType() {	
+		try{
+
+			// Provide the user with a list of trainers
+			Scanner scan = new Scanner(System.in);
+			System.out.print("Here is a list of the trainers known: \n \n");
+
+			// Execute the query output the results of the trainers
+			String trainerQuery = ""
+			  +	"SELECT DISTINCT trainerName "
+			  + "FROM Trainer";
+			 s.executeQuery(trainerQuery);
+			 ResultSet results = s.getResultSet();
+
+			// output the results of the trainers
+			while(results.next()){
+				System.out.print(results.getString("trainerName"));
+				if(!results.isLast()) System.out.print(", ");
+			} System.out.print("\n \n");
+
+			// Prompt the user for which trainer they would like to update
+			System.out.print("Which trainer would you like to update: ");
+			String trainerChoice = scan.nextLine();
+
+			// Prompt the user for what type they would like to update the trainer as...
+			System.out.print("What type of trainer would you like him/her to be: ");
+			String trainerType = scan.nextLine();
+
+			// Update the Trainer
+			s.executeUpdate("UPDATE Trainer "
+			  + "SET trainerType = " + trainerType + " "
+			  + "WHERE trainerName = " + trainerChoice);
+
+			// Working example:
+			// UPDATE Trainer SET trainerType = 'test' WHERE trainerName = 'Zoey';
+			
+			return ("\n Update has been made!\n");
+
+		// End of try
+		} catch(SQLException e){
+			System.err.println("Error message: " + e.getMessage());
+			System.err.println("Error number: " + e.getErrorCode());
+			return "Unsuccessful Update, possible typo.";
+		// End of Catch
+		}
+	} // End of trainerType
+	
 	public String queryStatistics(){
     try{
 		Scanner scan = new Scanner(System.in);
