@@ -34,12 +34,12 @@ CREATE TABLE IF NOT EXISTS PokemonType (
 
 CREATE TABLE IF NOT EXISTS Statistics (
 	pokemonID INT PRIMARY KEY,
-	defense INT,
-	attack INT,
-	speed INT,
 	hp INT,
+	attack INT,
+	defense INT,
 	specialAttack INT,
-	specialDefense INT
+	specialDefense INT,
+	speed INT
 );
 
 CREATE TABLE IF NOT EXISTS Weaknesses (
