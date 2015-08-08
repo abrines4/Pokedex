@@ -159,7 +159,7 @@ public class Action {
     	"FROM Gym";
     String query_listAttackOfGLPoke = 
         "SELECT DISTINCT attackName " + 
-        "FROM Performs" +
+        "FROM Performs " +
         "WHERE pokemonID IN ( " +
         	"SELECT pokemonID " +
         	"FROM Owns " +
@@ -192,6 +192,54 @@ public class Action {
 		return "Unsuccessful search";
 	}
     }
+    
+    public String countAttackOfPoke() {
+    	"SELECT COUNT(DISTINCT Performs.attackName) AS Total_attack_number
+        FROM Performs, Evolution
+        WHERE Performs.pokemonID = (
+        	  SELECT Evolution.pokemonID
+        	  FROM Evolution
+        	  WHERE Evolution.evolutionName = 'Pikachu' and Evolution.previousEvolution = 'Pichu');"
+        String leader_Name;
+    String query_leaders =
+    	"SELECT " + leader_Name +
+    	"FROM Gym";
+    String query_listAttackOfGLPoke = 
+        "SELECT DISTINCT attackName " + 
+        "FROM Performs " +
+        "WHERE pokemonID IN ( " +
+        	"SELECT pokemonID " +
+        	"FROM Owns " +
+        	"WHERE trainerName = " + leader_Name +
+        	" ) ORDER BY attackName"
+           
+    try {
+    	System.out.println("You can view all attacks used by your disered gym leaders’ pokemons. All gym leaders are listed as follows.");
+    	System.out.println("Gym leaders:");
+        ResultSet rs_leaderName = s.executeQuery(query);
+        while (rs.next()) {
+            String leader_Name = rs.getString("leaderName");
+            System.out.println(leader_Name + "\t");
+        }
+        System.out.println("Please enter a gym leader's name:");
+        Scanner scan = new Scanner(System.in);
+        leader_Name = scan.nextLine();
+        ResultSet rs_listAttackOfGLPoke = s.executeQuery(query_listAttackOfGLPoke);
+        while (rs.next()) {
+            String attackName = rs.getString("attackName");
+            System.out.println(attackName + "\t");
+        }
+
+        return "Successful search";
+    }
+    
+	catch(SQLException e){
+		System.err.println ("Error message: " + e.getMessage ());
+    	System.err.println ("Error number: " + e.getErrorCode ());
+		return "Unsuccessful search";
+	}   
+    }
+
     /*
    s.executeQuery ("SELECT id, name, category FROM animal");
    ResultSet rs = s.getResultSet ();
