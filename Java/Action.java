@@ -6,6 +6,46 @@ public class Action {
 	
 	public Action(Statement conn) {s = conn;}
 	
+	public String multipleOwners() {
+		try {
+
+			// Prompt user for number of owners per pokemon.
+			Scanner scan = new Scanner(System.in);
+			System.out.print("Enter the number of owners you would like per pokemon: ");
+			int own = scan.nextInt();
+
+			// Execute the Query
+			s.executeQuery("SELECT DISTINCT pokemonName "
+				+ "FROM Pokemon p1 "
+				+ "WHERE ( "
+				+ 	"SELECT COUNT(*) "
+				+	"FROM Owns o1 "
+				+ 	"WHERE p1.pokemonName = o1.pokemonName) "
+				+ ">=" + own + " ORDER BY pokemonName"
+				);
+
+			// Print the results. 
+			ResultSet result = s.getResultSet();
+			int count = 0;
+			System.out.print('\n');
+			while(result.next()){
+				System.out.print(result.getString("pokemonName"));
+				if(!result.isLast()) System.out.print(", ");
+				count++;
+			} 
+
+			// Print the number of results.
+			return("\n \n" + (count) + " rows in set!");
+
+		// End of try
+		} catch(SQLException e){
+			System.err.println ("Error message: " + e.getMessage ());
+	       	System.err.println ("Error number: " + e.getErrorCode ());
+			return "Unsuccessful query";
+		// End of catch
+		}
+	}
+	
 	public String trainerType() {	
 		try{
 
