@@ -6,6 +6,66 @@ public class Action {
 	
 	public Action(Statement conn) {s = conn;}
 	
+	public String queryStatistics1(){
+    	try{
+			System.out.print("\n Look up for the pokemon and show its 'name' and 'hp' attribute.\n" );
+			System.out.print(" You can find pokemons who has a specific weakness.\n"); 
+			System.out.print("Fire = 1, Water = 2, Ice = 3, Flying = 4, Steel = 5 \n");
+			System.out.print("Please enter the value for weakness: ");
+			Scanner scan = new Scanner(System.in);
+			int weakNUM = scan.nextInt();
+			String weakAttr;
+
+			switch(weakNUM){
+				case 1:		weakAttr = "Fire";		break;
+				case 2:		weakAttr = "Water";		break;
+				case 3:		weakAttr = "Ice";		break;
+				case 4:		weakAttr = "Flying";	break;
+				case 5:		weakAttr = "Steel";		break;				 
+				default:	weakAttr = "Fire";	
+			}
+
+			System.out.print(" \nThen, you can find the pokemons whose defense value is lower than a value (1~10).\n"); 
+			System.out.print("Please enter the value for defense: ");
+			Scanner scan1 = new Scanner(System.in);
+			int defNUM = scan1.nextInt();
+
+
+		/*String query = "SELECT pokemonID " +  
+												"FROM Weaknesses " + 
+												"WHERE weakness = '"+weakAttr+ "'";
+		*/	
+			
+			String query =  " SELECT pokemonID, pokemonName, hp " + 
+							" FROM Pokemon NATURAL JOIN Statistics AS T1 " + 
+							" WHERE defense < " + defNUM + 
+							" AND T1.pokemonID IN (SELECT pokemonID " +  
+												" FROM Weaknesses " + 
+												" WHERE weakness = '1"+weakAttr+ "' ) "; 
+							
+
+			ResultSet rs1 = s.executeQuery(query);
+
+			// print query result
+			int counter =0;
+			System.out.print('\n');
+			System.out.println( "pokemonID\t pokemonName\t hp" );
+			while ( rs1.next()) {	
+				int 	pID = rs1.getInt("pokemonID");
+				String 	pName = rs1.getString("pokemonName");
+            	int 	pHP = rs1.getInt("hp");
+            	System.out.println( pID + "\t\t" + pName + "\t" + pHP );
+			}
+			System.out.print('\n');
+			return "Successful query for queryStatistics1.";
+		}
+		catch(SQLException e){
+			System.err.println ("Error message: " + e.getMessage ());
+       			System.err.println ("Error number: " + e.getErrorCode ());
+			return "Unsuccessful queryStatistics1";
+		}
+	}
+	
 	public String multipleOwners() {
 		try {
 
