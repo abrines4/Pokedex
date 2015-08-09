@@ -41,8 +41,11 @@ public class Menu{
 					String result_1 = action.queryStatistics1();
 					System.out.println(result_1);
 					break;
+	
 				case 2:
 					//Call Patrick's selection
+					String result_2 = action.queryGym();
+					System.out.println(result_2);
 					break;
 				case 3:
 					//Call Landon's selection ( Pokemon with multiple owners )
