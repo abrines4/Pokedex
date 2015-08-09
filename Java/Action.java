@@ -175,8 +175,8 @@ public class Action {
 
 			// Update the Trainer
 			s.executeUpdate("UPDATE Trainer "
-			  + "SET trainerType = " + trainerType + " "
-			  + "WHERE trainerName = " + trainerChoice);
+			  + "SET trainerType = '" + trainerType + "' "
+			  + "WHERE trainerName = '" + trainerChoice + "'");
 
 			// Working example:
 			// UPDATE Trainer SET trainerType = 'test' WHERE trainerName = 'Zoey';
