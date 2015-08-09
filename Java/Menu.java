@@ -68,6 +68,7 @@ public class Menu{
 					break;
 				case 7:
 					//Call Landon's update
+					System.out.println(action.pokemonStat());
 					break;
 				case 8:
 					//Call Ana's deletion
