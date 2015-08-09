@@ -312,7 +312,9 @@ public class Action {
     	"SELECT leaderName " +
     	"FROM Gym";
 
+   
     try {
+    	// print all the gym leaders name
     	System.out.println("You can view all attacks performed by your disered gym leaders’ pokemons. All gym leaders are listed as follows.");
     	System.out.println("Gym leaders:");
         ResultSet rs_leaderName = s.executeQuery(query_leaders);
@@ -320,9 +322,11 @@ public class Action {
             leader_Name = rs_leaderName.getString("leaderName");
             System.out.println(leader_Name + "\t");
         }
+        // print all attacks of the pokemon input by user.
         System.out.println("Please enter a gym leader's name:");
         Scanner scan = new Scanner(System.in);
         leader_Name = scan.nextLine();
+        // use Resultset to collect SQL query result
         ResultSet rs_listAttackOfGLPoke = s.executeQuery(
         "SELECT DISTINCT attackName " + 
         "FROM Performs " +
@@ -333,6 +337,7 @@ public class Action {
         	"' ) ORDER BY attackName"
         );
         System.out.println("all attacks performed by " + leader_Name + "'s pokemon(s) are listed as follows: ");
+        // rs_listAttackOfGLPoke is a resultset object. we use while loop to go through all the results
         while (rs_listAttackOfGLPoke.next()) {
             attackName = rs_listAttackOfGLPoke.getString("attackName");
             System.out.println(attackName + "\t");
@@ -348,7 +353,7 @@ public class Action {
 	}
     }
     
-    
+    // this method is used for case 5 in Menu.java. Count how many attacks a Pokemon can perform
     public String countAttackOfPoke() {	
         String pokemon_Name;
         int countAttackOfPoke;
