@@ -56,6 +56,70 @@ public class Action {
 		}
 	}
 	*/
+	
+	public String pokemonStat() {
+		try{
+
+			// Provide the user with a list of pokemon
+			Scanner scan = new Scanner(System.in);
+			System.out.print("Here is a list of the Pokemon known: \n \n");
+
+			// Execute the query output the results of the pokemon
+			String pokemonQuery = ""
+			  + "SELECT DISTINCT pokemonName, pokemonID "
+			  + "FROM Pokemon "
+			  + "ORDER BY pokemonName";
+			 s.executeQuery(pokemonQuery);
+			 ResultSet results = s.getResultSet();
+
+			// output the results of the pokemon
+			while(results.next()){
+				System.out.print(results.getString("pokemonName") + ", ");
+				System.out.println(results.getInt("pokemonID"));
+			} System.out.print("\n \n");
+
+			// Prompt the user for which pokemon they would like to update
+			System.out.print("Which Pokemon would you like to update (ID only): ");
+			int pokemonChoice = scan.nextInt();
+
+			// Prompt the user for what type they would like to update the trainer as...
+			System.out.println("Here are the different base stats a Pokemon has: ");
+			System.out.println("Defense, Attack, Speed, Hp, Specialattack, Specialdefense.");
+			System.out.print("Which stat would you like to update?: ");
+			scan.nextLine();
+			String statType = scan.nextLine();
+
+			// Format stat type to DB standard
+			statType = statType.toLowerCase();
+			statType = statType.replaceAll("\\s+", "");
+			if(statType.length()>6) {
+				String part1 = statType.substring(0,7);
+				String part2 = statType.substring(7,8);
+				part2 = part2.toUpperCase();
+				String part3 = statType.substring(8);
+				statType = part1 + part2 + part3;
+			} 			
+
+			// Prompt the user for the new stat value
+			System.out.print("What would you like the base stat to be?: ");
+			int newStat = scan.nextInt();
+
+			// Update the Pokemon
+			s.executeUpdate("UPDATE Statistics "
+			  + "SET " + statType + " = " + newStat + " "
+			  + "WHERE pokemonID = " + pokemonChoice);
+
+			// UPDATE Trainer SET trainerType = 'Slut' WHERE trainerName = 'Zoey';
+
+			return ("\n Update has been made!\n");
+
+		} catch(SQLException e){
+			System.err.println("Error meesage: " + e.getMessage());
+			System.err.println("Error number: " + e.getErrorCode());
+			return "Unsuccessful Update, possible typo.";
+		}
+	}
+	
 	// execute queries based on the pokemon's statistics.
 	public String queryStatistics1(){
     	try{
