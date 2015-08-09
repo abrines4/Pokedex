@@ -20,7 +20,7 @@ public class Action {
 				case 1:		weakAttr = "Fire";		break;
 				case 2:		weakAttr = "Water";		break;
 				case 3:		weakAttr = "Ice";		break;
-				case 4:		weakAttr = "Flying";	break;
+				case 4:		weakAttr = "Flying";		break;
 				case 5:		weakAttr = "Steel";		break;				 
 				default:	weakAttr = "Fire";	
 			}
@@ -29,19 +29,13 @@ public class Action {
 			System.out.print("Please enter the value for defense: ");
 			Scanner scan1 = new Scanner(System.in);
 			int defNUM = scan1.nextInt();
-
-
-		/*String query = "SELECT pokemonID " +  
-												"FROM Weaknesses " + 
-												"WHERE weakness = '"+weakAttr+ "'";
-		*/	
 			
 			String query =  " SELECT pokemonID, pokemonName, hp " + 
 							" FROM Pokemon NATURAL JOIN Statistics AS T1 " + 
 							" WHERE defense < " + defNUM + 
 							" AND T1.pokemonID IN (SELECT pokemonID " +  
 												" FROM Weaknesses " + 
-												" WHERE weakness = '1"+weakAttr+ "' ) "; 
+												" WHERE weakness = '"+weakAttr+ "' ) "; 
 							
 
 			ResultSet rs1 = s.executeQuery(query);
@@ -49,7 +43,7 @@ public class Action {
 			// print query result
 			int counter =0;
 			System.out.print('\n');
-			System.out.println( "pokemonID\t pokemonName\t hp" );
+			System.out.println( "pokemonID\t pokemonName\t hp\n" );
 			while ( rs1.next()) {	
 				int 	pID = rs1.getInt("pokemonID");
 				String 	pName = rs1.getString("pokemonName");
@@ -63,6 +57,50 @@ public class Action {
 			System.err.println ("Error message: " + e.getMessage ());
        			System.err.println ("Error number: " + e.getErrorCode ());
 			return "Unsuccessful queryStatistics1";
+		}
+	}
+
+	public String queryGym(){
+    	try{
+			System.out.print("\n Look up for the pokemon that appear in the specific gym.\n" );
+			System.out.print("Choices for gyms: Icirrus = 1, Pewter = 2, Dewford = 3 \n");
+			System.out.print("Please enter the number for gym: ");
+			Scanner scan = new Scanner(System.in);
+			int gymNUM = scan.nextInt();
+			String gymAttr;
+
+			switch(gymNUM){
+				case 1:		gymAttr = "Icirrus";		break;
+				case 2:		gymAttr = "Pewter";		break;
+				case 3:		gymAttr = "Dewford";		break;		 
+				default:	gymAttr = "Icirrus";	
+			}
+			
+			String query =  " SELECT gymName, pokemonID, pokemonName " + 
+							" FROM Pokemon AS T1 NATURAL JOIN " + 
+								" (SELECT gymName, pokemonID " + 
+								" FROM Appears_In NATURAL JOIN Gym " +  
+								" WHERE gymName= '"+ gymAttr+ "' ) AS T2 ";
+
+			ResultSet rs2 = s.executeQuery(query);
+
+			// print query result
+			int counter =0;
+			System.out.print('\n');
+			System.out.println( "gymName\t pokemonID\tpokemonName\t \n" );
+			while ( rs2.next()) {	
+				String 	gName = rs2.getString("gymName");
+				int 	pID = rs2.getInt("pokemonID");
+				String 	pName = rs2.getString("pokemonName");
+            	System.out.println( gName + "\t\t"  + pID + "\t" + pName);
+			}
+			System.out.print('\n');
+			return "Successful query for queryGym.";
+		}
+		catch(SQLException e){
+			System.err.println ("Error message: " + e.getMessage ());
+       			System.err.println ("Error number: " + e.getErrorCode ());
+			return "Unsuccessful queryGym";
 		}
 	}
 	
