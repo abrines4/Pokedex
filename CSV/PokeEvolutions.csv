@@ -1,275 +1,247 @@
-1, Bulbasaur,16, Normal, Egg, Venusaur
-2, Ivysaur,32, Normal, Bulbasaur, Venusaur
-3, Venusaur, NULL, NULL, Ivysaur, NULL
-4, Charmander,16, Normal, Egg, Charmeleon
-5, Charmeleon,36, Normal, Charmander, Charizard
-6, Charizard, NULL, NULL, Charmeleon, NULL
-7, Squirtle,16, Normal, Egg, Wartotle
-8, Wartotle,36, Normal, Squirtle, Blastoise
-9, Blastoise, NULL, NULL, Wartotle, NULL
-10, Caterpie,7, Normal, Egg, Metapod
-11, Metapod,10, Normal, Caterpie, Butterfree
-12, Butterfree, NULL, NULL, Metapod, NULL
-13, Weedle,7, Normal, Egg, Kakuna
-14, Kakuna,10, Normal, Caterpie, Beedrill
-15, Beedrill, NULL, NULL, Kakuna, NULL
-16, Pidgey,18, Normal, Egg, Pidgeotto
-17, Pidgeotto,36, Normal, Pidgey, Pidgeot
-18, Pidgeot, NULL, NULL, Pidgeotto, NULL
-19, Rattata,20, Normal, Egg, Raticate
-20, Raticate,NULL, NULL,Rattata, NULL
-21,Spearow,20,Normal,Egg,Fearow
-22,Fearow,NULL,NULL,Spearow,NULL
-23,Ekans,22,Normal,Egg,Arbok
-24,Arbok,NULL,NULL, Ekans, NULL
-25,Pikachu,NULL,Thunderstone,Pichu,Raichu
-26,Raichu,NULL,NULL,Pikachu,NULL
-27,Sandshrew,22,Normal,Egg,Sandslah
-28,Sandslash,NULL,NULL,Sandshrew, NULL
-29, Nidoran,16,Normal,EggL,Nidorina
-30,Nidorina, NULL, Moon Stone, Nidoran, Nidoqueen 
-31, Nidoqueen, NULL, NULL, Nidorina, NULL
-32, Nidoran,16, Normal, Egg, Nidorino
-33, Nidorino, NULL, Moon Stone, Nidoran, Nidoqueen
-34, Nidoking, NULL, NULL, Nidorino, NULL
-35, Clefairy, NULL, Moon Stone, Cleffa, Clefable
-36, Clefable, NULL, NULL, Clefairy,NULL
-37, Vulpix, NULL,Moon Stone,Egg,Ninetails
-38, Ninetails,NULL, NULL, Vulpix,NULL
-39, Jigglypuff,NULL, Moon Stone, Igglybuff, Wigglytuff
-40, Wigglytuff, NULL, NULL, Jigglypuff, NULL
-41, Zubat,22,Normal, Egg, Golbat
-42, Golbat,NULL, Friendship, Zubat, Crobat
-43, Oddish,21, Normal, Egg, Gloom
-44, Gloom, NULL, Leaf Stone, Oddish, Vileplume
-45, Vileplume, NULL, NULL, Gloom , NULL
-46, Paras,24,Normal,Egg,Parasect
-47,Parasect,NULL,NULL,Paras,NULL
-48, Venonat,31,Normal,Egg,Venomoth
-49, Venomoth, NULL, NULL, Venonat, NULL
-50, Diglett,26, Normal,Egg, Dugtrio
-51, Dugtrio, NULL,NULL Diglett, NULL,
-52,Meowth,28,Normal,Egg,Persian
-53, Persian,NULL,NULL,Meowth,NULL
-54, Psyduck,33, Normal, Egg,Golduck
-55, Golduck, NULL,NULL, Psyduck, NULL
-56, Mankey,28, Normal, Egg, Primeape
-57,Primeape,NULL,NULL,Mankey, NULL
-58, Growlithe, NULL, Fire Stone, Egg, Arcanine
-59, Arcanine, NULL, NULL, Growlithe, NULL
-60, Poliwag,25, Normal, Egg, Poliwhirl
-61, Poliwhirl, NULL, Water Stone, Poliwag, Poliwhirl
-62, Poliwrath, NULL, NULL, Poliwhirl,NULL
-63, Abra,16, Normal, Egg, Kadabra
-64, Kadabra, NULL, Trade, Abra, Alakazam
-65, Alakazam, NULL, NULL, Kadabra, NULL
-66, Machop,28, Normal, Egg, Machoke
-67, Machoke, NULL, Trade, Machop, Machamp
-68, Machamp, NULL, NULL, Machop, NULL
-69, Bellsprout,21, Normal, Egg, Weepinbell
-70, Weepinbell, NULL, Leaf Stone, Bellsprout, Victreebel
-71, Victreebel, NULL, NULL, Weepinbell, NULL
-72, Tentacool,30, Normal, Egg, Tentacruel
-73, Tentacruel, NULL, NULL, Tenacool, NULL
-74, Geodude,25, Normal, Egg, Graveler
-75, Graveler, NULL, Trade, Geodude, Golem 
-76, Golem, NULL, NULL, Graveler, NULL
-77, Ponyta,40, Normal,Egg, Rapidash
-78, Rapidash, NULL, NULL,Ponyta, NULL
-79, Slowpoke,37, Normal, Egg, Slowbro
-80, Slowbro, NULL, NULL,Slowbro, NULL
-81, Magnemite,30,Normal,Egg,Magneton
-82,Magneton,NULL, Chargestone Cave,Magnemite,Magnezone
-83,Farfetchd,NULL,NULL,Egg,NULL
-84, Doduo,31,Normal,Egg,Dodrio
-85, Dodrio, NULL,NULL,Doduo,NULL
-86, Seel,34, Normal, Egg, Dewgong
-87, Dewgong, NULL, NULL, Seel, NULL
-88, Grimer,38, Normal, Egg, Muk
-89, Muk, NULL, NULL, Grimer, NULL
-90, Shellder, NULL, Water Stone, Egg, Cloyster
-91, Cloyster, NULL,NULL, Shellder,NULL
-92, Gastly,22, Normal, Egg, Hunter
-93, Hunter, NULL, Trade, Gastly, Gengar
-94, Gengar,NULL,NULL,Hunter, NULL
-95, Onix, NULL, Trade holding Metal Coat, Egg,Steelix
-96, Drowzee,26, Normal, Egg, Hypno
-97, Hypno, NULL,NULL,Drowzee,NULL
-98, Krabby,28,Normal,Egg,Kingler
-99,Kingler,NULL,NULL,Krabby,NULL
-100, Voltorb,30, Normal, Egg,Electrode
-101, Electrode, NULL,NULL, Voltorb, NULL
-102, Exeggcute, NULL, Leaf Stone, Egg, Exeggutor
-103, Exeggutor, NULL,NULL,Exeggcute,NULL
-104, Cubone,28, Normal, Egg, Marowak
-105, Marowak, NULL,NULL,Cubone,NULL
-106, Hitmonlee, NULL,NULL, Tyrogue,NULL
-107, Hitmonchan, NULL,NULL, Tyrogue,NULL
-108, Lickitung, NULL,Level up knowing Rollout, Egg, Lickilicky
-109, Koffing,35, Normal, Egg, Weezing
-110, Weezing, NULL,NULL Koffing, NULL,
-111, Rhyhorn,42,Normal, Egg, Rhydon
-112, Rhydon, NULL, Trade holding Protector, Rhyhorn, Rhyperior
-113, Chansey, NULL, Friendship, Happiny, Blissey
-114, Tangela, NULL, Level up knowing Ancient Power, Egg, Tangrowth
-115, Kangaskhan,NULL,NULL,Egg,NULL
-116, Horsea,32, Normal, Egg, Seadra
-117, Seadra, NULL, Trade holding Dragon Scale, Horsea, Kingdra
-118, Goldeen,33, Normal, Egg, Seaking
-119, Seaking, NULL,NULL,Goldeen, NULL
-120, Staryu, NULL, Water Stone, Egg, Starmie
-121, Starmie, NULL,NULL, Staryu, NULL
-122, Mr.Mime, NULL,NULL, Mime Jr. , NULL
-123, Scyther, NULL, Trade holding Metal Coat, Egg,Scizor
-124, Jynx, NULL,NULL, Smoochum,NULL
-125, Electabuzz, NULL, Trade holding Electirizer, Elekid, Electivire
-126, Magmar, NULL,Trade holding Magmarizer, Magby, Magmortar
-127, Pinsir,NULL,NULL, Egg,NULL
-128, Tauros, NULL,NULL,Egg,NULL
-129, Magikarp,20, Normal, Egg, Gyarados
-130, Gyarados, NULL,NULL,Magikarp,NULL
-131, Lapras,NULL,NULL,Egg,NULL
-132, Ditto,NULL,NULL,Egg,NULL
-133, Eevee, NULL,Water Stone, Egg, Vaporeon
-134, Vaporeon, NULL,NULL,Eevee,NULL
-137, Porygon, NULL, Trade holding Up-Grade, Unknown, Porygon2
-138, Omanyte,40, Normal , Fossil, Omastar
-139, Omastar, NULL,NULL,Omanyte,NULL
-140, Kabuto,40, Normal, Fossil, Kabutops
-141, Kabutops,NULL,NULL,Kabuto,NULL
-142, Aerodactyl, NULL,NULL,Fossil,NULL
-143, Snorlax, NULL,NULL,Munchlax,NULL
-144, Articuno, NULL,NULL,Unknown,NULL
-145, Zapdos, NULL,NULL,Unknown,NULL
-146, Moltres,NULL,NULL,Unknown,NULL
-147, Dratini,30, Normal, Egg, Dragonair
-148, Dragonair,55, Normal, Dratini, Dragonite
-149, Dragonite, NULL,NULL,Dragonair,NULL
-150, Mewtwo, NULL,NULL,Unknown,NULL
-151, Mew,NULL,NULL,Unknown,NULL
-,,,,,
-These have to be added if possible,,,,,
-165, Ledyba,18, Normal, Egg, Ledian
-166, Ledian,NUll,NUll,Ledyba,NUll
-169, Crobat, NULL,NULL,Golbat, NULL
-172,Pichu,NULL,Friendship,Egg,Pikachu
-173, Cleffa, NULL,Friendship,Egg,Clefairy
-174, Igglypuff, NULL, Friendship, Egg, Jigglypuff
-191, Sunkern, NULL, Sun Stone, Egg, Sunflora
-192, Sunflora,NULL,NULL,Sunkern,NULL
-202, Wobbuffet, NUll,NUll, Wynaut,NUll
-203, Girafarig,NUll,NUll,Egg,NUll
-208, Steelix, NULL,NULL,Onix,NULL
-212, Scizor, NULL,NULL,Scyther,NULL
-214, Heracross, NULL,NULL,Egg,NULL
-215, Sneasel, NULL, Level up holding Razor Claw, Egg,Weaville
-227, Skarmory, NULL,NULL,Egg,NULL
-228, Houndour,24, Normal, Egg, Houndoom
-229, Houndoom,NULL,NULL,Houndour,NULL
-230, Kingdra,NULL,NULL,Seadra,NULL
-233, Porygon2, NULL, Trade with Dubious Disc, Porygon, Porygon-Z
-236, Tyrogue,20, Attack > Defense, Egg,Hitmonlee
-238, Smoochum,30,Normal, Egg, Jynx
-239, Elekid,30,Normal, Egg, Electabuzz
-240, Magby,30, Normal, Egg, Magmar
-241, Miltank, NULL,NULL,Egg,NULL
-242, Blissey,NULL,NULL,Chansey,NULL
-258, Mudkip,16, Normal, Egg, Marshtomp
-259, Marshtomp,36, Normal, Mudkip, Swampert
-260, Swampert,NULL,NULL,Marshtomp,NULL
-265,Wurmple,7,Normal, Egg, silcoon
-266,Silcoon,10,Normal, Wurmple,Beautifly
-267, Beautifly, NULL,NULL,Silcoon,NULL
-273, Seedot,14, Normal, Egg, Nuzleaf
-274, Nuzleaf, NULL, Leaf Stone, Seedot, Shiftry
-275, Shiftry, NULL,NULL,Nuzleaf,NULL
-278, Wingull,25, Normal, Egg, Pelipper
-279, Pelipper, NULL,NULL,Wingull,NULL
-287, Slakoth,18, Normal, Egg, Vigoroth
-288, Vigoroth,36, Normal, Slakoth, Slaking
-289, Slaking, NULL,NULL, Vigoroth, NULL
-300, Skitty, NULL, Moon Stone, Egg, Delcatty
-301, Delcatty, NULL,NULL,Skitty,NULL
-302,Sableye,NULL,NULL,Egg,NULL
-311, Plusle,NULL,NULL,Egg,NULL
-314, Illumise, NUll,NUll,Egg,NUll
-320, Wailmer,40, Normal, Egg, Wailord
-321, Wailord, NULL,NULL, Wailmer,NULL
-324, Torkoal,NUll,NUll, Egg, NUll
-327, Spinda, NULL,NULL, Egg,NULL
-333, Swablu,35, Normal, Egg, Altaria
-334, Altaria,NULL,NULL,Swablu,NULL
-337, Lunatone,NULL,NULL, Unknown,NULL
-347, Anorith,40, Normal, Fossil, Armaldo
-348, Armaldo, NULL,NULL,Anorith, NULL
-349, Feebas, NULL, Level up with High Beauty,Egg, Milotic
-350, Milotic, NULL,NULL, Feebas,NULL
-360, Wynaut,15, Normal, Egg, Wobbuffet
-387, Turtwig,18, Normal, Egg, Grottle
-388, Grottle,32, Normal, Turtwig, Torterra
-389, Torterra, NUll,NUll,Grottle,NUll
-390, Chimchar,14, Normal, Egg, Monferno
-391, Monferno,36, Normal, Chimchar, Infernape
-392, Infernape, NUll,NUll, Monferno,NUll
-431, Glameow,38, Normal, Egg, Purugly
-432, Purugly,NULL,NULL,Glameow,NULL
-439, Mime Jr. , NULL, Level up knowing Mimic, Egg, Mr.Mime
-440, Happiny, NULL, Level up holding Oval Stone(Daytime), Egg, Chansey
-446, Munchlax, NULL,Friendship,Egg,Snorlax
-447, Riolu, NULL, Friendship(Daytime), Egg, Lucario
-448, Lucario, NULL,NULL, Riolu,NULL
-461, Weavile,NULL,NULL,Sneasel,NULL
-462, Magnezone,NULL,NULL,Magneton,NULL
-463, Lickilicky, NULL,NULL,Lickitung, NULL
-464, Rhyperior,NULL,NULL,Rhydon,NULL
-465, Tangrowth,NULL,NULL,Tangela,NULL
-466, Electivire,NULL,NULL, Electabuzz,NULL
-467, Magmortar,NULL,NULL,Magmar,NULL
-474, Porygon-Z,NULL,NULL,Porygon2,NULL
-501,Oshawott,17, Normal, Egg, Dewott
-502, Dewott,36, Normal, Oshawott, Samurott
-503,Samurott,NUll,NUll,Dewott,NUll
-504, Patrat,20,Normal,Egg, Watchog
-505, Watchog,NULL,NULL,Patrat,NULL
-548, Petilil, NULL, Sun Stone, Egg, Lilligant
-549, Lilligant, NULL,NULL,Petilil,NULL
-561, Sigilyph, NULL,NULL, Egg,NULL
-580, Ducklett,35,Normal,Egg, Swanna
-581, Swanna,NULL,NULL,Swanna,NULL
-587, Emolga, NUll,NUll,Egg,NUll
-621, Drudigon,NUll,NUll, Egg, NUll
-650, Chespin,16, Normal,Egg,Quilladin
-651, Quilladin,36,Normal,Chespin,Chesnaught
-652, Chesnaught, NULL,NULL, Quilladin,NULL
-664, Scatterbug,9,Normal,Egg,Spewpa
-665,Spewpa,12,Normal,Scatterbug,Vivillon
-666,Vivillon,NULL,NULL,Spewpa,NULL
-698, Amaura,39,Evolve at night, Egg, Aurorus
-699, Aurorus, NULL,NULL,Amaura,NULL
-,,,,,
-,,,,,
-,,,,,
-Dont do these!,,,,,
-44, Gloom, NULL, Sun Stone, Oddish, Bellossom
-61, Poliwhirl, NULL, Trade holding Kings Rock, Poliwag, Poliwhirl
-79, Slowpoke,NULL, Trade holding Kings Rock, Egg,Slowking
-133, Eevee, NULL,Thunder Stone, Egg, Jolteon
-133, Eevee, NULL,Fire Stone, Egg, Flareon
-133, Eevee, NULL,Friendship(Day), Egg, Espeon
-133, Eevee, NULL,Friendship(Night), Egg, Umbreon
-133, Eevee, NULL,Level up near Moss Rock, Egg, Leafeon
-133, Eevee, NULL,Level up near Ice Rock, Egg, Glaceon
-133, Eevee, NULL,Level up with affection and knowing fairy-type move, Egg, Sylveon
-135, Jolteon,NULL,NULL,Eevee,NULL
-136, Flareon, NULL,NULL, Eevee,NULL
-182, Bellossom, NULL,NULL, Gloom, NULL
-186, Politoed, NULL, NULL, Poliwhirl, NULL
-196, Espeon,NULL,NULL,Eevee,NULL
-197, Umbreon,NULL,NULL,Eevee,NULL
-199, Slowking, NULL, NULL, Slowpoke,NULL
-236, Tyrogue,20, Attack < Defense, Egg,Hitmonchan
-236, Tyrogue,20, Attack = Defense, Egg,Hitmontop
-237, Hitmontop, NULL,NULL, Tyrogue,NULL
-470, Leafeon,NULL,NULL,Eevee,NULL
-471, Glaceon,NULL,NULL,Eevee,NULL
-700, Sylveon,NULL,NULL,Eevee,NULL
+'pokemonID',' evolutionName',' levelOfEvolution',' evolutionType',' previousEvolution',' postEvolution'
+1,' Bulbasaur',16,' Normal',' Egg',' Venusaur'
+2,' Ivysaur',32,' Normal',' Bulbasaur',' Venusaur'
+3,' Venusaur',NULL,NULL,' Ivysaur',NULL
+4,' Charmander',16,' Normal',' Egg',' Charmeleon'
+5,' Charmeleon',36,' Normal',' Charmander',' Charizard'
+6,' Charizard',NULL,NULL,' Charmeleon',NULL
+7,' Squirtle',16,' Normal',' Egg',' Wartotle'
+8,' Wartotle',36,' Normal',' Squirtle',' Blastoise'
+9,' Blastoise',NULL,NULL,' Wartotle',NULL
+10,' Caterpie',7,' Normal',' Egg',' Metapod'
+11,' Metapod',10,' Normal',' Caterpie',' Butterfree'
+12,' Butterfree',NULL,NULL,' Metapod',NULL
+13,' Weedle',7,' Normal',' Egg',' Kakuna'
+14,' Kakuna',10,' Normal',' Caterpie',' Beedrill'
+15,' Beedrill',NULL,NULL,' Kakuna',NULL
+16,' Pidgey',18,' Normal',' Egg',' Pidgeotto'
+17,' Pidgeotto',36,' Normal',' Pidgey',' Pidgeot'
+18,' Pidgeot',NULL,NULL,' Pidgeotto',NULL
+19,' Rattata',20,' Normal',' Egg',' Raticate'
+20,' Raticate',NULL,NULL,'Rattata',NULL
+21,'Spearow',20,'Normal','Egg','Fearow'
+22,'Fearow',NULL,NULL,'Spearow',NULL
+23,'Ekans',22,'Normal','Egg','Arbok'
+24,'Arbok',NULL,NULL,' Ekans',NULL
+25,'Pikachu',NULL,'Thunderstone','Pichu','Raichu'
+26,'Raichu',NULL,NULL,'Pikachu',NULL
+27,'Sandshrew',22,'Normal','Egg','Sandslah'
+28,'Sandslash',NULL,NULL,'Sandshrew',NULL
+29,' Nidoran',16,'Normal','EggL','Nidorina'
+30,'Nidorina',NULL,' Moon Stone',' Nidoran',' Nidoqueen '
+31,' Nidoqueen',NULL,NULL,' Nidorina',NULL
+32,' Nidoran',16,' Normal',' Egg',' Nidorino'
+33,' Nidorino',NULL,' Moon Stone',' Nidoran',' Nidoqueen'
+34,' Nidoking',NULL,NULL,' Nidorino',NULL
+35,' Clefairy',NULL,' Moon Stone',' Cleffa',' Clefable'
+36,' Clefable',NULL,NULL,' Clefairy',NULL
+37,' Vulpix',NULL,'Moon Stone','Egg','Ninetails'
+38,' Ninetails',NULL,NULL,' Vulpix',NULL
+39,' Jigglypuff',NULL,' Moon Stone',' Igglybuff',' Wigglytuff'
+40,' Wigglytuff',NULL,NULL,' Jigglypuff',NULL
+41,' Zubat',22,'Normal',' Egg',' Golbat'
+42,' Golbat',NULL,' Friendship',' Zubat',' Crobat'
+43,' Oddish',21,' Normal',' Egg',' Gloom'
+44,' Gloom',NULL,' Leaf Stone',' Oddish',' Vileplume'
+45,' Vileplume',NULL,NULL,' Gloom ',NULL
+46,' Paras',24,'Normal','Egg','Parasect'
+47,'Parasect',NULL,NULL,'Paras',NULL
+48,' Venonat',31,'Normal','Egg','Venomoth'
+49,' Venomoth',NULL,NULL,' Venonat',NULL
+50,' Diglett',26,' Normal','Egg',' Dugtrio'
+51,' Dugtrio',NULL,'NULL Diglett',NULL,
+52,'Meowth',28,'Normal','Egg','Persian'
+53,' Persian',NULL,NULL,'Meowth',NULL
+54,' Psyduck',33,' Normal',' Egg','Golduck'
+55,' Golduck',NULL,NULL,' Psyduck',NULL
+56,' Mankey',28,' Normal',' Egg',' Primeape'
+57,'Primeape',NULL,NULL,'Mankey',NULL
+58,' Growlithe',NULL,' Fire Stone',' Egg',' Arcanine'
+59,' Arcanine',NULL,NULL,' Growlithe',NULL
+60,' Poliwag',25,' Normal',' Egg',' Poliwhirl'
+61,' Poliwhirl',NULL,' Water Stone',' Poliwag',' Poliwhirl'
+62,' Poliwrath',NULL,NULL,' Poliwhirl',NULL
+63,' Abra',16,' Normal',' Egg',' Kadabra'
+64,' Kadabra',NULL,' Trade',' Abra',' Alakazam'
+65,' Alakazam',NULL,NULL,' Kadabra',NULL
+66,' Machop',28,' Normal',' Egg',' Machoke'
+67,' Machoke',NULL,' Trade',' Machop',' Machamp'
+68,' Machamp',NULL,NULL,' Machop',NULL
+69,' Bellsprout',21,' Normal',' Egg',' Weepinbell'
+70,' Weepinbell',NULL,' Leaf Stone',' Bellsprout',' Victreebel'
+71,' Victreebel',NULL,NULL,' Weepinbell',NULL
+72,' Tentacool',30,' Normal',' Egg',' Tentacruel'
+73,' Tentacruel',NULL,NULL,' Tenacool',NULL
+74,' Geodude',25,' Normal',' Egg',' Graveler'
+75,' Graveler',NULL,' Trade',' Geodude',' Golem '
+76,' Golem',NULL,NULL,' Graveler',NULL
+77,' Ponyta',40,' Normal','Egg',' Rapidash'
+78,' Rapidash',NULL,NULL,'Ponyta',NULL
+79,' Slowpoke',37,' Normal',' Egg',' Slowbro'
+80,' Slowbro',NULL,NULL,'Slowbro',NULL
+81,' Magnemite',30,'Normal','Egg','Magneton'
+82,'Magneton',NULL,' Chargestone Cave','Magnemite','Magnezone'
+83,'Farfetchd',NULL,NULL,'Egg',NULL
+84,' Doduo',31,'Normal','Egg','Dodrio'
+85,' Dodrio',NULL,NULL,'Doduo',NULL
+86,' Seel',34,' Normal',' Egg',' Dewgong'
+87,' Dewgong',NULL,NULL,' Seel',NULL
+88,' Grimer',38,' Normal',' Egg',' Muk'
+89,' Muk',NULL,NULL,' Grimer',NULL
+90,' Shellder',NULL,' Water Stone',' Egg',' Cloyster'
+91,' Cloyster',NULL,NULL,' Shellder',NULL
+92,' Gastly',22,' Normal',' Egg',' Hunter'
+93,' Hunter',NULL,' Trade',' Gastly',' Gengar'
+94,' Gengar',NULL,NULL,'Hunter',NULL
+95,' Onix',NULL,' Trade holding Metal Coat',' Egg','Steelix'
+96,' Drowzee',26,' Normal',' Egg',' Hypno'
+97,' Hypno',NULL,NULL,'Drowzee',NULL
+98,' Krabby',28,'Normal','Egg','Kingler'
+99,'Kingler',NULL,NULL,'Krabby',NULL
+100,' Voltorb',30,' Normal',' Egg','Electrode'
+101,' Electrode',NULL,NULL,' Voltorb',NULL
+102,' Exeggcute',NULL,' Leaf Stone',' Egg',' Exeggutor'
+103,' Exeggutor',NULL,NULL,'Exeggcute',NULL
+104,' Cubone',28,' Normal',' Egg',' Marowak'
+105,' Marowak',NULL,NULL,'Cubone',NULL
+106,' Hitmonlee',NULL,NULL,' Tyrogue',NULL
+107,' Hitmonchan',NULL,NULL,' Tyrogue',NULL
+108,' Lickitung',NULL,'Level up knowing Rollout',' Egg',' Lickilicky'
+109,' Koffing',35,' Normal',' Egg',' Weezing'
+110,' Weezing',NULL,'NULL Koffing',NULL,
+111,' Rhyhorn',42,'Normal',' Egg',' Rhydon'
+112,' Rhydon',NULL,' Trade holding Protector',' Rhyhorn',' Rhyperior'
+113,' Chansey',NULL,' Friendship',' Happiny',' Blissey'
+114,' Tangela',NULL,' Level up knowing Ancient Power',' Egg',' Tangrowth'
+115,' Kangaskhan',NULL,NULL,'Egg',NULL
+116,' Horsea',32,' Normal',' Egg',' Seadra'
+117,' Seadra',NULL,' Trade holding Dragon Scale',' Horsea',' Kingdra'
+118,' Goldeen',33,' Normal',' Egg',' Seaking'
+119,' Seaking',NULL,NULL,'Goldeen',NULL
+120,' Staryu',NULL,' Water Stone',' Egg',' Starmie'
+121,' Starmie',NULL,NULL,' Staryu',NULL
+122,' Mr.Mime',NULL,NULL,' Mime Jr. ',NULL
+123,' Scyther',NULL,' Trade holding Metal Coat',' Egg','Scizor'
+124,' Jynx',NULL,NULL,' Smoochum',NULL
+125,' Electabuzz',NULL,' Trade holding Electirizer',' Elekid',' Electivire'
+126,' Magmar',NULL,'Trade holding Magmarizer',' Magby',' Magmortar'
+127,' Pinsir',NULL,NULL,' Egg',NULL
+128,' Tauros',NULL,NULL,'Egg',NULL
+129,' Magikarp',20,' Normal',' Egg',' Gyarados'
+130,' Gyarados',NULL,NULL,'Magikarp',NULL
+131,' Lapras',NULL,NULL,'Egg',NULL
+132,' Ditto',NULL,NULL,'Egg',NULL
+133,' Eevee',NULL,'Water Stone',' Egg',' Vaporeon'
+134,' Vaporeon',NULL,NULL,'Eevee',NULL
+137,' Porygon',NULL,' Trade holding Up-Grade',' Unknown',' Porygon2
+138,' Omanyte',40,' Normal ',' Fossil',' Omastar'
+139,' Omastar',NULL,NULL,'Omanyte',NULL
+140,' Kabuto',40,' Normal',' Fossil',' Kabutops'
+141,' Kabutops',NULL,NULL,'Kabuto',NULL
+142,' Aerodactyl',NULL,NULL,'Fossil',NULL
+143,' Snorlax',NULL,NULL,'Munchlax',NULL
+144,' Articuno',NULL,NULL,'Unknown',NULL
+145,' Zapdos',NULL,NULL,'Unknown',NULL
+146,' Moltres',NULL,NULL,'Unknown',NULL
+147,' Dratini',30,' Normal',' Egg',' Dragonair'
+148,' Dragonair',55,' Normal',' Dratini',' Dragonite'
+149,' Dragonite',NULL,NULL,'Dragonair',NULL
+150,' Mewtwo',NULL,NULL,'Unknown',NULL
+151,' Mew',NULL,NULL,'Unknown',NULL
+165,' Ledyba',18,' Normal',' Egg',' Ledian'
+166,' Ledian',NULL,NULL,'Ledyba',NULL
+169,' Crobat',NULL,NULL,'Golbat',NULL
+172,'Pichu',NULL,'Friendship','Egg','Pikachu'
+173,' Cleffa',NULL,'Friendship','Egg','Clefairy'
+174,' Igglypuff',NULL,' Friendship',' Egg',' Jigglypuff'
+191,' Sunkern',NULL,' Sun Stone',' Egg',' Sunflora'
+192,' Sunflora',NULL,NULL,'Sunkern',NULL
+202,' Wobbuffet',NULL,NULL,' Wynaut',NULL
+203,' Girafarig',NULL,NULL,'Egg',NULL
+208,' Steelix',NULL,NULL,'Onix',NULL
+212,' Scizor',NULL,NULL,'Scyther',NULL
+214,' Heracross',NULL,NULL,'Egg',NULL
+215,' Sneasel',NULL,' Level up holding Razor Claw',' Egg','Weaville'
+227,' Skarmory',NULL,NULL,'Egg',NULL
+228,' Houndour',24,' Normal',' Egg',' Houndoom'
+229,' Houndoom',NULL,NULL,'Houndour',NULL
+230,' Kingdra',NULL,NULL,'Seadra',NULL
+233,' Porygon2,NULL,' Trade with Dubious Disc',' Porygon',' Porygon-Z'
+236,' Tyrogue',20,' Attack > Defense',' Egg','Hitmonlee'
+238,' Smoochum',30,'Normal',' Egg',' Jynx'
+239,' Elekid',30,'Normal',' Egg',' Electabuzz'
+240,' Magby',30,' Normal',' Egg',' Magmar'
+241,' Miltank',NULL,NULL,'Egg',NULL
+242,' Blissey',NULL,NULL,'Chansey',NULL
+258,' Mudkip',16,' Normal',' Egg',' Marshtomp'
+259,' Marshtomp',36,' Normal',' Mudkip',' Swampert'
+260,' Swampert',NULL,NULL,'Marshtomp',NULL
+265,'Wurmple',7,'Normal',' Egg',' silcoon'
+266,'Silcoon',10,'Normal',' Wurmple','Beautifly'
+267,' Beautifly',NULL,NULL,'Silcoon',NULL
+273,' Seedot',14,' Normal',' Egg',' Nuzleaf'
+274,' Nuzleaf',NULL,' Leaf Stone',' Seedot',' Shiftry'
+275,' Shiftry',NULL,NULL,'Nuzleaf',NULL
+278,' Wingull',25,' Normal',' Egg',' Pelipper'
+279,' Pelipper',NULL,NULL,'Wingull',NULL
+287,' Slakoth',18,' Normal',' Egg',' Vigoroth'
+288,' Vigoroth',36,' Normal',' Slakoth',' Slaking'
+289,' Slaking',NULL,NULL,' Vigoroth',NULL
+300,' Skitty',NULL,' Moon Stone',' Egg',' Delcatty'
+301,' Delcatty',NULL,NULL,'Skitty',NULL
+302,'Sableye',NULL,NULL,'Egg',NULL
+311,' Plusle',NULL,NULL,'Egg',NULL
+314,' Illumise',NULL,NULL,'Egg',NULL
+320,' Wailmer',40,' Normal',' Egg',' Wailord'
+321,' Wailord',NULL,NULL,' Wailmer',NULL
+324,' Torkoal',NULL,NULL,' Egg',NULL
+327,' Spinda',NULL,NULL,' Egg',NULL
+333,' Swablu',35,' Normal',' Egg',' Altaria'
+334,' Altaria',NULL,NULL,'Swablu',NULL
+337,' Lunatone',NULL,NULL,' Unknown',NULL
+347,' Anorith',40,' Normal',' Fossil',' Armaldo'
+348,' Armaldo',NULL,NULL,'Anorith',NULL
+349,' Feebas',NULL,' Level up with High Beauty','Egg',' Milotic'
+350,' Milotic',NULL,NULL,' Feebas',NULL
+360,' Wynaut',15,' Normal',' Egg',' Wobbuffet'
+387,' Turtwig',18,' Normal',' Egg',' Grottle'
+388,' Grottle',32,' Normal',' Turtwig',' Torterra'
+389,' Torterra',NULL,NULL,'Grottle',NULL
+390,' Chimchar',14,' Normal',' Egg',' Monferno'
+391,' Monferno',36,' Normal',' Chimchar',' Infernape'
+392,' Infernape',NULL,NULL,' Monferno',NULL
+431,' Glameow',38,' Normal',' Egg',' Purugly'
+432,' Purugly',NULL,NULL,'Glameow',NULL
+439,' Mime Jr. ',NULL,' Level up knowing Mimic',' Egg',' Mr.Mime'
+440,' Happiny',NULL,' Level up holding Oval Stone(Daytime)',' Egg',' Chansey'
+446,' Munchlax',NULL,'Friendship','Egg','Snorlax'
+447,' Riolu',NULL,' Friendship(Daytime)',' Egg',' Lucario'
+448,' Lucario',NULL,NULL,' Riolu',NULL
+461,' Weavile',NULL,NULL,'Sneasel',NULL
+462,' Magnezone',NULL,NULL,'Magneton',NULL
+463,' Lickilicky',NULL,NULL,'Lickitung',NULL
+464,' Rhyperior',NULL,NULL,'Rhydon',NULL
+465,' Tangrowth',NULL,NULL,'Tangela',NULL
+466,' Electivire',NULL,NULL,' Electabuzz',NULL
+467,' Magmortar',NULL,NULL,'Magmar',NULL
+474,' Porygon-Z',NULL,NULL,'Porygon2,NULL
+501,'Oshawott',17,' Normal',' Egg',' Dewott'
+502,' Dewott',36,' Normal',' Oshawott',' Samurott'
+503,'Samurott',NULL,NULL,'Dewott',NULL
+504,' Patrat',20,'Normal','Egg',' Watchog'
+505,' Watchog',NULL,NULL,'Patrat',NULL
+548,' Petilil',NULL,' Sun Stone',' Egg',' Lilligant'
+549,' Lilligant',NULL,NULL,'Petilil',NULL
+561,' Sigilyph',NULL,NULL,' Egg',NULL
+580,' Ducklett',35,'Normal','Egg',' Swanna'
+581,' Swanna',NULL,NULL,'Swanna',NULL
+587,' Emolga',NULL,NULL,'Egg',NULL
+621,' Drudigon',NULL,NULL,' Egg',NULL
+650,' Chespin',16,' Normal','Egg','Quilladin'
+651,' Quilladin',36,'Normal','Chespin','Chesnaught'
+652,' Chesnaught',NULL,NULL,' Quilladin',NULL
+664,' Scatterbug',9,'Normal','Egg','Spewpa'
+665,'Spewpa',12,'Normal','Scatterbug','Vivillon'
+666,'Vivillon',NULL,NULL,'Spewpa',NULL
+698,' Amaura',39,'Evolve at night',' Egg',' Aurorus'
+699,' Aurorus',NULL,NULL,'Amaura',NULL
