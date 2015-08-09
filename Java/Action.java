@@ -153,8 +153,9 @@ public class Action {
 
 			// Execute the query output the results of the trainers
 			String trainerQuery = ""
-			  +	"SELECT DISTINCT trainerName "
-			  + "FROM Trainer";
+			  + "SELECT DISTINCT trainerName "
+			  + "FROM Trainer "
+			  + "ORDER BY trainerName";
 			 s.executeQuery(trainerQuery);
 			 ResultSet results = s.getResultSet();
 
