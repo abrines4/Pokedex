@@ -231,14 +231,15 @@ public class Action {
 			return "Unsuccessful deletion " + pokemonID;
 		}
 	}
-
+	//Delete the specified Attack from the Attack, Performs and Learn Tables.
 	public String deleteAttack(){
-		
+		//Reads in input from the user.
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the name of the Attack you would like to delete: ");
 		String attack = scan.nextLine();
 		try{
 		System.out.println(attack);
+		// Delete the specified attack from the following tables.
 		s.executeUpdate("DELETE FROM Attack WHERE '" + attack +"' = attackName");
 		s.executeUpdate("DELETE FROM Performs WHERE '" + attack +"' = attackName");
 		s.executeUpdate("DELETE FROM Learn WHERE '" + attack +"' = attackName");
@@ -246,6 +247,7 @@ public class Action {
 		return "Successful deletion of attack: " + attack;
 		}
 		catch(SQLException e){
+			//Catch any exceptions thrown from the MySQL Server.
 			System.err.println ("Error message: " + e.getMessage ());
 			System.err.println ("Error number: " + e.getErrorCode ());
 			return "Unsuccessful deletion of attack: " + attack;
