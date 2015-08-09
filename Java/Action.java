@@ -154,6 +154,7 @@ public class Action {
     
 	public String listAttackOfGLPoke() { // List of all attacks used by gym leaders’ pokemon
     String leader_Name;
+    String attackName;
     String query_leaders =
     	"SELECT leaderName " +
     	"FROM Gym";
@@ -180,7 +181,7 @@ public class Action {
         );
         System.out.println("all attacks performed by " + leader_Name + " are listed as follows: ");
         while (rs_listAttackOfGLPoke.next()) {
-            String attackName = rs_listAttackOfGLPoke.getString("attackName");
+            attackName = rs_listAttackOfGLPoke.getString("attackName");
             System.out.println(attackName + "\t");
         }
 
@@ -194,24 +195,27 @@ public class Action {
 	}
     }
     
-    /*
-    public int countAttackOfPoke() {	
+    
+    public String countAttackOfPoke() {	
         String pokemon_Name;
         int countAttackOfPoke;
-        String query_listAttackOfGLPoke = 
-        "SELECT COUNT(DISTINCT Performs.attackName) AS Total_attack_number " +
-        "FROM Performs, Pokemon " +
-        "WHERE Pokemon.pokemonID = ( " +
-        	  "SELECT Pokemon.pokemonID " + 
-        	  "FROM Pokemon " +
-        	  "WHERE Pokemon.pokemonName = " + pokemon_Name ;
-           
+              
     try {
     	System.out.println("Please enter a pokemon name: ");
         Scanner scan = new Scanner(System.in);
         pokemon_Name = scan.nextLine();
-        countAttackOfPoke = s.executeQuery(query_listAttackOfGLPoke);
-        System.out.println("The total number of attacks which " + pokemon_Name + " can perform is " + countAttackOfPoke);
+        ResultSet rs_countAttackOfPoke = s.executeQuery(
+        	"SELECT COUNT(DISTINCT Performs.attackName) AS Total_attack_number " +
+            "FROM Performs NATURAL JOIN Pokemon " +
+            "WHERE Performs.pokemonID = ( " +
+        	  "SELECT Pokemon.pokemonID " + 
+        	  "FROM Pokemon " +
+        	  "WHERE Pokemon.pokemonName = '" + pokemon_Name + "')"
+        );
+        while (rs_countAttackOfPoke.next()) {
+                countAttackOfPoke = rs_countAttackOfPoke.getInt("Total_attack_number");
+                System.out.println("The total number of attacks which " + pokemon_Name + " can perform is " + countAttackOfPoke);
+            }
         return "Successful search";
     }
     
@@ -221,26 +225,4 @@ public class Action {
 		return "Unsuccessful search";
 	}   
     }
-    */
-
-    /*
-   s.executeQuery ("SELECT id, name, category FROM animal");
-   ResultSet rs = s.getResultSet ();
-   int count = 0;
-   while (rs.next ())
-   {
-       int idVal = rs.getInt ("id");
-       String nameVal = rs.getString ("name");
-       String catVal = rs.getString ("category");
-       System.out.println (
-               "id = " + idVal
-               + ", name = " + nameVal
-               + ", category = " + catVal);
-       ++count;
-   }
-   rs.close ();
-   s.close ();
-   System.out.println (count + " rows were retrieved");	
-   */	
-
 }
