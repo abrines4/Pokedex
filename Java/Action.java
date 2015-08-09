@@ -5,7 +5,7 @@ public class Action {
 	private Statement s;
 	
 	public Action(Statement conn) {s = conn;}
-	
+/*	
 	public void resetDB(){
 
 		// Drop tables & Reupload files.
@@ -16,7 +16,7 @@ public class Action {
 				// Create a buffereader to read insertSynthetic.sql
 				String update = ""; 
 				String line = "";
-				FileReader fileReader = new FileReader("insertSynthetic.sql");
+				FileReader fileReader = new FileReader("insertAllRealData.sql");
 				BufferedReader bufferedReader = new BufferedReader(fileReader);
 				while ((line = bufferedReader.readLine()) != null) {
 					
@@ -55,7 +55,7 @@ public class Action {
        		System.err.println ("Error number: " + e.getErrorCode ());
 		}
 	}
-	
+	*/
 	public String queryStatistics1(){
     	try{
 			System.out.print("\n Look up for the pokemon and show its 'name' and 'hp' attribute.\n" );
@@ -305,7 +305,7 @@ public class Action {
 		}
 	}
     
-	public String listAttackOfGLPoke() { // List of all attacks used by gym leaders’ pokemon
+	public String listAttackOfGLPoke() { // List of all attacks performed by gym leaders’ pokemon
     String leader_Name;
     String attackName;
     String query_leaders =
@@ -332,7 +332,7 @@ public class Action {
         	"WHERE trainerName = '" + leader_Name +    // attention to ''. SQL command should be trainerName = 'leader_Name' 
         	"' ) ORDER BY attackName"
         );
-        System.out.println("all attacks performed by " + leader_Name + " are listed as follows: ");
+        System.out.println("all attacks performed by " + leader_Name + "'s pokemon(s) are listed as follows: ");
         while (rs_listAttackOfGLPoke.next()) {
             attackName = rs_listAttackOfGLPoke.getString("attackName");
             System.out.println(attackName + "\t");
