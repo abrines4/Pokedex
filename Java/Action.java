@@ -252,9 +252,10 @@ public class Action {
 			ResultSet result = s.getResultSet();
 			int count = 0;
 			System.out.print('\n');
+			System.out.println("pokemonName");
 			while(result.next()){
 				System.out.print(result.getString("pokemonName"));
-				if(!result.isLast()) System.out.print(", ");
+				if(!result.isLast()) System.out.print(", \n");
 				count++;
 			} 
 
