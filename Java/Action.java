@@ -6,6 +6,56 @@ public class Action {
 	
 	public Action(Statement conn) {s = conn;}
 	
+	public void resetDB(){
+
+		// Drop tables & Reupload files.
+		try {
+			
+			try{
+				
+				// Create a buffereader to read insertSynthetic.sql
+				String update = ""; 
+				String line = "";
+				FileReader fileReader = new FileReader("insertSynthetic.sql");
+				BufferedReader bufferedReader = new BufferedReader(fileReader);
+				while ((line = bufferedReader.readLine()) != null) {
+					
+					// Check to make sure new line isn't empty
+					if (!line.isEmpty()) {
+						
+
+						if(line.charAt(0) != '#') {
+							// Append the line to the update string.
+							update += line;
+						}
+						
+						// Check to see if everything wasn't all just a comment...
+						if(update.charAt(line.length()-1) == '/' && update.charAt(line.length()-2) == '*') {
+							update = "";
+						} 
+						
+						// Check to see if instead, line reached the end of a query or update.
+						else if(update.charAt(line.length()-1) == ';') {							
+							s.executeUpdate(update);		
+							// Reset the update string
+							update = "";	
+						}		
+					}
+				}
+			}
+
+			catch(IOException e) {
+				System.err.println ("Error");
+			}
+			//s.execute("source createTable.sql");
+			//s.execute("source insertSynthetic.sql");
+		} 
+		catch(SQLException e){
+			System.err.println ("Error message: " + e.getMessage ());
+       		System.err.println ("Error number: " + e.getErrorCode ());
+		}
+	}
+	
 	public String queryStatistics1(){
     	try{
 			System.out.print("\n Look up for the pokemon and show its 'name' and 'hp' attribute.\n" );
@@ -153,8 +203,9 @@ public class Action {
 
 			// Execute the query output the results of the trainers
 			String trainerQuery = ""
-			  +	"SELECT DISTINCT trainerName "
-			  + "FROM Trainer";
+			  + "SELECT DISTINCT trainerName "
+			  + "FROM Trainer "
+			  + "ORDER BY trainerName";
 			 s.executeQuery(trainerQuery);
 			 ResultSet results = s.getResultSet();
 
@@ -174,8 +225,8 @@ public class Action {
 
 			// Update the Trainer
 			s.executeUpdate("UPDATE Trainer "
-			  + "SET trainerType = " + trainerType + " "
-			  + "WHERE trainerName = " + trainerChoice);
+			  + "SET trainerType = '" + trainerType + "' "
+			  + "WHERE trainerName = '" + trainerChoice + "'");
 
 			// Working example:
 			// UPDATE Trainer SET trainerType = 'test' WHERE trainerName = 'Zoey';
