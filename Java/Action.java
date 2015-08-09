@@ -208,11 +208,12 @@ public class Action {
 	}
 	
 	public String deletePokemon(){
-    
+		//asks user for pokemon ID for deletion
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the ID number of the Poekmon you would like to delete: ");
 		int pokemonID = scan.nextInt();
 		try{
+		//ddeletes pokemon from all necessary tables
 		s.executeUpdate("DELETE FROM Pokemon WHERE "+ pokemonID +" =  pokemonID ");
 		s.executeUpdate("DELETE FROM Owns WHERE "+ pokemonID +" =  pokemonID ");
 		s.executeUpdate("DELETE FROM Performs WHERE "+ pokemonID +" =  pokemonID ");
@@ -224,13 +225,14 @@ public class Action {
 		return "Successful deletion " + pokemonID;
 		}
 		catch(SQLException e){
+		//catches any sql errors
 			System.err.println ("Error message: " + e.getMessage ());
        			System.err.println ("Error number: " + e.getErrorCode ());
 			return "Unsuccessful deletion " + pokemonID;
 		}
 	}
 
-		public String deleteAttack(){
+	public String deleteAttack(){
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the name of the Attack you would like to delete: ");
