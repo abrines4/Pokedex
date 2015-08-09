@@ -54,6 +54,8 @@ public class Menu{
 					break;
 				case 5:
 					//Call Mason's count
+				    String result_5 = action.countAttackOfPoke();
+					System.out.println(result_5);	
 					break;
 				case 6:
 					//Call Landon's update (Update trainerType)

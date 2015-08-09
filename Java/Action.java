@@ -212,7 +212,13 @@ public class Action {
         	  "FROM Pokemon " +
         	  "WHERE Pokemon.pokemonName = '" + pokemon_Name + "')"
         );
-        while (rs_countAttackOfPoke.next()) {
+        // The default situation is that cursor is positioned before the first row and then requesting data. we need to move the cursor to the first row. That why we do rs.next(). We can write in the following way as well.
+       /*
+       rs_countAttackOfPoke.next();
+       countAttackOfPoke = rs_countAttackOfPoke.getInt("Total_attack_number");
+       System.out.println("The total number of attacks which " + pokemon_Name + " can perform is " + countAttackOfPoke);
+       */
+        while (rs_countAttackOfPoke.next()) {   
                 countAttackOfPoke = rs_countAttackOfPoke.getInt("Total_attack_number");
                 System.out.println("The total number of attacks which " + pokemon_Name + " can perform is " + countAttackOfPoke);
             }
