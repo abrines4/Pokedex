@@ -22,8 +22,8 @@ public class Menu{
 		
 		while(true){
 			try{
-			System.out.print("\n1:  Look up a Pokemon based on Statistics\n");
-			System.out.print("2:  Look up Pokemon that appear in any gym\n");
+			System.out.print("\n1:  Look up a Pokemon based on specific Statistics\n");
+			System.out.print("2:  Look up Pokemon that appear in specific gym\n");
 			System.out.print("3:  Look up popular Pokemon (pokemon owned by more than one Trainer)\n");
 			System.out.print("4:  Look up all the attacks a Gym Leader's Pokemon can perform\n");
 			System.out.print("5:  Count how many attacks a Pokemon can perform\n");
@@ -38,6 +38,8 @@ public class Menu{
 			switch(choice){
 				case 1: 
 					//Call Patrick's selection
+					String result_1 = action.queryStatistics1();
+					System.out.println(result_1);
 					break;
 				case 2:
 					//Call Patrick's selection
