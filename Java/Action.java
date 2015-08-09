@@ -56,30 +56,35 @@ public class Action {
 		}
 	}
 	*/
+	// execute queries based on the pokemon's statistics.
 	public String queryStatistics1(){
     	try{
 			System.out.print("\n Look up for the pokemon and show its 'name' and 'hp' attribute.\n" );
 			System.out.print(" You can find pokemons who has a specific weakness.\n"); 
 			System.out.print("Fire = 1, Water = 2, Ice = 3, Flying = 4, Steel = 5 \n");
 			System.out.print("Please enter the value for weakness: ");
-			Scanner scan = new Scanner(System.in);
-			int weakNUM = scan.nextInt();
-			String weakAttr;
+			Scanner scan = new Scanner(System.in);		// read user input
+			int weakNUM = scan.nextInt();				
+			String weakAttr;							
 
+			// change the reader's choice to the real string value
 			switch(weakNUM){
 				case 1:		weakAttr = "Fire";		break;
 				case 2:		weakAttr = "Water";		break;
 				case 3:		weakAttr = "Ice";		break;
-				case 4:		weakAttr = "Flying";		break;
+				case 4:		weakAttr = "Flying";	break;
 				case 5:		weakAttr = "Steel";		break;				 
 				default:	weakAttr = "Fire";	
 			}
 
 			System.out.print(" \nThen, you can find the pokemons whose defense value is lower than a value (1~10).\n"); 
 			System.out.print("Please enter the value for defense: ");
-			Scanner scan1 = new Scanner(System.in);
+			Scanner scan1 = new Scanner(System.in);		// read user input
 			int defNUM = scan1.nextInt();
 			
+			
+			// subquery = list the ID of pokemon who has a specific weakness.
+			// Then, find the pokemons whose defense value is lower than a specific value.
 			String query =  " SELECT pokemonID, pokemonName, hp " + 
 							" FROM Pokemon NATURAL JOIN Statistics AS T1 " + 
 							" WHERE defense < " + defNUM + 
@@ -87,22 +92,22 @@ public class Action {
 												" FROM Weaknesses " + 
 												" WHERE weakness = '"+weakAttr+ "' ) "; 
 							
-
+			// store the result of query in the ResultSet	
 			ResultSet rs1 = s.executeQuery(query);
 
 			// print query result
-			int counter =0;
 			System.out.print('\n');
 			System.out.println( "pokemonID\t pokemonName\t hp\n" );
 			while ( rs1.next()) {	
 				int 	pID = rs1.getInt("pokemonID");
 				String 	pName = rs1.getString("pokemonName");
-            	int 	pHP = rs1.getInt("hp");
-            	System.out.println( pID + "\t\t" + pName + "\t" + pHP );
+            			int 	pHP = rs1.getInt("hp");
+            			System.out.println( pID + "\t\t" + pName + "\t" + pHP );
 			}
 			System.out.print('\n');
 			return "Successful query for queryStatistics1.";
 		}
+		// catch exceptions
 		catch(SQLException e){
 			System.err.println ("Error message: " + e.getMessage ());
        			System.err.println ("Error number: " + e.getErrorCode ());
@@ -110,49 +115,56 @@ public class Action {
 		}
 	}
 
+	// execute query to find the pokemons that appear in the specific gym.
 	public String queryGym(){
     	try{
 			System.out.print("\n Look up for the pokemon that appear in the specific gym.\n" );
-			System.out.print("Choices for gyms: Icirrus = 1, Pewter = 2, Dewford = 3 \n");
+			System.out.print("Choices for gyms: Icirrus = 1, Pewter = 2, Dewford = 3, Celadon = 4, Olivine = 5. \n");
 			System.out.print("Please enter the number for gym: ");
 			Scanner scan = new Scanner(System.in);
 			int gymNUM = scan.nextInt();
 			String gymAttr;
 
+			// change the reader's choice to the real string value
 			switch(gymNUM){
 				case 1:		gymAttr = "Icirrus";		break;
 				case 2:		gymAttr = "Pewter";		break;
-				case 3:		gymAttr = "Dewford";		break;		 
+				case 3:		gymAttr = "Dewford";		break;
+				case 4:		gymAttr = "Celadon";		break;
+				case 5:		gymAttr = "Olivine";		break;
 				default:	gymAttr = "Icirrus";	
 			}
-			
+			// subquery = find the pokemon that appeas in the specific gym
+			// use NATURAL JOIN to find the pokemonName
 			String query =  " SELECT gymName, pokemonID, pokemonName " + 
 							" FROM Pokemon AS T1 NATURAL JOIN " + 
 								" (SELECT gymName, pokemonID " + 
 								" FROM Appears_In NATURAL JOIN Gym " +  
 								" WHERE gymName= '"+ gymAttr+ "' ) AS T2 ";
-
+			
+			// store the result of query in the ResultSet	
 			ResultSet rs2 = s.executeQuery(query);
 
 			// print query result
-			int counter =0;
 			System.out.print('\n');
 			System.out.println( "gymName\t pokemonID\tpokemonName\t \n" );
 			while ( rs2.next()) {	
 				String 	gName = rs2.getString("gymName");
 				int 	pID = rs2.getInt("pokemonID");
 				String 	pName = rs2.getString("pokemonName");
-            	System.out.println( gName + "\t\t"  + pID + "\t" + pName);
+            			System.out.println( gName + "\t\t"  + pID + "\t" + pName);
 			}
 			System.out.print('\n');
 			return "Successful query for queryGym.";
-		}
+		}				
+		// catch exceptions
 		catch(SQLException e){
 			System.err.println ("Error message: " + e.getMessage ());
        			System.err.println ("Error number: " + e.getErrorCode ());
 			return "Unsuccessful queryGym";
 		}
 	}
+	
 	
 	public String multipleOwners() {
 		try {
