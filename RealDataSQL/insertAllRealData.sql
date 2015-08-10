@@ -3,8 +3,6 @@ DROP TABLE Appears_In, Attack, Badges, Evolution, Gym, Learn, Owns, Performs, Po
 
 source ../SQL-Scripts/createTable.sql;
 
-tee insertRealDataLog.txt;
-
 # insert data into Appears_In tables 
 INSERT INTO Appears_In VALUES(75,'Pewter');
 INSERT INTO Appears_In VALUES(9,'Cerulean');

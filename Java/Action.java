@@ -320,6 +320,7 @@ public class Action {
 	public String listAttackOfGLPoke() { // List of all attacks performed by gym leaders’ pokemon
     String leader_Name;
     String attackName;
+    String pokemon_Name;
     String query_leaders =
     	"SELECT leaderName " +
     	"FROM Gym";
@@ -339,14 +340,35 @@ public class Action {
         Scanner scan = new Scanner(System.in);
         leader_Name = scan.nextLine();
         // use Resultset to collect SQL query result
+        // display all gym leaders
+        ResultSet rs_listGLPoke = s.executeQuery(
+        "SELECT pokemonName " +
+        "From Pokemon " +
+        "WHERE pokemonID IN ( " +
+        "SELECT pokemonID " +
+        "FROM Owns " +
+        "WHERE trainerName = '" + leader_Name +    // attention to ''. SQL command should be trainerName = 'leader_Name' 
+        "' ) ORDER BY pokemonName"
+        );
+        System.out.println("You have chosen " + leader_Name + ".");
+        System.out.println("all pokemons owned by " + leader_Name + " are listed as follows: ");
+        // rs_listAttackOfGLPoke is a resultset object. we use while loop to go through all the results
+        //list all pokemons belongs to that gym leader which user has chosen
+        while (rs_listGLPoke.next()) {
+            pokemon_Name = rs_listGLPoke.getString("pokemonName");
+            System.out.println(pokemon_Name + "\t");
+        }
+        System.out.println("Please enter a pokemon name: ");
+        scan = new Scanner(System.in);
+        pokemon_Name = scan.nextLine();
         ResultSet rs_listAttackOfGLPoke = s.executeQuery(
         "SELECT DISTINCT attackName " + 
         "FROM Performs " +
         "WHERE pokemonID IN ( " +
         	"SELECT pokemonID " +
-        	"FROM Owns " +
-        	"WHERE trainerName = '" + leader_Name +    // attention to ''. SQL command should be trainerName = 'leader_Name' 
-        	"' ) ORDER BY attackName"
+        	"From Pokemon " +
+        	"WHERE pokemonName =  '" + pokemon_Name + 
+        	"') ORDER BY attackName"
         );
         System.out.println("all attacks performed by " + leader_Name + "'s pokemon(s) are listed as follows: ");
         // rs_listAttackOfGLPoke is a resultset object. we use while loop to go through all the results
