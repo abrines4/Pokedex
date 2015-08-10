@@ -336,11 +336,31 @@ public class Action {
 	}
 	
 	public String deletePokemon(){
+	
+		try{
+
+		// Provide the user with a list of pokemon
+			Scanner scan = new Scanner(System.in);
+			System.out.print("Here is a list of the Pokemon known: \n \n");
+
+			// Execute the query output the results of the pokemon
+			String pokemonQuery = ""
+			  + "SELECT DISTINCT pokemonName, pokemonID "
+			  + "FROM Pokemon "
+			  + "ORDER BY pokemonName";
+			 s.executeQuery(pokemonQuery);
+			 ResultSet results = s.getResultSet();
+
+			// output the results of the pokemon
+			while(results.next()){
+				System.out.print(results.getString("pokemonName") + ", ");
+				System.out.println(results.getInt("pokemonID"));
+			} System.out.print("\n \n");
+
 		//asks user for pokemon ID for deletion
-		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the ID number of the Poekmon you would like to delete: ");
 		int pokemonID = scan.nextInt();
-		try{
+		
 		//ddeletes pokemon from all necessary tables
 		s.executeUpdate("DELETE FROM Pokemon WHERE "+ pokemonID +" =  pokemonID ");
 		s.executeUpdate("DELETE FROM Owns WHERE "+ pokemonID +" =  pokemonID ");
@@ -356,8 +376,9 @@ public class Action {
 		//catches any sql errors
 			System.err.println ("Error message: " + e.getMessage ());
        			System.err.println ("Error number: " + e.getErrorCode ());
-			return "Unsuccessful deletion " + pokemonID;
+			return "Unsuccessful deletion.";
 		}
+	
 	}
 	//Delete the specified Attack from the Attack, Performs and Learn Tables.
 	public String deleteAttack(){
