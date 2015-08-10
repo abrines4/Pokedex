@@ -31,8 +31,7 @@ public class Menu{
 			System.out.println("7:  Update a Pokemon's statistics");
 			System.out.println("8:  Delete a Pokemon");
 			System.out.println("9:  Delete an attack");
-			System.out.println("10: Insert a Trainer");
-			System.out.println("11: Quit");
+			System.out.println("10: Quit");
 			System.out.print("Choose one of the above options: ");
 			Scanner scan = new Scanner(System.in);
 			int choice = scan.nextInt();
@@ -82,11 +81,6 @@ public class Menu{
 					System.out.println(result);
 					break;
 				case 10:
-					//Call Ana's insertion
-					String result = action.insertTrainer();
-					System.out.println(result);
-					break;
-				case 11:
 					//Call quit
 					//close connection
 					conn.close();
