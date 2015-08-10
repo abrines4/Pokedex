@@ -22,16 +22,17 @@ public class Menu{
 		
 		while(true){
 			try{
-			System.out.print("\n1:  Look up a Pokemon based on specific Statistics\n");
-			System.out.print("2:  Look up Pokemon that appear in specific gym\n");
-			System.out.print("3:  Look up popular Pokemon (pokemon owned by more than one Trainer)\n");
-			System.out.print("4:  Look up all the attacks a Gym Leader's Pokemon can perform\n");
-			System.out.print("5:  Count how many attacks a Pokemon can perform\n");
-			System.out.print("6:  Update a Trainer's type\n");
-			System.out.print("7:  Update a Pokemon's statistics\n");
-			System.out.print("8:  Delete a Pokemon\n");
-			System.out.print("9:  Delete an attack\n");
-			System.out.print("10: Quit\n");
+			System.out.println("\n1:  Look up a Pokemon based on specific Statistics");
+			System.out.println("2:  Look up Pokemon that appear in specific gym");
+			System.out.println("3:  Look up popular Pokemon (pokemon owned by more than one Trainer)");
+			System.out.println("4:  Look up all the attacks a Gym Leader's Pokemon can perform");
+			System.out.println("5:  Count how many attacks a Pokemon can perform");
+			System.out.println("6:  Update a Trainer's type");
+			System.out.println("7:  Update a Pokemon's statistics");
+			System.out.println("8:  Delete a Pokemon");
+			System.out.println("9:  Delete an attack");
+			System.out.println("10: Insert a Trainer");
+			System.out.println("11: Quit");
 			System.out.print("Choose one of the above options: ");
 			Scanner scan = new Scanner(System.in);
 			int choice = scan.nextInt();
@@ -81,6 +82,11 @@ public class Menu{
 					System.out.println(result);
 					break;
 				case 10:
+					//Call Ana's insertion
+					String result = action.insertTrainer();
+					System.out.println(result);
+					break;
+				case 11:
 					//Call quit
 					//close connection
 					conn.close();
